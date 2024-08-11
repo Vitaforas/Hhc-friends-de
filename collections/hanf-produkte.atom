@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/hanf-produkte.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-03-19T20:22:39+01:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/8596657340752</id>
+    <published>2024-03-19T20:22:39+01:00</published>
+    <updated>2024-03-19T20:22:39+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/bio-hanfol"/>
+    <title>Bio Hanföl</title>
+    <s:type></s:type>
+    <s:vendor>Canapuff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/Hanfoel_bio_hanf_natur_cannabis_oel.png?v=1710876038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Canapuff<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            8.97 - 22.97
+            <a href="https://hhcfriends.de/products/bio-hanfol">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong _msttexthash="2580045" _msthash="27121" data-mce-fragment="1">Preisgekröntes Hanföl aus Bioland-Anbau in Rohkost-Qualität!</strong><br data-mce-fragment="1"></p>
+<p _msttexthash="118868867" _msthash="27122" data-mce-fragment="1">Das kaltgepresste Hanföl, ausgezeichnet mit dem Goldenen Preis 2021 der Deutschen Landwirtschafts-Gesellschaft e.V. (DLG), wird sorgfältig ausgewählten Hanfsorten hergestellt. Es besticht durch seinen angenehm milden, nussigen Geschmack und enthält einen hohen Anteil an ungesättigten Fettsäuren, die es als einziges Pflanzenöl in optimaler Zusammensetzung bietet. Hanföl ist cholesterinfrei und ein unverzichtbarer Bestandteil für die vollwertige, kalte Küche.</p>
+<p _msttexthash="6050694" _msthash="27123" data-mce-fragment="1">Aufgrund seiner Eigenschaften ist es jedoch nicht für starke Erhitzen (Braten, Frittieren) geeignet.</p>
+<p data-mce-fragment="1"><span _msttexthash="2193503" _msthash="27124" data-mce-fragment="1" _mstmutation="1"><em data-mce-fragment="1" _mstmutation="1">Herkunft: Europa: Deutschland</em><br data-mce-fragment="1" _mstmutation="1"><em data-mce-fragment="1" _mstmutation="1">Hergestellt in Deutschland</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8596657340752</id>
+      <title>100ml</title>
+      <s:price currency="EUR">8.97</s:price>
+      <s:sku>1073</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8596657340752</id>
+      <title>250ml</title>
+      <s:price currency="EUR">13.97</s:price>
+      <s:sku>1074</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8596657340752</id>
+      <title>500ml</title>
+      <s:price currency="EUR">22.97</s:price>
+      <s:sku>1075</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8551920828752</id>
+    <published>2024-03-19T19:28:49+01:00</published>
+    <updated>2024-03-19T19:28:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hanf-musli-schoko-krunch-450g"/>
+    <title>Hanf Müsli Schoko Krunch 450g</title>
+    <s:type></s:type>
+    <s:vendor>Canapuff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/schoko_muesli_crunchy_hanfmuesli_cannabis.png?v=1710872860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Canapuff<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            11.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span _msttexthash="499700903" _msthash="26131" data-mce-fragment="1" _mstmutation="1">Mit dem Hanfmüsli Schoko-Krunch knuspert das Frühstück so richtig schokoladig. Kein Wunder, schließlich enthält es nicht nur knackige Hanf-Krunchies, die aus geschälten Hanfsamen, Kokosflocken und karamellisierten Kokosblütenzucker bestehen, sondern auch zartschmelzenden Schokodrops. Verfeinert mit Chiasamen und Feigenwürfeln bilden die ausgewählten Zutaten ein SUPERFrühstücksmüsli - für den bewussten und genussvollen Start in den Tag. <br _istranslated="1" data-mce-fragment="1" _mstmutation="1"><br _istranslated="1" data-mce-fragment="1" _mstmutation="1"><br _istranslated="1" data-mce-fragment="1" _mstmutation="1">Die raffinierte Zutat: Gekeimte Gerstenflocken sorgen für einen wunderbar süßen Geschmack - auf rein natürliche Art. <br _istranslated="1" data-mce-fragment="1" _mstmutation="1"><br _istranslated="1" data-mce-fragment="1" _mstmutation="1">Zutaten: Sojaflocken* 25%, Gersteflocken* gekeimt, 25% Hanf-Krunch* (Hanfsamen* geschält, Kokosblütenzucker*, Kokos*) 16%, Feigenstücke* (Feigen*, Reismehl*) 10%,Schokotropfen* (Kakaomasse*, Rohrohrzucker*, Kakaobutter*, Emulgator: Soja-Lecithine*) 8%, Buchweizen* gepufft, Kokos*, Chiasamen*, Himbeeren* gefriergetrocknet 1%<br _istranslated="1" data-mce-fragment="1" _mstmutation="1">*=aus kontrolliert <br _istranslated="1" data-mce-fragment="1" _mstmutation="1">biologischem Anbau<br _istranslated="1" data-mce-fragment="1" _mstmutation="1"><br _istranslated="1" data-mce-fragment="1" _mstmutation="1">Herkunft<br _istranslated="1" data-mce-fragment="1" _mstmutation="1">Europa: Deutschland Hergestellt in Deutschland</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8551920828752</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.97</s:price>
+      <s:sku>1054</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8778007150928</id>
+    <published>2024-03-19T19:25:26+01:00</published>
+    <updated>2024-03-19T19:25:26+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hanfmusli-power-flakes-400g"/>
+    <title>Hanfmüsli Power Flakes 400g</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/powerflakes_muesli__hanfmuesli_cannabis.png?v=1710872663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            11.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p _msthash="54741" _msttexthash="10913266"><span _msttexthash="468687986" _msthash="25163" _mstmutation="1">Mit dem Hanfmüsli Power Flakes geht der Energie-Kick schon am Morgen los. Neben zarten bio Sojaflocken bilden unsere bio Hanfprotein Flakes, die Grundlage für das proteinreiche Müsli. Mit mehr als 28 % Protein ist es ideal zur bewussten Ernährung und kann zum Beispiel den Muskelaufbau bei Sportlern fördern. Neben gepufften Buchweizen und Amaranth, garantieren fruchtige Feigenstücke und getrocknete Äpfel ein erstklassiges Geschmackserlebnis. <br _istranslated="1" _mstmutation="1"><br _istranslated="1" _mstmutation="1"><br _istranslated="1" _mstmutation="1">Die raffinierte Zutat: Gekeimte Gerstenflocken sorgen für einen wunderbar süßen Geschmack - 100% ohne Zuckerzusatz! <br _istranslated="1" _mstmutation="1"><br _istranslated="1" _mstmutation="1">Zutaten: Sojaflocken* 30%, Hanfprotein Flakes* 15%, Gersteflocken* gekeimt 14%, Feigenstücke* (Feigen*, Reismehl*) 14%, Hanfsamen* geschält 7%, Buchweizen* gepufft, Buchweizen*, Amaranth* gepufft, Apfelstücke* getrocknet, Reisprotein* 3%, Himbeeren* gefriergetrocknet 1%, Erdbeeren* gefriergetrocknet 1%<br _istranslated="1" _mstmutation="1">*=aus kontrolliert biologischem Anbau<br _istranslated="1" _mstmutation="1"><br _istranslated="1" _mstmutation="1">Herkunft<br _istranslated="1" _mstmutation="1">Europa: Deutschland Hergestellt in Deutschland</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8778007150928</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.97</s:price>
+      <s:sku>2095</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8683152998736</id>
+    <published>2024-03-19T18:23:21+01:00</published>
+    <updated>2024-03-19T18:23:21+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/fruchte-hanf-musli-500g"/>
+    <title>Früchte Hanf Müsli 500g</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/hanfmuesli_frucht_bio_vegan_cannabis.png?v=1710868938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            8.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1" _msttexthash="5254444" _msthash="40979" _istranslated="1">Ausgezeichnet mit dem silbernen Preis 2010 der Deutschen Landwirtschafts-Gesellschaft e.V. (DLG).</span><br data-mce-fragment="1" _istranslated="1"><br data-mce-fragment="1" _istranslated="1"><span data-mce-fragment="1" _msttexthash="28089945" _msthash="40980" _istranslated="1">Hergestellt aus wertvollen Zutaten, verfeinert mit geschälten und gerösteten Hanfsamen garantiert unser Müsli eine hohe Bekömmlichkeit. Ohne Zusatz von Zucker. Schmeckt hervorragend mit kalter Milch, Joghurt oder Dickmilch. </span><span _mstmutation="1" _msttexthash="178503" _msthash="40981" style="">Weizen-frei! </span><br data-mce-fragment="1" _istranslated="1"><br data-mce-fragment="1" _istranslated="1"><span _mstmutation="1" _msttexthash="766571" _msthash="40982" style="">Zutaten: Hafer*, Dinkel*, Gerste*, </span><span data-mce-fragment="1" _msttexthash="6755177" _msthash="40983" _istranslated="1"> Vollkornflakes*, Rosinen*, Sonnenblumenkerne*, Hanfsamen* geschält, Kokosraspeln*, Cranberries*, Äpfel<br data-mce-fragment="1" _istranslated="1">=</span><span data-mce-fragment="1" _msttexthash="983346" _msthash="40984" _istranslated="1">aus kontrolliert biologischem Anbau</span><br data-mce-fragment="1" _istranslated="1"><br data-mce-fragment="1" _istranslated="1"><span data-mce-fragment="1" _msttexthash="605345" _msthash="8457" _istranslated="1">Hergestellt in Deutschland</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8683152998736</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">8.97</s:price>
+      <s:sku>1333</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8359201407312</id>
+    <published>2024-03-19T18:15:38+01:00</published>
+    <updated>2024-03-19T18:15:38+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hanfnudeln-rigatoni-400-g"/>
+    <title>Hanfnudeln – Rigatoni 400 g</title>
+    <s:type>E-Zigaretten</s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/pasta_hanfnudeln_rigatoni_cannabis.png?v=1710868500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong>E-Zigaretten<br>
+        <strong>Preis: </strong>
+            22.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p _msttexthash="42425838" _msthash="38831"><strong>Leckere Nudeln aus Hanfmehl</strong><br><br><span>Die Nudeln werden aus einer Mischung aus Weizenmehl und Hanf hergestellt.</span><br><br><span>Kochzeit: 6-7 Minuten</span><br><br><span>Vegan, da ohne Zusatz von Ei.</span><br><br><span>Der Hanf für dieses Produkt wird von einem befreundeten Bauern in Prag, Tschechien angebaut und verarbeitet. Wir überzeugen uns regelmäßig selbst von der Qualität dieses Produkts.</span></p>
+<p _msttexthash="42425838" _msthash="38831"><span>Zutaten: Weizenmehl, Hanfmehl</span><br><span>Hersteller: Zelená Země s.r.o., Prag</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8359201407312</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">22.97</s:price>
+      <s:sku>1069</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8551866302800</id>
+    <published>2024-03-19T18:09:26+01:00</published>
+    <updated>2024-03-19T18:09:26+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hanf-protein-pulver"/>
+    <title>Hanf Protein Pulver</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/pulver_hanfprotein_vegan_cannabis.png?v=1710868054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            7.97 - 14.97
+            <a href="https://hhcfriends.de/products/hanf-protein-pulver">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1" _msttexthash="47946886" _msthash="17371">Hanfproteinpulver mit ca. 50% Eiweißgehalt in Bioland-Qualität, hergestellt in Deutschland, ist eine vielseitige und hochwertige pflanzliche Proteinquelle. Es wird aus Hanfsamen gewonnen, die reich an pflanzlichen Proteinen, ungesättigten Fettsäuren, Mineralstoffen und Ballaststoffen sind.</p>
+<h3 data-mce-fragment="1" _msttexthash="1147887" _msthash="17372">Hauptmerkmale des Hanfproteinpulvers:</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<p data-mce-fragment="1" _msttexthash="9894482" _msthash="17373"><strong data-mce-fragment="1">Hoher Eiweißgehalt:</strong> Mit einem Eiweißgehalt von etwa 50% bietet das Hanfproteinpulver eine bedeutende Menge an pflanzlichem Eiweiß.</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1" _msttexthash="31848479" _msthash="17374"><strong data-mce-fragment="1">Biologische Wertigkeit:</strong> Das 100% rein pflanzliche Eiweiß aus Hanfsamen hat eine hohe biologische Wertigkeit, was bedeutet, dass es alle für den menschlichen Körper essentiellen Aminosäuren enthält und leicht vom Körper aufgenommen wird.</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1" _msttexthash="16621163" _msthash="17375"><strong data-mce-fragment="1">Essentielle Nährstoffe:</strong> Neben Proteinen liefert das Hanfproteinpulver auch essentielle Fettsäuren und Ballaststoffe, die wichtig für eine ausgewogene Ernährung sind.</p>
+</li>
+</ul>
+<h3 data-mce-fragment="1" _msttexthash="832962" _msthash="17376">Vorteile von Hanfproteinpulver:</h3>
+<ol data-mce-fragment="1">
+<li data-mce-fragment="1">
+<p data-mce-fragment="1" _msttexthash="7842224" _msthash="17377"><strong data-mce-fragment="1">Komplette Aminosäureprofil:</strong> Enthält alle essentiellen Aminosäuren, die der Körper nicht selbst herstellen kann.</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1" _msttexthash="7275697" _msthash="17378"><strong data-mce-fragment="1">Leichte Bioverfügbarkeit:</strong> Dank seiner Qualität wird das Protein leicht vom Körper aufgenommen und verwertet.</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1" _msttexthash="7980648" _msthash="17379"><strong data-mce-fragment="1">Vielseitigkeit:</strong> Kann vielseitig in die Ernährung integriert werden, z.B. in Smoothies, Shakes, Müslis oder Backwaren.</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1" _msttexthash="18091125" _msthash="17380"><strong data-mce-fragment="1">Hochwertige Quelle:</strong> Als Bioland-Qualität und aus Deutschland stammend, entspricht das Hanfproteinpulver hohen Standards in Bezug auf Anbau, Herstellung und Qualitätssicherung.</p>
+</li>
+</ol>
+<h3 data-mce-fragment="1" _msttexthash="675935" _msthash="17381">Verwendung und Empfehlungen:</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<p data-mce-fragment="1" _msttexthash="7737977" _msthash="17382">Verwenden Sie das Hanfproteinpulver als Ergänzung zu Ihrer täglichen Ernährung, um Ihren Proteinbedarf zu decken.</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1" _msttexthash="7207928" _msthash="17383">Integrieren Sie es in Smoothies, Shakes, Müslis oder Backrezepte, um den Nährwert Ihrer Mahlzeiten zu erhöhen.</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1" _msttexthash="9083282" _msthash="17384">Beachten Sie die empfohlene Dosierung entsprechend Ihren individuellen Ernährungsbedürfnissen und Aktivitätsniveaus.</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1" _msttexthash="8666905" _msthash="17385">Konsultieren Sie bei Fragen zur Einnahme oder Verträglichkeit von Hanfproteinpulver Ihren Arzt oder Ernährungsberater.</p>
+</li>
+</ul>
+<p data-mce-fragment="1" _msttexthash="23468497" _msthash="17386">Hanfproteinpulver ist eine ausgezeichnete Option für Menschen, die ihre Ernährung mit hochwertigem pflanzlichem Protein ergänzen möchten, und es passt gut zu einem gesunden und ausgewogenen Lebensstil.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8551866302800</id>
+      <title>150g</title>
+      <s:price currency="EUR">7.97</s:price>
+      <s:sku>1051</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8551866302800</id>
+      <title>450g</title>
+      <s:price currency="EUR">14.97</s:price>
+      <s:sku>1052</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8164538122524</id>
+    <published>2024-03-19T17:56:42+01:00</published>
+    <updated>2024-03-19T17:56:42+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/bio-hanfsamen-geschalt"/>
+    <title>Bio Hanfsamen geschält</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/Hanf_geschaelt_bio_hanf_natur_cannabis.png?v=1710867303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            6.97 - 26.97
+            <a href="https://hhcfriends.de/products/bio-hanfsamen-geschalt">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4><span _msttexthash="5081401" _msthash="11834">Ausgezeichnet mit dem goldenen Preis 2019 der Deutschen Landwirtschafts-Gesellschaft e.V (DLG).</span></h4>
+<p _msttexthash="215878871" _msthash="11835">Geschälte Hanfsamen in Rohkost-Qualität werden sorgfältig maschinell geschält, um das hochwertige Hanföl mit seinen wertvollen ungesättigten Fettsäuren sowie das wichtige Eiweiß mit allen essentiellen Aminosäuren zu bewahren. Diese geschälten Hanfsamen sind nicht nur eine Bereicherung für Müsli, Brot, Gebäck und andere Gerichte, sondern eignen sich auch als Dekoration für Salate, Gemüse oder Desserts. Durch leichtes Anrösten entsteht ein köstliches Nussaroma, das vielen Gerichten eine zusätzliche Geschmacksnote verleiht. Zur Erhaltung von Geschmack und Nährstoffen wird empfohlen, sie nicht über 180 Grad Celsius zu erhitzen.</p>
+<h3 _msttexthash="787059" _msthash="11836">Merkmale geschälter Hanfsamen:</h3>
+<ul>
+<li>
+<p _msttexthash="16471845" _msthash="11837"><strong>Erhaltung von Nährstoffen:</strong> Durch schonende maschinelle Schälung bleiben das hochwertige Hanföl sowie das wichtige Eiweiß mit allen essentiellen Aminosäuren erhalten.</p>
+</li>
+<li>
+<p _msttexthash="11358646" _msthash="11838"><strong>Vielseitige Verwendung:</strong> Geschälte Hanfsamen können in Müsli, Backwaren, als Dekoration für Salate, Gemüse oder Desserts verwendet werden.</p>
+</li>
+<li>
+<p _msttexthash="8915140" _msthash="11839"><strong>Aromatische Note:</strong> Durch leichtes Anrösten entsteht ein köstliches Nussaroma, das den Geschmack vieler Gerichte bereichert.</p>
+</li>
+</ul>
+<h3 _msttexthash="687635" _msthash="11840">Empfehlungen zur Verwendung:</h3>
+<ul>
+<li>
+<p _msttexthash="12134785" _msthash="11841">Fügen Sie geschälte Hanfsamen zu Ihren Lieblingsgerichten hinzu, um deren Nährwert zu erhöhen und eine zusätzliche Geschmacksnote zu erzielen.</p>
+</li>
+<li>
+<p _msttexthash="9893104" _msthash="11842">Beachten Sie beim Erhitzen eine Temperatur von maximal 180 Grad Celsius, um den Geschmack und die Nährstoffe der Hanfsamen zu bewahren.</p>
+</li>
+<li>
+<p _msttexthash="9792692" _msthash="11843">Achten Sie beim Kauf auf Produkte aus kontrolliert biologischem Anbau, um höchste Qualität und Nachhaltigkeit zu gewährleisten.</p>
+</li>
+</ul>
+<p _msttexthash="16041545" _msthash="11844">Geschälte Hanfsamen in Rohkost-Qualität sind eine wertvolle Ergänzung für eine ausgewogene Ernährung und verleihen Ihren Gerichten eine gesunde und aromatische Note.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8164538122524</id>
+      <title>150g</title>
+      <s:price currency="EUR">6.97</s:price>
+      <s:sku>1018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8164538122524</id>
+      <title>500g</title>
+      <s:price currency="EUR">16.97</s:price>
+      <s:sku>1019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8164538122524</id>
+      <title>1000g</title>
+      <s:price currency="EUR">26.97</s:price>
+      <s:sku>1020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8164556046620</id>
+    <published>2024-03-19T17:52:57+01:00</published>
+    <updated>2024-03-19T17:52:57+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/bio-hanfsamen"/>
+    <title>Bio Hanfsamen</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/hanfsamen_geschaelt_omegafettsaeuren_vegan_cannabis.png?v=1710867072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            8.97 - 14.97
+            <a href="https://hhcfriends.de/products/bio-hanfsamen">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p _msttexthash="437432892" _msthash="10814"><strong _istranslated="1">Hanfsamen von kontrolliert biologischem Anbau in Rohkost-Qualität! <br _istranslated="1"><br _istranslated="1"></strong>Hanfsamen sind eine Bereicherung für die Vollwertküche und können ganz oder gemahlen vielfältig in Speisen integriert werden, sei es in Müsli, Brot, Gebäck, Burger oder einfach als Knabberspaß. Sie überzeugen mit hochwertigen Inhaltsstoffen, darunter alle essentiellen Aminosäuren und bis zu 90% ungesättigte Fettsäuren. Ihr Fettsäureprofil ist ideal für eine ausgewogene Ernährung, einschließlich der Gamma-Linolensäure. Speisehanf unterstützt verschiedene Funktionen des Körpers und eine tägliche Portion von 30-40g deckt den Bedarf. Sie eignen sich hervorragend zum Kochen und Backen und bieten mit ihrem nussigen Geschmack Genuss und Gesundheit. Durch leichtes Anrösten entfalten sie noch intensiver ihr Aroma. Hanfsamen sind <strong _istranslated="1">glutenfrei</strong> und <strong _istranslated="1">vegan</strong>, aber können Fremdkörner enthalten, daher ist eine Reinigung vor dem Verzehr empfohlen.</p>
+<p><em _msttexthash="8646989" _msthash="10815">Es sei darauf hingewiesen, dass Hanfsamen keine berauschende Wirkung haben und nicht zur Aussaat verwendet werden dürfen.</em></p>
+<p><em _msttexthash="5165498" _msthash="10816"><strong>Herkunft:</strong><span> Europa (Frankreich, Estland, Österreich, Deutschland)</span><br><span>Hergestellt in Deutschland</span></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8164556046620</id>
+      <title>500g</title>
+      <s:price currency="EUR">8.97</s:price>
+      <s:sku>1016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8164556046620</id>
+      <title>1000g</title>
+      <s:price currency="EUR">14.97</s:price>
+      <s:sku>1017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8164531274012</id>
+    <published>2024-03-19T17:03:30+01:00</published>
+    <updated>2024-03-19T17:03:30+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/bio-hanfmus-250g"/>
+    <title>Bio Hanfmus 250g</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/bio_hanfmus_gesalzen_vegan_cannabis_hanf_natur.png?v=1710864149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            12.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span _mstmutation="1" _msttexthash="83937347" _msthash="18089" style=""><span _mstmutation="1" _istranslated="1" data-mce-fragment="1" _msttexthash="17026841" _msthash="10799">Das hanf-natur Hanfmus wird aus hochwertigen geschälten Bio Hanfsamen hergestellt. Es eignet sich hervorragend als Brotaufstrich, in Smoothies aber auch zum Kochen bzw. Backen. <br _istranslated="1" data-mce-fragment="1"></span><br _mstmutation="1" _istranslated="1" data-mce-fragment="1"><span _mstmutation="1" _istranslated="1" data-mce-fragment="1">Hoher Proteingehalt</span><br _mstmutation="1" _istranslated="1" data-mce-fragment="1"><span _mstmutation="1" _istranslated="1" data-mce-fragment="1">Bitte vor Verwendung cremig rühren.</span><br _mstmutation="1" _istranslated="1" data-mce-fragment="1"><br _mstmutation="1" _istranslated="1" data-mce-fragment="1"><span _mstmutation="1" _istranslated="1" data-mce-fragment="1">Zutaten: Hanfsamen* geschält, Steinsalz 0,6%</span><br _mstmutation="1" _istranslated="1" data-mce-fragment="1"><span _mstmutation="1" _istranslated="1" data-mce-fragment="1">*= aus kontrolliert biologischen Anbau</span><br _mstmutation="1" _istranslated="1" data-mce-fragment="1"><span _mstmutation="1" _istranslated="1" data-mce-fragment="1" _msttexthash="1891643" _msthash="10810">Kann Spuren von Sesam und Schalenfrüchten enthalten.</span><span _mstmutation="1" _istranslated="1" data-mce-fragment="1"></span><br _mstmutation="1" _istranslated="1" data-mce-fragment="1"><br _mstmutation="1" _istranslated="1" data-mce-fragment="1"><span _mstmutation="1" _istranslated="1" data-mce-fragment="1">Hergestellt in Deutschland</span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8164531274012</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.97</s:price>
+      <s:sku>1014</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8769619001680</id>
+    <published>2024-03-19T17:00:43+01:00</published>
+    <updated>2024-03-19T17:00:43+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/bio-hanfmehl-5-kg"/>
+    <title>Bio Hanfmehl 5 kg</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/hanfmehl_online_bestellen_cannabis.png?v=1710864003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            27.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p _msttexthash="44539989" _msthash="41043"><strong _istranslated="1">Hanfsamenmehl feinvermahlen aus kontrolliert biologischem Anbau</strong><br _istranslated="1"><br _istranslated="1"><span _istranslated="1">Mehl aus der Speisehanf-Saat ist ideal zum Backen und Kochen geeignet, denn es verleiht den Speisen einen angenehmen nussigen Geschmack und dient zugleich als wertvoller Eiweiß- und Mineralstoff-Lieferant.</span><br _istranslated="1"><br _istranslated="1"><span _istranslated="1">Speisehanfmehl besitzt einen hohen Anteil an Ballaststoffen.</span><br _istranslated="1"><span _istranslated="1">Es ist frei von Gluten.</span><br _istranslated="1"><br _istranslated="1"><span _istranslated="1">Tipp: Ersetzen Sie 8-10% des Getreidemehls durch Speisehanf-Mehl und Verfahren wie üblich.</span><br _istranslated="1"><br _istranslated="1"><span _istranslated="1">Auch zum Abbinden von Suppen und Soßen eine gesunde und schmackhafte Alternative!</span></p>
+<p _msttexthash="44539989" _msthash="41043"><span _msttexthash="10190128" _msthash="41274" _mstmutation="1">Es handelt sich um europäische Qualitätsware! <br _istranslated="1" _mstmutation="1"><br _istranslated="1" _mstmutation="1">Menge: 5 kg abgefüllt im Sack<br _istranslated="1" _mstmutation="1">Holzlöffel und Schüssel nicht im Lieferumfang enthalten.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8769619001680</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">27.97</s:price>
+      <s:sku>2048</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8551907983696</id>
+    <published>2024-02-06T13:40:19+01:00</published>
+    <updated>2024-02-06T13:40:19+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/speisehanf-bratlinge-200g"/>
+    <title>Speisehanf Bratlinge 200g</title>
+    <s:type></s:type>
+    <s:vendor>Canalogy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/hanfbratlinge_bio_vegan_cannabis.png?v=1710868662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Canalogy<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            6.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span _mstmutation="1" _msttexthash="203414263" _msthash="35309" style=""><span _mstmutation="1" data-mce-fragment="1" _istranslated="1">Die Hanf-Bratlingmischung enthält Kichererbsen und Hanfsamen sowie erlesene Kräuter und Gewürze.</span><br _mstmutation="1" data-mce-fragment="1" _istranslated="1"><span _mstmutation="1" data-mce-fragment="1" _istranslated="1">Mit ihrem hohen Gehalt an hochwertigem, rein pflanzlichem Eiweiß sind Hanfbratlinge ein gesunder Beitrag zur vollwertigen, fleischlosen Ernährung (Veganer, Vegetarier).</span><br _mstmutation="1" data-mce-fragment="1" _istranslated="1"><span _mstmutation="1" data-mce-fragment="1" _istranslated="1">Zudem sind sie einfach und schnell zubereitet - als Burger, Falaffel oder Pfannkuchen.</span><br _mstmutation="1" data-mce-fragment="1" _istranslated="1"><br _mstmutation="1" data-mce-fragment="1" _istranslated="1"><span _mstmutation="1" data-mce-fragment="1" _istranslated="1">Zutaten: Kichererbsen*, Hanfsamen* geschält, Petersilie*, Steinsalz, Hanfmehl*, Zwiebeln*, Kumin</span>*,<span _mstmutation="1" data-mce-fragment="1" _msttexthash="142636" _msthash="16279">Koriander*</span><br _mstmutation="1" data-mce-fragment="1" _istranslated="1">=aus kontrolliert biologischem Anbau<br _mstmutation="1" data-mce-fragment="1" _istranslated="1"><br _mstmutation="1" data-mce-fragment="1" _istranslated="1">Herkunft Hanf: Europa (Estland, Österreich, Deutschland)<br _mstmutation="1" data-mce-fragment="1" _istranslated="1"><span _mstmutation="1" data-mce-fragment="1" _msttexthash="628901" _msthash="16259">Herkunft Kichererbsenmehl:</span> Türkei<br _mstmutation="1" data-mce-fragment="1" _istranslated="1">Hergestellt in Deutschland</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8551907983696</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">6.97</s:price>
+      <s:sku>1060</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8158971822364</id>
+    <published>2024-02-06T13:40:19+01:00</published>
+    <updated>2024-02-06T13:40:19+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/bio-hanfmehl"/>
+    <title>Bio Hanfmehl</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/hanfmehl_vegan_cannabis.png?v=1710862944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            6.97 - 9.97
+            <a href="https://hhcfriends.de/products/bio-hanfmehl">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p _msttexthash="5631496" _msthash="4636" data-mce-fragment="1">Fein vermahlenes Hanfmehl aus kontrolliert biologischem Anbau in Bioland- und Rohkost-Qualität!</p>
+<p _msttexthash="236060058" _msthash="4637" data-mce-fragment="1">Dieses Mehl, gewonnen aus Speisehanf-Saat, eignet sich hervorragend zumBacken und Kochen und verleiht den Gerichten einen angenehm nussigen Geschmack sowie eine wertvolle Eiweißquelle. Es ist reich an Ballaststoffen, was seine gesundheitlichen Vorzüge unterstreicht. <br _istranslated="1" data-mce-fragment="1"><br _istranslated="1" data-mce-fragment="1">Für Backrezepte kann man 8-10% des Getreidemehls durch Hanfmehl ersetzen und wie gewohnt verarbeiten. Zudem dient es als gesunde und schmackhafte Alternative zum Abbinden von Suppen und Soßen. <br _istranslated="1" data-mce-fragment="1"><br _istranslated="1" data-mce-fragment="1">Obwohl Bio Hanfsamen grundsätzlich glutenfrei sind, können Spuren von Gluten durch Fremdsamen wie Weizen- oder andere Getreidekörner enthalten sein. Daher wird empfohlen, die Samen vor dem Verzehr zu reinigen.</p>
+<p _msttexthash="2253901" _msthash="4638" data-mce-fragment="1"><em data-mce-fragment="1">Herkunft: Deutschland, Bioland</em><br data-mce-fragment="1"><em data-mce-fragment="1">Hergestellt in Deutschland</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8158971822364</id>
+      <title>500g</title>
+      <s:price currency="EUR">6.97</s:price>
+      <s:sku>1186</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8158971822364</id>
+      <title>1000g</title>
+      <s:price currency="EUR">9.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8551859257680</id>
+    <published>2023-06-25T13:55:07+02:00</published>
+    <updated>2023-06-25T13:55:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hanf-spaghetti-250g"/>
+    <title>Hanf Spaghetti 250g</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/spaghetti_hanfnudeln_vegan_hanf_natur_cannabis.png?v=1710868362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            6.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span _mstmutation="1" _msttexthash="224755986" _msthash="32881" style=""><span _mstmutation="1" _istranslated="1" data-mce-fragment="1">Ausgezeichnet mit dem silbernen Preis 2012 der Deutschen Landwirtschafts-Gesellschaft e.V. (DLG).</span><br _mstmutation="1" _istranslated="1" data-mce-fragment="1"><br _mstmutation="1" _istranslated="1" data-mce-fragment="1"><span _mstmutation="1" _istranslated="1" data-mce-fragment="1">Vollwertige Spaghetti aus hochwertigem Hartweizen und Hanfmehl. Kombiniert mit feinen Saucen oder unserem Hanf Pesto eine Bereicherung für jeden Speiseplan. Nicht nur für Erwachsene, sondern auch für Kinder eine geschmackliche Abwechslung. Mit einem hohen Gehalt an Eiweiß und Ballaststoffen.</span><br _mstmutation="1" _istranslated="1" data-mce-fragment="1"><span _mstmutation="1" _istranslated="1" data-mce-fragment="1">Hergestellt aus hochwertigem Hartweizen und Bioland Hanfmehl.</span><br _mstmutation="1" _istranslated="1" data-mce-fragment="1"><span _mstmutation="1" _istranslated="1" data-mce-fragment="1">Ohne Zusatz von Ei.</span><br _mstmutation="1" _istranslated="1" data-mce-fragment="1"><br _mstmutation="1" _istranslated="1" data-mce-fragment="1"><span _mstmutation="1" _istranslated="1" data-mce-fragment="1">Zutaten: </span>Hartweizengrieß*, Hanfmehl*<br _mstmutation="1" _istranslated="1" data-mce-fragment="1">*= aus kontrolliert biologischen Anbau<br _mstmutation="1" _istranslated="1" data-mce-fragment="1"><br _mstmutation="1" _istranslated="1" data-mce-fragment="1">Herkunft Hanf: Europa: Deutschland<br _mstmutation="1" _istranslated="1" data-mce-fragment="1">Herkunft Hartweizen: <span _mstmutation="1" _istranslated="1" data-mce-fragment="1">Deutschland, Italien</span><br _mstmutation="1" _istranslated="1" data-mce-fragment="1"><span _mstmutation="1" _istranslated="1" data-mce-fragment="1">Hergestellt in Deutschland</span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8551859257680</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">6.97</s:price>
+      <s:sku>1066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8520101265744</id>
+    <published>2023-05-30T15:42:27+02:00</published>
+    <updated>2023-05-30T15:42:27+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hanf-nudeln-250g"/>
+    <title>Hanf Nudeln 250g</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/hanfnudeln_fussili_vegan_bio_hanf_natur_cannabis_1.png?v=1710867901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            6.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span _mstmutation="1" _msttexthash="249038296" _msthash="30012" style=""><span _mstmutation="1" data-mce-fragment="1">Spiralförmige Nudeln, auch Fusilli genannt. Unsere Hanfspirelli werden mit viel Sorgfalt und Erfahrung in einem traditionellen schwäbischen Familienbetrieb hergestellt. Durch den hohen Anteil an Hanfmehl überzeugen die Hanfnudeln nicht nur mit ihrem nussigen Geschmack, sondern auch durch den hohen Anteil an Eiweiß und Ballaststoffen.</span><br _mstmutation="1" data-mce-fragment="1"><span _mstmutation="1" data-mce-fragment="1">Hergestellt aus hochwertigem Hartweizen und Hanfmehl.</span><br _mstmutation="1" data-mce-fragment="1"><span _mstmutation="1" data-mce-fragment="1">Als Hauptgericht, Beilage zu Fleisch- und Gemüsegerichten, für Aufläufe und Salate.</span><br _mstmutation="1" data-mce-fragment="1"><span _mstmutation="1" data-mce-fragment="1">Ohne Zusatz von Ei.</span><br _mstmutation="1" data-mce-fragment="1"><br _mstmutation="1" data-mce-fragment="1"><span _mstmutation="1" data-mce-fragment="1">Zutaten: </span>Hartweizengrieß*, Hanfmehl* 5%<br _mstmutation="1" data-mce-fragment="1">*=aus kontrolliert biologischem Anbau<br _mstmutation="1" data-mce-fragment="1"><br _mstmutation="1" data-mce-fragment="1">Herkunft Hanf: Europa (Frankreich, Deutschland)<br _mstmutation="1" data-mce-fragment="1">Herkunft Hartweizen:<span _mstmutation="1" data-mce-fragment="1"> Deutschland, Italien</span><br _mstmutation="1" data-mce-fragment="1"><span _mstmutation="1" data-mce-fragment="1" _msttexthash="605345" _msthash="20205">Hergestellt in Deutschland</span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8520101265744</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">6.97</s:price>
+      <s:sku>1175</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8356840735056</id>
+    <published>2023-04-14T17:00:30+02:00</published>
+    <updated>2023-04-14T17:00:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hanf-dinkel-nudeln-250g"/>
+    <title>Hanf Dinkel Nudeln 250g</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/dinkelnudeln_vegan_hanfnudeln_bio_hanf_natur_cannabis_1000x1000px.png?v=1710867685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            6.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p _msttexthash="1059890" _msthash="28225">Spiralförmige Nudeln, auch Fusilli genannt. Unsere Hanf-Dinkelspirelli werden mit viel Sorgfalt und Erfahrung in einem traditionellen schwäbischen Familienbetrieb hergestellt. Der Dinkel stammt aus Deutschalnd und wird vor der Verarbeitung frisch vermahlen. Die kleinen geringelten Nudeln schmecken Groß und Klein ob mit Tomatensauce, unserem Hanf-Pesto oder im Nudelsalat.<br _istranslated="1">Als Hauptgericht, Beilage zu Fleisch- und Gemüsegerichten, für Aufläufe und Salate<br _istranslated="1">Ohne Zusatz von Ei.<br _istranslated="1"><br _istranslated="1">Zutaten: Dinkelmehl*, Hanfmehl*<br _istranslated="1">*=aus kontrolliert biologischem Anbau<br _istranslated="1"><br _istranslated="1">Herkunft Hanf: Europa (Frankreich, Deutschland)<br _istranslated="1">Herkunft Dinkel: Deutschland<br _istranslated="1">Hergestellt in Deutschland</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8356840735056</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">6.97</s:price>
+      <s:sku>1225</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8158953079068</id>
+    <published>2023-03-29T22:16:23+02:00</published>
+    <updated>2023-03-29T22:16:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hanf-nougat-creme-290g"/>
+    <title>Hanf Nougat Creme 290g</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/nougat_nutella_creme_bio_hanf_natur_cannabis_hanf_natur.png?v=1710863338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            12.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span _msttexthash="379322177" _msthash="11823" data-mce-fragment="1" _mstmutation="1">Bio-Hanf Nougatcreme, die nachhaltige Alternative! <br _istranslated="1" data-mce-fragment="1" _mstmutation="1"><br _istranslated="1" data-mce-fragment="1" _mstmutation="1">Nuss-Nougat-Creme gehört zu den beliebtesten süßen Brotaufstrichen. Unsere Nougat Creme ist allerdings anders als übliche Cremes, denn wir verwenden keine Nüsse - <strong _istranslated="1" data-mce-fragment="1" _mstmutation="1">gut für Haselnussallergiker!</strong>- sondern ersetzen diese durch 30 % geschälte Bio-Hanfsamen. <br _istranslated="1" data-mce-fragment="1" _mstmutation="1"><br _istranslated="1" data-mce-fragment="1" _mstmutation="1">Auch auf das übliche Palmfett verzichten wir vollständig und nehmen stattdessen die nachhaltige Alternative: kaltgepresstes Bio-Sonnenblumenöl aus Österreich und Bio-Kakaobutter. <br _istranslated="1" data-mce-fragment="1" _mstmutation="1"><br _istranslated="1" data-mce-fragment="1" _mstmutation="1">Verfeinert mit ein wenig Zucker, besticht unsere Bio-Hanf Nougatcreme mit einem herausragenden Geschmack. Als Brotaufstrich, zum Backen oder einfach nur zum Naschen perfekt geeignet. <br _istranslated="1" data-mce-fragment="1" _mstmutation="1">Hergestellt in Österreich. <br _istranslated="1" data-mce-fragment="1" _mstmutation="1"><br _istranslated="1" data-mce-fragment="1" _mstmutation="1">Zutaten: Bio-Rübenzucker, Bio-Hanfsamen 30%, Bio-Sonnenblumenöl kaltgepresst, Bio-Magermilchpulver, Bio-Kakaopulver, Bio-Sonnenblumenlecithin</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8158953079068</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.97</s:price>
+      <s:sku>1182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8158912348444</id>
+    <published>2023-03-29T22:16:21+02:00</published>
+    <updated>2023-03-29T22:16:21+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/bio-hanfpesto-basilikum-150g"/>
+    <title>Bio Hanfpesto Basilikum 150g</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/pesto_basilikum_vegan_cannabis_hanf_natur.png?v=1710863735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            7.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span _mstmutation="1" _msttexthash="139526608" _msthash="12929" style=""><span _mstmutation="1" _istranslated="1" data-mce-fragment="1">Hanfpesto Basilikum mit geschälten, gerösteten Hanfsamen und Sonnenblumenkernen. Herzhaftes Pesto mit Knoblauch Basilikum Note.</span><br _mstmutation="1" _istranslated="1" data-mce-fragment="1"><span _mstmutation="1" _istranslated="1" data-mce-fragment="1">Hergestellt mit Knoblauch Mazerat (Knoblauch Kräuteröl)</span><br _mstmutation="1" _istranslated="1" data-mce-fragment="1"><br _mstmutation="1" _istranslated="1" data-mce-fragment="1"><br _mstmutation="1" _istranslated="1" data-mce-fragment="1">Zutaten: Sonnenblumenkerne*,Rapsöl-Knoblauch*(20%), Rapsöl*, Hanfsamen geschält und geröstet* (10%), Hanföl* (6%), Tomaten getrocknet*, Basilikum getrocknet* (2%), Rapsöl-Basilikum* (1%),Bärlauch*, Salz. <br _mstmutation="1" _istranslated="1" data-mce-fragment="1">*alle Zutaten aus kontrolliert biologischem Anbau<br _mstmutation="1" _istranslated="1" data-mce-fragment="1"><br _mstmutation="1" _istranslated="1" data-mce-fragment="1"><br _mstmutation="1" _istranslated="1" data-mce-fragment="1">Herkunft Hanfsamen:<span _mstmutation="1" _istranslated="1" data-mce-fragment="1"> EU-Landwirtschaft, China</span><br _mstmutation="1" _istranslated="1" data-mce-fragment="1"><span _mstmutation="1" _istranslated="1" data-mce-fragment="1">Hergestellt in Deutschland</span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8158912348444</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">7.97</s:price>
+      <s:sku>1176</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

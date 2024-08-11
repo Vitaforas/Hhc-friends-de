@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/growbox-komplettset.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-05-24T12:57:37+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9247102796112</id>
+    <published>2024-05-24T12:57:37+02:00</published>
+    <updated>2024-05-24T12:57:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/growbox-komplettset-60x60x140"/>
+    <title>Growbox Komplettset 60x60x140</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/starterset_growbox.png?v=1716548244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            358.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Growbox Starterset: Dein perfekter Einstieg in den Indoor-Anbau</strong></p>
+<p>Mit unserem Growbox Starterset bist du bestens ausgestattet, um erfolgreich in den Indoor-Anbau zu starten. Dieses Set enthält alles, was du benötigst, um deine Pflanzen optimal zu versorgen und perfekte Ergebnisse zu erzielen.</p>
+<p><strong>Growbox:</strong></p>
+<ul>
+<li>
+<strong>Modell:</strong> Cultibox Light PLUS 60 x 60 x 140 cm</li>
+<li>
+<strong>Lichtreflexion:</strong> 95% dank Mylar 420D Stucco</li>
+<li>
+<strong>Aufbau:</strong> Einfach und schnell, ohne zusätzliche Werkzeuge</li>
+<li>
+<strong>Beobachtungsfenster:</strong> Oberes Fenster zur Beobachtung ohne Störung des Klimas</li>
+<li>
+<strong>Lüftung:</strong> Lüftungsschläuche und Kabelausgänge für ein komplettes System</li>
+<li>
+<strong>Material:</strong> Robuste Struktur und widerstandsfähige Materialien</li>
+</ul>
+<p><strong>Filter:</strong></p>
+<ul>
+<li>
+<strong>Modell:</strong> OdorSok Luftfilter 125/300 mm</li>
+<li>
+<strong>Anschluss:</strong> 125 mm</li>
+<li>
+<strong>Länge:</strong> 300 mm</li>
+<li>
+<strong>Leistung:</strong> 330 m³/Stunde</li>
+<li>
+<strong>Filter:</strong> Aktivkohlefaserfilter aus 3 Schichten, leistungsstark und sicher</li>
+<li>
+<strong>Wartung:</strong> Bei starker Verschmutzung mit warmem Wasser abwaschen, bei Verstaubung mit Druckluft reinigen und bei Nässe im Wäschetrockner trocknen</li>
+<li>
+<strong>Haltbarkeit:</strong> Über 12 Monate</li>
+</ul>
+<p><strong>Beleuchtung:</strong></p>
+<ul>
+<li>
+<strong>Modell:</strong> LED PANEL LITHA S QBOARD 150W DUAL HORTILIGHT</li>
+<li>
+<strong>LED-Chips:</strong> 432 LED-Chips für ein perfekt ausgewogenes Lichtspektrum</li>
+<li>
+<strong>Modi:</strong> Manuell zwischen vegetativem- und Blüte-Modus umschaltbar</li>
+<li>
+<strong>Abdeckung:</strong> Fläche von 80 x 80 cm</li>
+<li>
+<strong>Wirkungsgrad:</strong> 2,3 umol/J</li>
+</ul>
+<p><strong>Belüftung:</strong></p>
+<ul>
+<li>
+<strong>Modell:</strong> Helical 125 CE</li>
+<li>
+<strong>Durchmesser:</strong> 125 mm</li>
+<li>
+<strong>Durchsatz:</strong> 190 m³/h</li>
+<li>
+<strong>Leistung:</strong> 20 W</li>
+<li>
+<strong>Geräuschpegel:</strong> 37 dB</li>
+<li>
+<strong>Drehzahl:</strong> 2400</li>
+</ul>
+<p><strong>Wichtiger Hinweis zum Versand:</strong> Bitte beachte, dass unsere Growboxen nicht per Nachnahme verschickt werden!</p>
+<p>Mit diesem Starterset hast du alles, was du brauchst, um sofort loszulegen und deine Pflanzen unter optimalen Bedingungen zu züchten. Viel Erfolg und Freude beim Anbau!</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9247102796112</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">358.97</s:price>
+      <s:sku>2199</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

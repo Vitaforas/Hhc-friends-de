@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/gingko.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-07-08T14:06:27+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9301669019984</id>
+    <published>2024-07-08T14:06:27+02:00</published>
+    <updated>2024-07-08T14:06:27+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/gingko-extra-90-tabletten"/>
+    <title>Gingko Extra 90 Tabletten</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/Canalogy_kapseln_ginko_extrakt_pulver.png?v=1720447790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            12.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ginkgo Extra</strong></p>
+<p>Bist du auf der Suche nach einer natürlichen Möglichkeit, dein Immunsystem zu unterstützen und das ganze Jahr über gesund zu bleiben? Ginkgo Extra ist deine perfekte Lösung zur Stärkung der Abwehrkräfte!</p>
+<p><strong>Warum Ginkgo Extra?</strong></p>
+<p>Ginkgo, ein kraftvolles Kraut, das seit Jahrhunderten für seine gesundheitlichen Vorteile geschätzt wird, ist die Hauptzutat in unserem Extrakt. Unser Ginkgo-Extrakt nutzt das volle Potenzial dieses pflanzlichen Schatzes und bietet dir eine praktische und wirksame Lösung zur Unterstützung deines Immunsystems.</p>
+<p><strong>Vorteile von Ginkgo Extra:</strong></p>
+<ul>
+<li>
+<strong>Stärkung des Immunsystems:</strong> Ginkgo ist bekannt für seine Fähigkeit, das Immunsystem zu unterstützen und dem Körper zu helfen, sich gegen Erkältungen und andere Infektionen zu verteidigen.</li>
+<li>
+<strong>Natürliche Quellen:</strong> Unser Ginkgo-Extrakt wird aus hochwertigen Ginkgo-Pflanzen gewonnen, die Reinheit und Wirksamkeit gewährleisten, ohne künstliche Zusatzstoffe oder Füllstoffe.</li>
+<li>
+<strong>Verbesserte Vitalität:</strong> Erlebe einen Energie- und Vitalschub, während dein Immunsystem stärker wird, sodass du das Leben in vollen Zügen genießen kannst.</li>
+<li>
+<strong>Einfach zu verwenden:</strong> Unser Extrakt lässt sich leicht in deine tägliche Routine integrieren, was ihn zu einer problemlosen Ergänzung deines Lebensstils macht.</li>
+</ul>
+<p><strong>Produktdetails:</strong></p>
+<ul>
+<li><strong>Echinacea Extra</strong></li>
+<li><strong>Nahrungsergänzungsmittel</strong></li>
+<li><strong>90 Tabletten</strong></li>
+<li>
+<strong>Gewicht:</strong> 61,2 g</li>
+</ul>
+<p><strong>Inhaltsstoffe:</strong> Echinacea (Echinacea purpurea) 4:1 Extrakt; Füllstoff: mikrokristalline Cellulose, Calciumphosphat; Trennmittel: Magnesiumstearat, Siliciumdioxid; Oberfläche: Hydroxypropylmethylcellulose</p>
+<p><strong>Gehalt an Wirkstoffen pro Tablette:</strong></p>
+<ul>
+<li>
+<strong>Echinacea Extrakt 4:1:</strong> 125 mg Extrakt = 500 mg Echinacea</li>
+</ul>
+<p><strong>Anwendung:</strong> Erwachsene nehmen 1-2 Tabletten pro Tag.</p>
+<ul>
+<li>
+<strong>Achtung:</strong> Darf nicht in die Hände von Kindern gelangen!</li>
+<li><strong>Die empfohlene Tagesdosis darf nicht überschritten werden!</strong></li>
+<li><strong>In der Originalverpackung an einem trockenen Ort bei Raumtemperatur lagern!</strong></li>
+<li><strong>Ein Nahrungsergänzungsmittel ist kein Ersatz für eine abwechslungsreiche Ernährung!</strong></li>
+</ul>
+<p>Pflege einen gesunden Lebensstil und unterstütze dein Immunsystem mit Ginkgo Extra!</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9301669019984</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.97</s:price>
+      <s:sku>5141</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

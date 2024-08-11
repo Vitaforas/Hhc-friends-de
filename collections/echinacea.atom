@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/echinacea.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-07-08T14:05:43+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9301668757840</id>
+    <published>2024-07-08T14:05:43+02:00</published>
+    <updated>2024-07-08T14:05:43+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/echinacea-extra-90-tabletten"/>
+    <title>Echinacea Extra 90 Tabletten</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/Canalogy_kapseln_echinacea_extrakt_pulver.png?v=1720447768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            13.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Echinacea Extra</strong></p>
+<p>Bist du auf der Suche nach einer natürlichen Möglichkeit, dein Immunsystem zu unterstützen und das ganze Jahr über gesund zu bleiben? Echinacea Extra ist deine perfekte Lösung, um deinen Körper hervorragend bei der Abwehr von äußeren Einflüssen zu unterstützen!</p>
+<p><strong>Warum Echinacea-Extrakt?</strong></p>
+<p>Echinacea, ein kraftvolles Kraut aus Nordamerika, wird seit Jahrhunderten für seine bemerkenswerten immunstärkenden Eigenschaften geschätzt. Unser Echinacea-Extrakt nutzt das volle Potenzial dieses pflanzlichen Schatzes und bietet dir eine praktische und wirksame immunstärkende Lösung.</p>
+<p><strong>Warum unser Echinacea-Extrakt?</strong></p>
+<ul>
+<li>
+<strong>Stärkung des Immunsystems:</strong> Echinacea ist bekannt für seine Fähigkeit, das Immunsystem zu stimulieren und deinem Körper zu helfen, sich gegen Erkältungen und andere Infektionen zu verteidigen.</li>
+<li>
+<strong>Natürliche Quellen:</strong> Unser Echinacea-Extrakt wird aus hochwertigen Echinacea-Pflanzen gewonnen, die Reinheit und Wirksamkeit gewährleisten, ohne künstliche Zusatzstoffe oder Füllstoffe.</li>
+<li>
+<strong>Verbesserte Vitalität:</strong> Erlebe einen Energie- und Vitalschub, während dein Immunsystem stärker wird, sodass du das Leben in vollen Zügen genießen kannst.</li>
+<li>
+<strong>Einfach zu verwenden:</strong> Unser Extrakt lässt sich leicht in deine tägliche Routine integrieren, was ihn zu einer problemlosen Ergänzung deines Lebensstils macht.</li>
+</ul>
+<p>Purpursonnenhut ist gemäß den geltenden EU-Verordnungen berechtigt, folgende gesundheitsbezogene Angaben zu machen: Natürliche Abwehrkräfte - Immunsystem</p>
+<p><strong>Echinacea Extra</strong></p>
+<ul>
+<li>Nahrungsergänzungsmittel</li>
+<li>90 Tabletten</li>
+<li>Gewicht: 61,2 g</li>
+</ul>
+<p><strong>Inhaltsstoffe:</strong> Echinacea (Echinacea purpurea) 4:1 Extrakt; Füllstoff: mikrokristalline Cellulose, Calciumphosphat; Trennmittel: Magnesiumstearat, Siliciumdioxid; Oberfläche: Hydroxypropylmethylcellulose</p>
+<p><strong>Gehalt an Wirkstoffen:</strong></p>
+<ul>
+<li>1 Tablette</li>
+<li>Echinacea Extrakt 4:1</li>
+<li>125 mg Extrakt = 500 mg Echinacea</li>
+</ul>
+<p><strong>Anwendung:</strong> Erwachsene 1-2 Tabletten pro Tag.</p>
+<ul>
+<li>Darf nicht in die Hände von Kindern gelangen!</li>
+<li>Die empfohlene Tagesdosis darf nicht überschritten werden!</li>
+<li>In der Originalverpackung an einem trockenen Ort bei Raumtemperatur lagern!</li>
+<li>Ein Nahrungsergänzungsmittel ist kein Ersatz für eine abwechslungsreiche Ernährung!</li>
+<li>Pflege einen gesunden Lebensstil!</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9301668757840</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.97</s:price>
+      <s:sku>5140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

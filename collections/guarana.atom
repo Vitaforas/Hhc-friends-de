@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/guarana.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-03-08T11:01:19+01:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9019275772240</id>
+    <published>2024-03-08T11:01:19+01:00</published>
+    <updated>2024-03-08T11:01:19+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/guarana-extra-800mg-90-tabletten"/>
+    <title>Guarana Extra 800mg 90 Tabletten</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/Canalogy_kapseln_guarana_extrakt_pulver.png?v=1710321242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            15.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong _msttexthash="2129205" _msthash="2015">Guarana Extra - Für mehr Energie und Durchhaltevermögen!</strong></p>
+<p _msttexthash="114700937" _msthash="2016">Entdecke die erfrischende Wirkung von Guarana-Extrakt, einem natürlichen Bestandteil aus den dichten Urwäldern des Amazonas, der seit Jahrhunderten von den Ureinwohnern der Guaraní geschätzt wird. Unsere Guarana-Extrakttabletten enthalten Guaranin, eine natürliche Stimulans, die ähnlich wie Koffein die geistige Aktivität, Ausdauer und Vitalität unterstützt. Im Gegensatz zu Koffein ist Guarana nicht süchtig machend und seine Verwendung ist sicher.</p>
+<p><strong _msttexthash="1120405" _msthash="2017">Warum du Guarana Extra wählen solltest:</strong></p>
+<ul>
+<li>
+<p _msttexthash="11193208" _msthash="2018"><strong>Mentale Schärfe:</strong> Erfahre eine gesteigerte geistige Leistungsfähigkeit und Klarheit für Arbeit, Studium und anspruchsvolle Aufgaben.</p>
+</li>
+<li>
+<p _msttexthash="10281674" _msthash="2019"><strong>Körperliche Stärke:</strong> Steigere deine körperliche Leistungsfähigkeit und Ausdauer, sei es im Fitnessstudio oder im täglichen Leben.</p>
+</li>
+<li>
+<p _msttexthash="4687007" _msthash="2020"><strong>Einfache Anwendung:</strong> Integriere Guarana-Extrakt mühelos in deine tägliche Routine.</p>
+</li>
+</ul>
+<p><strong _msttexthash="1781923" _msthash="2021">Nahrungsergänzungsmittel mit belebendem Koffein:</strong></p>
+<ul>
+<li _msttexthash="169598" _msthash="2022">90 Tabletten</li>
+<li _msttexthash="189982" _msthash="2023">Gewicht: 59,76 g</li>
+<li _msttexthash="33105826" _msthash="2024">Zusammensetzung: Guarana-Extrakt (Paullinia cupana) im Verhältnis 4:1; Füllstoffe: Calciumphosphat, mikrokristalline Cellulose; Trennmittel: Siliciumdioxid, mikrokristalline Cellulose; Überzugsmittel: Hydroxypropylmethylcellulose</li>
+</ul>
+<p><strong _msttexthash="149006" _msthash="2025">Dosierung:</strong></p>
+<p _msttexthash="8963526" _msthash="2026">Erwachsene: Nehmen Sie täglich 2 Tabletten zu den Mahlzeiten ein. Nicht während der Schwangerschaft und Stillzeit verwenden.</p>
+<p><strong _msttexthash="125762" _msthash="2027">Hinweise:</strong></p>
+<ul>
+<li _msttexthash="1685216" _msthash="2028">Außerhalb der Reichweite von Kindern aufbewahren.</li>
+<li _msttexthash="1619982" _msthash="2029">Die empfohlene Tagesdosis nicht überschreiten.</li>
+<li _msttexthash="1623102" _msthash="2030">An einem trockenen Ort bei Raumtemperatur lagern.</li>
+<li _msttexthash="2941471" _msthash="2031">Nahrungsergänzungsmittel ersetzen keine ausgewogene Ernährung.</li>
+<li _msttexthash="1059292" _msthash="2032">Pflegen Sie einen gesunden Lebensstil.</li>
+</ul>
+<p><strong _msttexthash="1117480" _msthash="2033">Hergestellt in der EU von Avos trade s.r.o.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9019275772240</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.97</s:price>
+      <s:sku>5156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
