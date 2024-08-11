@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/hhcp-hash.atom"/>
+  <title>hhcfriends</title>
+  <updated>2023-12-08T14:40:53+01:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/8725915664720</id>
+    <published>2023-12-08T14:40:53+01:00</published>
+    <updated>2023-12-08T14:40:53+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hhcp-hash-blueberry-haze-60"/>
+    <title>HHCp  Blueberry Haze 60%</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/HHCP_hash_premium_blueberry_haze.png?v=1701270043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            12.97 - 47.97
+            <a href="https://hhcfriends.de/products/hhcp-hash-blueberry-haze-60">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<h2 data-mce-fragment="1">Canapuff HHC-P Hash</h2>
+<p>Entdecke die außergewöhnliche Harmonie von Geschmack und Aroma mit Canapuffs 'Blueberry Haze - 60%'. Dieses exklusive HHC-Hash ist eine hybride Kreation, die sich durch ihren intensiven und unwiderstehlichen Blaubeergeschmack auszeichnet. Die saftige Süße reifer Blaubeeren wird meisterhaft mit einer robusten Basis aus Zedern- und Sandelholz kombiniert, ergänzt durch frische, holzige Noten, die ein unvergleichliches Geschmackserlebnis schaffen.</p>
+<p>Ideal für Momente der Entspannung und des Wohlbefindens, bietet 'Blueberry Haze' eine beruhigende Wirkung, die den Geist in einen friedvollen Zustand versetzt. Lass dich von seinem aromatischen Duft in einen dichten Wald voll reifer, duftender Beeren entführen, der deine Sinne belebt und beruhigt.</p>
+<p>Bei Canapuff stehen wir für Premium-Qualität und eine starke Wirkung, die selbst die hohen Erwartungen anspruchsvoller Genießer erfüllt. Mit einer hohen Konzentration an HHC und einer sorgfältigen Auswahl der besten Inhaltsstoffe garantieren wir ein Produkt, das nicht nur rein und sicher, sondern auch für eine vollständige und intensive Erfahrung sorgt.</p>
+<p>Dieses Produkt entspricht den strengen Vorgaben des Gesetzes §5 Nr. 167/1998 und ist ausschließlich für industrielle, technische und gärtnerische Verwendung vorgesehen. Es ist nicht zum direkten Verzehr oder Rauchen geeignet. Bitte beachte, dass das Produkt einem natürlichen Gewichtsverlust unterliegt. Wir verkaufen nicht an Personen unter 18 Jahren. Bewahre es sicher und außerhalb der Reichweite von Kindern auf.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8725915664720</id>
+      <title>1g</title>
+      <s:price currency="EUR">12.97</s:price>
+      <s:sku>2123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8725915664720</id>
+      <title>3g</title>
+      <s:price currency="EUR">29.97</s:price>
+      <s:sku>2124</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8725915664720</id>
+      <title>5g</title>
+      <s:price currency="EUR">47.97</s:price>
+      <s:sku>2125</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

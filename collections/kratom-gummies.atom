@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/kratom-gummies.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-07-12T09:35:34+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9304322703696</id>
+    <published>2024-07-12T09:35:34+02:00</published>
+    <updated>2024-07-12T09:35:34+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/kratom-gummies-4-stuck"/>
+    <title>KRATOM GUMMIES 4 Stück</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/KRATOM_GUMMIES_blackcurrant.png?v=1721032952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            19.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Kratom Gummies | Bears</h3>
+<p>Erlebe die Kraft unserer Kratom Gummies in Form von leckeren Gummibärchen. Jedes Bärchen enthält potente 40 mg Premium-Kratom, das aus Mitragyna speciosa, einem tropischen immergrünen Baum der Kaffeefamilie, gewonnen wird. Diese Pflanze ist in Südostasien beheimatet und wird dort seit dem 19. Jahrhundert in der Kräutermedizin verwendet. Unsere Kratom Gummies bieten dir die Vorteile von Kratom ohne den Zusatz von CBD oder THC.</p>
+<h4>Eigenschaften:</h4>
+<ul>
+<li>
+<strong>Inhaltsstoff:</strong> Premium-Kratom (Mitragyna speciosa)</li>
+<li>
+<strong>Kratomgehalt:</strong> 40 mg pro Gummibärchen</li>
+<li>
+<strong>Herkunft:</strong> Thailand, Indonesien, Malaysia, Myanmar, Papua-Neuguinea</li>
+</ul>
+<h4>Hinweise zur Verwendung:</h4>
+<ul>
+<li>
+<strong>Lagerung:</strong> Bewahre die Gummibärchen an einem trockenen Ort und fern von direktem Sonnenlicht auf.</li>
+<li>
+<strong>Sicherheit:</strong> Halte die Gummibärchen außerhalb der Reichweite von Kindern und Haustieren. Dieses Produkt ist nur für Erwachsene ab 18 Jahren geeignet. Schwangere sollten von der Verwendung absehen.</li>
+<li>
+<strong>Warnung:</strong> Nach dem Konsum raten wir dringend davon ab, Transportmittel zu führen oder Maschinen zu bedienen. Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke bestimmt.</li>
+</ul>
+<h4>Haftungsausschluss:</h4>
+<p>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung dieses Produkts. Genieße die Vorteile von Kratom sicher und verantwortungsbewusst.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9304322703696</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.97</s:price>
+      <s:sku>5235</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

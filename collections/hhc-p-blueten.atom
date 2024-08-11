@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/hhc-p-blueten.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-03-19T19:22:39+01:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/8671995724112</id>
+    <published>2024-03-19T19:22:39+01:00</published>
+    <updated>2024-03-19T19:22:39+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hhc-p-joint-50-strawberry-cough-2g"/>
+    <title>HHC-P  50% Strawberry Cough 2g</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/HHCP_joint_re_rolled_strawberry_cough.png?v=1701682850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            16.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1">HHC-P pre-rolled Joint Strawberry Cough <br data-mce-fragment="1">
+</h2>
+<p data-mce-fragment="1">Genieße jetzt den erfrischend leckeren pre-rolled Joint mit kraftvollen 50% HHC-P! </p>
+<p data-mce-fragment="1">Eigenschaften:<br data-mce-fragment="1">HHCP-Gehalt: 50%<br data-mce-fragment="1">Produktgewicht: 2 g<br data-mce-fragment="1">Sorte: Hybrid<br data-mce-fragment="1"></p>
+<ul data-mce-fragment="1"></ul>
+<meta charset="utf-8">
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<p data-mce-fragment="1"><meta charset="utf-8">Produkt nach dem Gesetz §5 Nr. 167/1998. Bestimmt für industrielle, technische und gärtnerische Zwecke. Nicht zum direkten Verzehr oder Rauchen geeignet. Das Produkt unterliegt einem natürlichen Gewichtsverlust. Kein Verkauf an Personen unter 18 Jahren. Außerhalb der Reichweite von Kindern aufbewahren.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8671995724112</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">16.97</s:price>
+      <s:sku>1295</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8778011312464</id>
+    <published>2024-02-14T15:45:07+01:00</published>
+    <updated>2024-02-14T15:45:07+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hhc-super-glue-90"/>
+    <title>HHCp Super Glue 80 %</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/HHC_super_glue_premium_flower_blueten.png?v=1707912856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            12.97 - 54.97
+            <a href="https://hhcfriends.de/products/hhc-super-glue-90">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Entdecke die brandneuen Blüten von Canntropy <meta charset="utf-8">angereichert mit reichhaltigem HHCp!</p>
+<p>Merkmale: </p>
+<ul>
+<li>HHCP-Blume</li>
+<li>HHCP-Destillat 10 % (80 % Qualität)</li>
+<li>THC-Gehalt weniger als 0,2%</li>
+</ul>
+<span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Produkt nach dem Gesetz §5 Nr. 167/1998. Bestimmt für industrielle, technische und gärtnerische Zwecke. Nicht zum direkten Verzehr oder Rauchen geeignet. Das Produkt unterliegt einem natürlichen Gewichtsverlust. Kein Verkauf an Personen unter 18 Jahren. Außerhalb der Reichweite von Kindern aufbewahren.</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8778011312464</id>
+      <title>1 Gramm</title>
+      <s:price currency="EUR">12.97</s:price>
+      <s:sku>2131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8778011312464</id>
+      <title>5 Gramm</title>
+      <s:price currency="EUR">54.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8771752853840</id>
+    <published>2024-02-06T09:50:12+01:00</published>
+    <updated>2024-02-06T09:50:12+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hhcp-pre-rolled-joint-blue-dream-65"/>
+    <title>HHCp  Blue Dream 65%</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/HHCp_joint_pre_rolled_blue_dream.png?v=1707127766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            19.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>HHC-P Joint 65% Blue Dream 2g von Canapuff ist ein bereits fertiggestellter Joint mit einem hohen Gehalt an HHC-P, der den authentischen Geschmack von Blue Dream bietet. Dieses Produkt ist ideal für diejenigen, die eine bequeme und zeitsparende Option suchen, ohne zusätzliche Vorbereitungen treffen zu müssen. Mit seinem hohen HHC-P-Gehalt verspricht der HHC-P Joint Blue Dream von Canapuff ein intensives Erlebnis und bewahrt das charakteristische Terpenprofil der Blue Dream-Sorte.</p>
+<p>Tauche ein in den einzigartigen Geschmack und das Aroma von Blue Dream, die von frischen und fruchtigen Kopfnoten von Beeren und Orangenschale geprägt sind. Diese Nuancen werden harmonisch durch Basisnoten von Kiefer, frischem Ingwer und Rose ergänzt. Diese vielschichtige Geschmackspalette wird dir ein authentisches und unvergessliches Erlebnis bieten.</p>
+<p>HHC-P, oder Hexahydrocannabiphorol, ist ein neuartiges Cannabinoid, das aufgrund seiner starken Wirkung als eine der potentesten Formen von THC gilt.</p>
+<p><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;" data-mce-style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Produkt nach dem Gesetz §5 Nr. 167/1998. Bestimmt für industrielle, technische und gärtnerische Zwecke. Nicht zum direkten Verzehr oder Rauchen geeignet. Das Produkt unterliegt einem natürlichen Gewichtsverlust. Kein Verkauf an Personen unter 18 Jahren. Außerhalb der Reichweite von Kindern aufbewahren.</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8771752853840</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.97</s:price>
+      <s:sku>2129</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8769406959952</id>
+    <published>2024-01-31T15:17:03+01:00</published>
+    <updated>2024-01-31T15:17:03+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/canapuff-green-crack-40-premium-hhc-p-bluten"/>
+    <title>HHC-P GREEN CRACK 40%</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/HHCP__HHC_blueten_green_crack_a41a2dc0-b32d-4577-81d9-f1564f527a62.png?v=1710330906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            49.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Canapuff HHC-P Blumen – GREEN CRACK 40%</strong></span></p>
+<p data-mce-fragment="1">Wir stellen Ihnen Canapuff HHC-P Flowers vor, ein einzigartiges Produkt, das das reinste und intensivste HHC-P-Erlebnis bietet. Canapuff HHC-P Flowers wurde nach höchsten Qualitätsstandards hergestellt und wird alle Ihre Erwartungen übertreffen. Dieses Erlebnis beginnt bei den Blumen selbst, die perfekt geschnitten und blattlos sind. Dadurch wird sichergestellt, dass Sie das Beste aus jeder Blüte herausholen. Aber das ist noch nicht alles! Canapuff-Blüten sind mit HHC-P-Destillat angereichert, das von hoher Qualität ist und den höchsten Anteil an HHC-P-Wirkstoffen auf dem Markt enthält. Das Beste an Canapuff HHC-P Flowers ist ihre Vielseitigkeit. Sie eignen sich hervorragend zum Zubereiten von Salben oder zur Präsentation als Kunstobjekt. Und mit einem hohen HHC-P-Gehalt und einer breiten Palette an Terpenen sind dies Blumen, die einen Versuch wirklich wert sind!</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">GREEN CRACK 40%</strong></span></p>
+<p data-mce-fragment="1">Gekrönt wird es von außergewöhnlichen Aromen, die das Ergebnis einer einzigartigen Kombination aus Zitrusfrüchten, erdiger Erde und Süße sind. Diese Kombination führt zu einem intensiven und dennoch angenehmen Geschmack, der Sie bei jeder Berührung verzaubern wird.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Canapuff Premium</strong></span></p>
+<p data-mce-fragment="1">Premium Canapuff-Blüten sind hochwertige Hanfprodukte, die sorgfältig ausgewählt und verarbeitet wurden, um die Erwartungen selbst der anspruchsvollsten Benutzer zu erfüllen. Diese Blüten zeichnen sich durch ein intensives Aroma aus und enthalten ausgewählte Cannabinoide, die dem Benutzer ein einzigartiges und kraftvolles Erlebnis bieten.</p>
+<p data-mce-fragment="1"><em data-mce-fragment="1">Wichtig: HHC-P ist nicht für den direkten Verzehr bestimmt. Kein Verkauf an unter 18-Jährige.</em></p>
+<p data-mce-fragment="1"><em data-mce-fragment="1">Produkt gemäß Gesetz §5 Nr. 167/1998. Für industrielle, technische und gärtnerische Zwecke bestimmt. Nicht zum direkten Verzehr oder Rauchen bestimmt. Das Produkt unterliegt einem natürlichen Gewichtsverlust. Kein Verkauf an unter 18-Jährige. Außerhalb der Reichweite von Kindern aufbewahren.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8769406959952</id>
+      <title>5g</title>
+      <s:price currency="EUR">49.97</s:price>
+      <s:sku>2036</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8681973023056</id>
+    <published>2023-10-21T23:06:07+02:00</published>
+    <updated>2023-10-21T23:06:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hhc-p-bluten-forbidden-guava-50"/>
+    <title>HHC-P Forbidden Guava 50%</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/HHCP_blueten_forbidden_guava_hhc_kaufen.png?v=1700667093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            11.97 - 54.97
+            <a href="https://hhcfriends.de/products/hhc-p-bluten-forbidden-guava-50">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Canapuff HHC-P Premium-Blüten Forbidden Guava</h2>
+<p>Ein Erzeugnis, das Canapuffs Expertise und erstklassige Qualität verkörpert. Diese renommierte Marke hat sich einen Namen durch ihre herausragenden HHC-P-Blüten gemacht, die mit größter Sorgfalt kultiviert und verarbeitet werden, um höchsten Qualitätsansprüchen gerecht zu werden.<br><br>FORBIDDEN GUAVA sticht als besondere Hybridzüchtung hervor und entfaltet ein unverkennbares, saftiges Bouquet von Guave, Kirsche und Papaya. Dieses vielschichtige Aromenspektrum vereint Süße mit warmen floralen Akzenten und einem markanten tropischen Flair, welches durch eine charakteristische hefe- und käseartige Grundnote abgerundet wird.<br><br>Es gibt einige charakteristische Eigenschaften der HHC-P-Blüten, die dich beeindrucken werden. Sie bieten eine wohltuende Entspannung und Gelassenheit ohne unerwünschte Nebeneffekte. Ihr Effekt ist mild und harmonisch, was sie zur idealen Option für all jene macht, die nach Ausgeglichenheit und Erholung streben.</p>
+<p><em>Produkt nach dem Gesetz §5 Nr. 167/1998. Bestimmt für industrielle, technische und gärtnerische Zwecke. Nicht zum direkten Verzehr oder Rauchen geeignet. Das Produkt unterliegt einem natürlichen Gewichtsverlust. Kein Verkauf an Personen unter 18 Jahren. Außerhalb der Reichweite von Kindern aufbewahren.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8681973023056</id>
+      <title>1 Gramm</title>
+      <s:price currency="EUR">11.97</s:price>
+      <s:sku>1314</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8681973023056</id>
+      <title>5 Gramm</title>
+      <s:price currency="EUR">54.97</s:price>
+      <s:sku>1315</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8681972171088</id>
+    <published>2023-10-21T23:06:07+02:00</published>
+    <updated>2023-10-21T23:06:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hhc-p-bluten-double-bubble-50"/>
+    <title>HHC-P Double Bubble 50%</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/HHCP_blueten_double_bubble_OG_premium.png?v=1700667047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            10.97 - 54.97
+            <a href="https://hhcfriends.de/products/hhc-p-bluten-double-bubble-50">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>HHC-P Premium-Blüten Double Bubble von Canapuff kaufen</h2>
+<p><span style="font-size: 0.875rem;"><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;">Ein Spitzenprodukt der renommierten Marke Canapuff. Diese Marke zeichnet sich durch höchste Qualität und fortschrittliche Produktentwicklung im Bereich HHCp aus. Canapuff wird weithin als eine der Top-Marken in ihrer Branche anerkannt, nicht nur wegen ihres Qualitätsversprechens, sondern auch aufgrund ihrer Anwendung aktueller wissenschaftlicher Forschung zur Optimierung ihrer Angebote.<br data-mce-fragment="1"><br data-mce-fragment="1">HHCp, der zentrale Bestandteil dieses Produktes, ist das Resultat intensiver Forschungs- und Entwicklungsarbeit. Es handelt sich um ein potentiertes Destillat mit Premium-CBD-Blüten. Diese spezielle Mischung verspricht ein herausragendes Erlebnis, das selbst die kritischsten Verbraucher überzeugen wird.<br data-mce-fragment="1"><br data-mce-fragment="1">Inhaltsstoffe:<br data-mce-fragment="1"></span></span></p>
+<ul>
+<li><span style="font-size: 0.875rem;"><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;">50% HHCp-Destillat</span></span></li>
+<li>Erstklassige CBD-Blüten</li>
+</ul>
+<p><span style="font-size: 0.875rem;"><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;"><br data-mce-fragment="1">Double Bubble OG zeigt sich als Indica-lastige Komposition und verströmt Nuancen von süßem Kaugummi und Beeren, durchzogen von dezenten erdigen und holzigen Tönen. Dieses Produkt verspricht Entspannung und Gelassenheit, ideal um nach einem fordernden Tag abzuschalten.<br data-mce-fragment="1"><br data-mce-fragment="1">Geschmack:<br data-mce-fragment="1">Kaugummi, Süßigkeit, Beeren, Erdnoten, Gewürze, holzig</span></span><br></p>
+<p><em>Produkt nach dem Gesetz §5 Nr. 167/1998. Bestimmt für industrielle, technische und gärtnerische Zwecke. Nicht zum direkten Verzehr oder Rauchen geeignet. Das Produkt unterliegt einem natürlichen Gewichtsverlust. Kein Verkauf an Personen unter 18 Jahren. Außerhalb der Reichweite von Kindern aufbewahren.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8681972171088</id>
+      <title>1 Gramm</title>
+      <s:price currency="EUR">10.97</s:price>
+      <s:sku>1312</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8681972171088</id>
+      <title>5 Gramm</title>
+      <s:price currency="EUR">54.97</s:price>
+      <s:sku>1313</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8681969615184</id>
+    <published>2023-10-21T23:06:07+02:00</published>
+    <updated>2023-10-21T23:06:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hhc-p-bluten-durban-poison-50"/>
+    <title>HHC-P Durban Poison 50%</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/HHCP_blueten_durban_poison_canapuff_hhcfriends.png?v=1700664871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            10.97 - 54.97
+            <a href="https://hhcfriends.de/products/hhc-p-bluten-durban-poison-50">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>HHC-P Premium-Blüten Goji OG 50%</h2>
+<p><br></p>
+<p>Intensiv. Beeindruckend. Verlockend. Das sind nur einige Begriffe, die CanaPuff - Durban Poison 50% treffend beschreiben. Hinter diesem Produkt steht das handwerkliche Geschick und die Neuerungskraft, mit der CanaPuff die Welt der <strong>HHC-P-Blüten</strong> bereichert.<br><br>CanaPuff setzt Maßstäbe in puncto erstklassige Qualität und Bestreben nach Exzellenz. Die HHC-P-Blüten wachsen unter genauester Aufsicht und werden mit modernster Technik veredelt, um jedem Kunden ein herausragendes Erlebnis zu garantieren.<br><br>Durban Poison, eine pure Sativa, ist bekannt für ihre belebende, aufmunternde und kreativitätsfördernde Wirkung. Mit ihrem angenehm süßen Duft und einem Geschmacksprofil, das süße, säuerliche, erdige, kiefern- und zitrusähnliche Nuancen verbindet, ist Durban Poison der ideale Partner für alle, die auch an anspruchsvollen Arbeitstagen effektiv bleiben möchten.</p>
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem; display: inline !important;"> </div>
+<p><em>Produkt nach dem Gesetz §5 Nr. 167/1998. Bestimmt für industrielle, technische und gärtnerische Zwecke. Nicht zum direkten Verzehr oder Rauchen geeignet. Das Produkt unterliegt einem natürlichen Gewichtsverlust. Kein Verkauf an Personen unter 18 Jahren. Außerhalb der Reichweite von Kindern aufbewahren.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8681969615184</id>
+      <title>1 Gramm</title>
+      <s:price currency="EUR">10.97</s:price>
+      <s:sku>1310</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8681969615184</id>
+      <title>5 Gramm</title>
+      <s:price currency="EUR">54.97</s:price>
+      <s:sku>1311</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8681966534992</id>
+    <published>2023-10-21T23:06:07+02:00</published>
+    <updated>2023-10-21T23:06:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hhc-p-bluten-goji-og-50"/>
+    <title>HHC-P Goji OG 50%</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/HHCP_blueten_goji_og_hhcfriends.png?v=1700664839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            10.97 - 54.97
+            <a href="https://hhcfriends.de/products/hhc-p-bluten-goji-og-50">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>HHC-P Premium-Blüten Goji OG 50% online kaufen | Top Qualität</h2>
+<p>Entdecke ein Premium-Qualitätsprodukt von CanaPuff, dem Spitzenreiter in der Herstellung von erstklassigen HHC-P-Blüten.<br><br>Mit diesem Produkt erhältst du nicht nur ein beeindruckendes Erlebnis, sondern auch verlässliche Qualität. CanaPuff steht für die Herstellung von Top-HHC-P-Blüten, und dieses Produkt unterstreicht diesen Anspruch.</p>
+<p><em>Produkt nach dem Gesetz §5 Nr. 167/1998. Bestimmt für industrielle, technische und gärtnerische Zwecke. Nicht zum direkten Verzehr oder Rauchen geeignet. Das Produkt unterliegt einem natürlichen Gewichtsverlust. Kein Verkauf an Personen unter 18 Jahren. Außerhalb der Reichweite von Kindern aufbewahren.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8681966534992</id>
+      <title>1 Gramm</title>
+      <s:price currency="EUR">10.97</s:price>
+      <s:sku>1308</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8681966534992</id>
+      <title>5 Gramm</title>
+      <s:price currency="EUR">54.97</s:price>
+      <s:sku>1309</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8671996739920</id>
+    <published>2023-10-10T22:33:47+02:00</published>
+    <updated>2023-10-10T22:33:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hhc-p-joint-50-strawnana-2g"/>
+    <title>HHC-P  50% Strawnana 2g</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/HHCP_strawnana_vape_sativa_premium_quality_hhcfriends.png?v=1700664803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            18.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1">HHC-P pre-rolled Joint Strawnana <br data-mce-fragment="1">
+</h2>
+<p data-mce-fragment="1">Genieße jetzt den erfrischend leckeren pre-rolled Joint mit kraftvollen 50% HHC-P! </p>
+<p data-mce-fragment="1">Eigenschaften:<br data-mce-fragment="1">HHCP-Gehalt: 50%<br data-mce-fragment="1">Produktgewicht: 2 g<br data-mce-fragment="1">Sorte: Hybrid</p>
+<p data-mce-fragment="1"><meta charset="utf-8">Produkt nach dem Gesetz §5 Nr. 167/1998. Bestimmt für industrielle, technische und gärtnerische Zwecke. Nicht zum direkten Verzehr oder Rauchen geeignet. Das Produkt unterliegt einem natürlichen Gewichtsverlust. Kein Verkauf an Personen unter 18 Jahren. Außerhalb der Reichweite von Kindern aufbewahren.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8671996739920</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">18.97</s:price>
+      <s:sku>1296</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8668596994384</id>
+    <published>2023-10-09T20:59:24+02:00</published>
+    <updated>2023-10-09T20:59:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hhc-p-blute-gamma-ray-purple-haze-15"/>
+    <title>HHC-P Gamma Ray (Purple Haze) 15 %</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/HHCP_premium_gamma_ray.png?v=1700825202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            10.47 - 44.97
+            <a href="https://hhcfriends.de/products/hhc-p-blute-gamma-ray-purple-haze-15">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>HHC-P Blüte kaufen Cannastra Gamma Ray (Purple Haze)15 %</h2>
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem; display: inline !important;">Merkmale:</div>
+<ul style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">
+<li>HHC-P-Destillat 15%</li>
+<li>THC weniger als 0,1%</li>
+<li>CBD weniger als 3%</li>
+</ul>
+<ul></ul>
+<p> <br>Hersteller : Cannastra</p>
+<p>Produkt nach dem Gesetz §5 Nr. 167/1998. Bestimmt für industrielle, technische und gärtnerische Zwecke. Nicht zum direkten Verzehr oder Rauchen geeignet. Das Produkt unterliegt einem natürlichen Gewichtsverlust. Kein Verkauf an Personen unter 18 Jahren. Außerhalb der Reichweite von Kindern aufbewahren.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8668596994384</id>
+      <title>1 Gramm</title>
+      <s:price currency="EUR">10.47</s:price>
+      <s:sku>1280</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8668596994384</id>
+      <title>5 Gramm</title>
+      <s:price currency="EUR">44.97</s:price>
+      <s:sku>2107</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8610876358992</id>
+    <published>2023-08-17T17:02:09+02:00</published>
+    <updated>2023-08-17T17:02:09+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hhc-hhcp-blueten-probierset"/>
+    <title>Probierset Dream Happy HHC &amp; HHC-P</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/HHC_HHCP_dream_happy_purple_queen_blue_dream_flower_power_probierset.png?v=1701689636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            26.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong><meta charset="utf-8"> </strong>
+<h2 data-mce-fragment="1">Jetzt das neue HHC &amp; HHC-P Blüten-Set von Dream Happy probieren!</h2>
+<p>Premium-Qualität für maximale Wirkung mit außergewöhnlichem Geschmack!Probiere jetzt das neue Blüten-Set von Dream Happy aus. Hochwertiges Indoor-Growing aus der Schweiz. </p>
+<p>Das Set enthält:</p>
+<ul>
+<li>HHC-P Blüten Blue Dream 4% Swiss made</li>
+<li>HHC-P Blüten Flower Power 5% Made in Switzerland</li>
+<li>HHC Blüten Purple Queen 40% </li>
+</ul>
+<p> HHC-P Blüten Blue Dream 4% </p>
+<p>HHC-P Blue Dream - ein Premium-Produkt von Dream Happy, welches eine einzigartige Kombination aus moderatem HHC-P-Gehalt, perfekt ausgewogenem sanften Geschmack und Aroma bietet.<br></p>
+<p data-mce-fragment="1">Wirkung: Sanftes und smoothes HHC-P. Eine Hybridsorte, die für ihre verlockende entspannende Wirkungsweise bekannt ist.</p>
+<p data-mce-fragment="1">Merkmale:</p>
+<ul>
+<li>CBD Blüten</li>
+<li>technische Hanfblüte</li>
+<li>HHC-P-Destillat 4 %</li>
+<li>THC-Gehalt weniger als 0,2 %</li>
+</ul>
+<p data-mce-fragment="1"> HHC-P Blüten Flower Power 5% </p>
+<p data-mce-fragment="1">HHC-P Flower Power - ein Premium-Produkt von Dream Happy, welches eine einzigartige Kombination aus moderatem HHC-P-Gehalt, perfekt ausgewogenem Geschmack und Aroma bietet.</p>
+<p data-mce-fragment="1">Wirkung: Euphorisierendes und erfrischendes HHC-P. Eine Hybridsorte, die für ihren angenehmen Energieschub bekannt ist.</p>
+<p data-mce-fragment="1">Merkmale:<br></p>
+<ul>
+<li>CBD Blüten</li>
+<li>technische Hanfblüte</li>
+<li>HHC-P-Destillat 5 %</li>
+<li>THC-Gehalt weniger als 0,2 %</li>
+</ul>
+<p><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"> HHC Blüten Purple Queen 40% </span></p>
+<p data-mce-fragment="1">Premium-Qualität für maximale Wirkung mit außergewöhnlichem Geschmack!<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">HHC Purple Queen - im wahrsten Sinne des Wortes : eine Queen!<br>Ein Premium-Produkt von Dream Happy, welches eine einzigartige Kombination aus hohem HHC-Gehalt, kräftigem Geschmack und Aroma bietet.</p>
+<p data-mce-fragment="1">Wirkung: Euphorisierend</p>
+<p>Merkmale:</p>
+<ul>
+<li>CBD Blüten</li>
+<li>technische Hanfblüte</li>
+<li>HHC Destillat 40%</li>
+<li>THC-Gehalt weniger als 0,2 %</li>
+</ul>
+<p data-mce-fragment="1">Enthält hohe Mengen an HHC-P und eine Reihe anderer Terpene. Probiere jetzt das HHC von Dream Happy aus!</p>
+<p data-mce-fragment="1">HHC &amp; HHC-P kann:</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Entzündungen verringern</li>
+<li data-mce-fragment="1">Schlaf fördern</li>
+<li data-mce-fragment="1">Übelkeit lindern </li>
+<li data-mce-fragment="1">Ängste lindern</li>
+</ul>
+<p data-mce-fragment="1"> <meta charset="utf-8">Hochwertiges Indoor-Growing - Made in Switzerland.</p>
+<p data-mce-fragment="1">Produkt nach dem Gesetz §5 Nr. 167/1998. Bestimmt für industrielle, technische und gärtnerische Zwecke. Nicht zum direkten Verzehr oder Rauchen geeignet. Das Produkt unterliegt einem natürlichen Gewichtsverlust. Kein Verkauf an Personen unter 18 Jahren. Außerhalb der Reichweite von Kindern aufbewahren.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8610876358992</id>
+      <title>3x 1g</title>
+      <s:price currency="EUR">26.97</s:price>
+      <s:sku>1079</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8590065631568</id>
+    <published>2023-07-25T12:34:35+02:00</published>
+    <updated>2023-07-25T12:34:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hhc-p-blue-dream-von-dream-happy"/>
+    <title>HHC-P Blue Dream 4%</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/HHCP_dream_happy_blue_dream.png?v=1701444268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            6.97 - 54.97
+            <a href="https://hhcfriends.de/products/hhc-p-blue-dream-von-dream-happy">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h2 data-mce-fragment="1">HHC-P Blüten Blue Dream 4% kaufen bei hhcfriends</h2>
+<p data-mce-fragment="1">Premium-Qualität für maximale Wirkung mit außergewöhnlichem Geschmack!<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">HHC-P Blue Dream - ein Premium-Produkt von Dream Happy, welches eine einzigartige Kombination aus moderatem HHC-P-Gehalt, perfekt ausgewogenem sanften Geschmack und Aroma bietet.</p>
+<p data-mce-fragment="1">Wirkung: Sanftes und smoothes HHC-P. Eine Hybridsorte, die für ihre verlockende entspannende Wirkungsweise bekannt ist.</p>
+<p data-mce-fragment="1">HHC-P kann:</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Entzündungen verringern</li>
+<li data-mce-fragment="1">Schlaf fördern</li>
+<li data-mce-fragment="1">Übelkeit lindern </li>
+<li data-mce-fragment="1">Ängste lindern</li>
+</ul>
+<p>Merkmale:</p>
+<ul>
+<li>CBD Blüten</li>
+<li>technische Hanfblüte</li>
+<li>HHC-P-Destillat 4 %</li>
+<li>THC-Gehalt weniger als 0,2 %</li>
+</ul>
+<p data-mce-fragment="1">Hochwertiges Indoor-Growing - Made in Switzerland.</p>
+<p data-mce-fragment="1">Produkt nach dem Gesetz §5 Nr. 167/1998. Bestimmt für industrielle, technische und gärtnerische Zwecke. Nicht zum direkten Verzehr oder Rauchen geeignet. Das Produkt unterliegt einem natürlichen Gewichtsverlust. Kein Verkauf an Personen unter 18 Jahren. Außerhalb der Reichweite von Kindern aufbewahren.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8590065631568</id>
+      <title>1g</title>
+      <s:price currency="EUR">6.97</s:price>
+      <s:sku>1200</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8590065631568</id>
+      <title>5g</title>
+      <s:price currency="EUR">34.97</s:price>
+      <s:sku>1201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8590065631568</id>
+      <title>10g</title>
+      <s:price currency="EUR">54.97</s:price>
+      <s:sku>1202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8590091157840</id>
+    <published>2023-07-25T12:34:30+02:00</published>
+    <updated>2023-07-25T12:34:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hhc-p-bluten-flower-power-von-dream-happy-1-10g"/>
+    <title>HHC-P Dream Happy Flower Power 5%</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/HHCP_dream_happy_flower_power.png?v=1701443838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            7.97 - 54.97
+            <a href="https://hhcfriends.de/products/hhc-p-bluten-flower-power-von-dream-happy-1-10g">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong><meta charset="utf-8"> </strong>
+<h2>Dream Happy Flower Power HHC-P Blüten mit 5% Gehalt</h2>
+<p>Erlebe erstklassige Qualität aus der Schweiz mit Dream Happy Flower Power HHC-P Blüten. Diese Premium-Blüten bieten eine optimale Kombination aus moderatem HHC-P-Gehalt und einem perfekt ausbalancierten Geschmackserlebnis.</p>
+<p>Eigenschaften: Euphorisierendes und belebendes HHC-P. Bekannt für einen angenehmen Energieanstieg, vereint diese Hybridsorte Wirkung und Geschmack.</p>
+<p>Vorteile von HHC-P:</p>
+<ul>
+<li>Minderung von Entzündungen</li>
+<li>Unterstützung des Schlafs</li>
+<li>Linderung von Übelkeit</li>
+<li>Reduktion von Ängsten</li>
+</ul>
+<p>Produktdetails:</p>
+<ul>
+<li>CBD-reiche Blüten</li>
+<li>Technische Hanfblüte</li>
+<li>5% HHC-P-Destillat</li>
+<li>THC-Gehalt unter 0,2%</li>
+<li>Premium Indoor-Growing – Hergestellt in der Schweiz</li>
+</ul>
+<p>Bitte beachten: Gemäß §5 Nr. 167/1998 ist dieses Produkt für industrielle, technische und gärtnerische Verwendung vorgesehen. Es ist nicht für den direkten Verzehr oder das Rauchen geeignet. Das Produkt kann einem natürlichen Gewichtsverlust unterliegen. Der Verkauf erfolgt nicht an Personen unter 18 Jahren. Außerhalb der Reichweite von Kindern aufbewahren.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8590091157840</id>
+      <title>1g</title>
+      <s:price currency="EUR">7.97</s:price>
+      <s:sku>1205</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8590091157840</id>
+      <title>5g</title>
+      <s:price currency="EUR">34.97</s:price>
+      <s:sku>1206</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8590091157840</id>
+      <title>10g</title>
+      <s:price currency="EUR">54.97</s:price>
+      <s:sku>1207</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8135029817628</id>
+    <published>2023-03-07T16:48:03+01:00</published>
+    <updated>2023-03-07T16:48:03+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/blue-widow-canapuff-premium-hhc-p-blueten-40"/>
+    <title>HHC-P Blue Widow 40%</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/HHCP_premium_blue_widow_1.png?v=1700812789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            11.97 - 54.97
+            <a href="https://hhcfriends.de/products/blue-widow-canapuff-premium-hhc-p-blueten-40">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Blue Widow von Canapuff  40% <meta charset="utf-8">HHC-P Premium Blüten</h2>
+<p>Enthält hohe Mengen an HHC-P und eine Reihe anderer Terpene. <br>Kaufe bei uns dein HHC und werde Teil der HHC-Friends Community.<br></p>
+<p>HHC-P Gehalt:  40% </p>
+<p>HHC kann:</p>
+<ul>
+<li>Entzündungen verringern</li>
+<li>Schlaf fördern</li>
+<li>Übelkeit lindern </li>
+<li>Ängste lindern</li>
+</ul>
+<p> </p>
+<p>Produkt nach dem Gesetz §5 Nr. 167/1998. Bestimmt für industrielle, technische und gärtnerische Zwecke. Nicht zum direkten Verzehr oder Rauchen geeignet. Das Produkt unterliegt einem natürlichen Gewichtsverlust. Kein Verkauf an Personen unter 18 Jahren. Außerhalb der Reichweite von Kindern aufbewahren.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8135029817628</id>
+      <title>1 Gramm</title>
+      <s:price currency="EUR">11.97</s:price>
+      <s:sku>1203</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8135029817628</id>
+      <title>5 Gramm</title>
+      <s:price currency="EUR">54.97</s:price>
+      <s:sku>1204</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
