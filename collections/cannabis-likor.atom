@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/cannabis-likor.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-06-26T23:55:55+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9287789248848</id>
+    <published>2024-06-26T23:55:55+02:00</published>
+    <updated>2024-06-26T23:55:55+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/steckling-cannabis-likor-0-5l"/>
+    <title>Steckling Cannabis Likör 0,5l</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/steckling_cannabislikeor_ilovepot.png?v=1719836560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            39.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Steckling Cannabis Likör 0,5l</strong></p>
+<p>Lust auf einen besonderen Shot? Der Steckling Cannabis Likör ist in den Geschmacksrichtungen "Candy" und "Royal Purple" verfügbar. Die Candy-Variante überzeugt durch ihre helle Farbe und den süßen Geschmack, während Royal Purple mit einer dunklen Farbe und einem würzigen Aroma besticht.</p>
+<p>Dieser Likör ist der erste seiner Art und wird aus handverlesenen Hanfblüten hergestellt. Die Rezeptur wurde sorgfältig über ein Jahr hinweg entwickelt und mit verschiedenen Strains getestet, um das perfekte Aroma zu erreichen.</p>
+<p>Bitte beachten Sie: Nicht verwenden, wenn Sie schwanger sind, stillen, eine medizinische Erkrankung haben oder Medikamente einnehmen. Bewahren Sie das Produkt außerhalb der Reichweite von Kindern und Tieren auf. Es kann Ihre Fähigkeit beeinträchtigen, ein Fahrzeug zu führen oder Maschinen zu bedienen. Nicht für den Verkauf oder Gebrauch durch Personen unter 18 Jahren bestimmt.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9287789248848</id>
+      <title>Candy</title>
+      <s:price currency="EUR">39.97</s:price>
+      <s:sku>5276</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9287789248848</id>
+      <title>Royal Purple</title>
+      <s:price currency="EUR">39.97</s:price>
+      <s:sku>5277</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

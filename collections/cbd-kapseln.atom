@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/cbd-kapseln.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-06-07T09:48:43+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9264722903376</id>
+    <published>2024-06-07T09:48:43+02:00</published>
+    <updated>2024-06-07T09:48:43+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cannaline-melatonin-cbd-cbn-kapseln"/>
+    <title>Cannaline Sleep Melatonin + CBD + CBN Kapseln</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/melatonin_cbd_cbd_schlaftabletten_kapseln.png?v=1717759100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            19.97 - 39.97
+            <a href="https://hhcfriends.de/products/cannaline-melatonin-cbd-cbn-kapseln">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Cannaline Melatonin + CBD + CBN Kapseln</h3>
+<h4>Gesunder und tiefer Schlaf</h4>
+<p>Entdecke die Cannaline-Kapseln, angereichert mit 5 mg Melatonin, 25 mg CBD und 5 mg CBN! Warum sind sie so großartig?</p>
+<ul>
+<li>
+<strong>Fördern einen gesunden Schlaf</strong>: Melatonin unterstützt eine ruhige und erholsame Nachtruhe.</li>
+<li>
+<strong>Unterstützen Entspannung</strong>: CBD und CBN beruhigen deinen Körper und Geist.</li>
+<li>
+<strong>Maximale Wirkung durch Synergie</strong>: Die Kombination dieser Inhaltsstoffe sorgt für noch bessere Ergebnisse.</li>
+</ul>
+<p> </p>
+<p><strong>Empfohlene Anwendung</strong>: Nimm täglich 1 bis 2 Kapseln mit viel Flüssigkeit ein, am besten etwa 30 Minuten vor dem Schlafengehen und mit etwas Abstand zur letzten Mahlzeit.</p>
+<p><strong>Lagerung</strong>: Bewahre die Kapseln geschlossen, kühl, trocken und lichtgeschützt auf.</p>
+<p><strong>Sicherheitshinweise</strong>:</p>
+<ul>
+<li>
+<strong>Nur für Erwachsene</strong>: Verkauf ab 18 Jahren.</li>
+<li>
+<strong>Von Kindern fernhalten</strong>: Bitte bewahre die Kapseln außerhalb der Reichweite von Kindern auf.</li>
+<li>
+<strong>Nicht für schwangere und stillende Frauen</strong>: Schwangere und stillende Frauen sollten dieses Produkt nicht verwenden.</li>
+</ul>
+<p>Erlebe die Vorteile eines gesunden und tiefen Schlafs mit Cannaline Melatonin + CBD + CBN Kapseln. Gönn dir die Ruhe, die du verdienst!</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9264722903376</id>
+      <title>15 Kapseln</title>
+      <s:price currency="EUR">19.97</s:price>
+      <s:sku>2141</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9264722903376</id>
+      <title>30 Kapseln</title>
+      <s:price currency="EUR">29.97</s:price>
+      <s:sku>2142</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9264722903376</id>
+      <title>45 Kapseln</title>
+      <s:price currency="EUR">39.97</s:price>
+      <s:sku>2143</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

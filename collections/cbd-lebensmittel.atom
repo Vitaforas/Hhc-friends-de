@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/cbd-lebensmittel.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-07-02T16:07:22+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9293947306320</id>
+    <published>2024-07-02T16:07:22+02:00</published>
+    <updated>2024-07-02T16:07:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/bubbly-billy-buds-cbd-gummibarchen-mit-passionsfruchtgeschmack-300-mg-40-beutel-im-karton"/>
+    <title>CBD Gummibärchen - Passionsfrucht 10 Stück 300mg</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/Bubblebilly_budy_gummies_cbd.png?v=1720000148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            19.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>CBD Gummibärchen - Passionsfrucht (10 Stück, 300mg)</strong></p>
+<p>Erlebe die entspannende Wirkung unserer CBD Gummibärchen mit leckerem Passionsfruchtgeschmack. Diese Gummibärchen sind perfekt für dich, wenn du nach einer köstlichen und einfachen Möglichkeit suchst, CBD zu genießen.</p>
+<p><strong>Produktdetails:</strong></p>
+<ul>
+<li>100% legal für den Konsum in der Europäischen Union (EU)</li>
+<li>THC-FREE (0% THC) - Keine narkotische Wirkung</li>
+<li>Hergestellt in der EU</li>
+<li>Packungsinhalt: 100g</li>
+<li>Enthält insgesamt 300mg CBD-Öl (30mg pro Gummibärchen, 10 Gummibärchen pro Packung)</li>
+</ul>
+<p><strong>Zutaten:</strong> Zucker, Glukosesirup, Geliermittel: Gelatine, modifizierte Stärke, Säuerungsmittel: Zitronensäure (E330), Stabilisator: Sorbit (E420), Aromen, Hanföl, CBD (300mg), Farbstoffe (E102, E110, E133)</p>
+<p><strong>Wichtige Hinweise:</strong></p>
+<ul>
+<li>Verkauf nur an Personen ab 18 Jahren.</li>
+<li>Außerhalb der Reichweite von Kindern aufbewahren.</li>
+<li>Nicht für Schwangere geeignet.</li>
+<li>Keine Haftung für Schäden oder unsachgemäße Handhabung.</li>
+<li>Vermeide das Führen von Fahrzeugen und den Umgang mit Maschinen nach dem Konsum.</li>
+<li>Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke bestimmt.</li>
+</ul>
+<p>Genieße die entspannende Wirkung und den exotischen Geschmack unserer CBD Gummibärchen!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9293947306320</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.97</s:price>
+      <s:sku>5262</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9293942096208</id>
+    <published>2024-07-02T16:07:22+02:00</published>
+    <updated>2024-07-02T16:07:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/bubbly-billy-buds-cbd-gummibarchen-mit-erdbeergeschmack-300-mg-40-beutel-im-karton"/>
+    <title>CBD-Gummibärchen - Bubbly Billy Buds 10Stück 300mg</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/erdbeere_Bubblebilly_budy_gummies_cbd.png?v=1720000283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            19.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>CBD-Gummibärchen - Bubbly Billy Buds (300 mg)</strong></p>
+<p>Entdecke die wohltuende Wirkung von CBD mit unseren Bubbly Billy Buds CBD-Gummibärchen.</p>
+<p><strong>Produktdetails:</strong></p>
+<ul>
+<li>
+<strong>100% legal:</strong> Diese Gummibärchen sind vollständig legal für den Konsum in der Europäischen Union (EU).</li>
+<li>
+<strong>THC-frei:</strong> Sie enthalten 0% THC, sodass keine narkotische Wirkung auftritt.</li>
+<li>
+<strong>Hergestellt in der EU:</strong> Du kannst dich auf die hohe Qualität und die strengen europäischen Produktionsstandards verlassen.</li>
+<li>
+<strong>Inhalt:</strong> Jede Packung enthält 100 g und insgesamt 300 mg CBD-Öl.</li>
+<li>
+<strong>Dosierung:</strong> Jedes Gummibärchen hat eine Dosis von 30 mg CBD. In einer Packung findest du 10 Gummibärchen.</li>
+</ul>
+<p><strong>Zutaten:</strong></p>
+<p>Zucker, Glukosesirup, Geliermittel: Gelatine, modifizierte Stärke, Säuerungsmittel: Zitronensäure (E330), Stabilisator: Sorbitol (E420), Aromen, Hanföl, CBD (300 mg), Farbstoffe (E122).</p>
+<p><strong>Wichtige Hinweise:</strong></p>
+<ul>
+<li>Diese Gummibärchen dürfen nur an Personen ab 18 Jahren abgegeben werden.</li>
+<li>Halte sie außerhalb der Reichweite von Kindern.</li>
+<li>Nicht für Schwangere geeignet.</li>
+<li>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung.</li>
+<li>Nach dem Konsum solltest du auf den Gebrauch von Fahrzeugen und Maschinen verzichten.</li>
+<li>Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke gedacht.</li>
+</ul>
+<p>Gönn dir eine entspannende Auszeit mit Bubbly Billy Buds CBD-Gummibärchen und erlebe die beruhigende Wirkung von hochwertigem CBD.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9293942096208</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.97</s:price>
+      <s:sku>5261</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9054370103632</id>
+    <published>2024-04-10T10:51:32+02:00</published>
+    <updated>2024-04-10T10:51:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cannabis-tee-mit-cbd"/>
+    <title>Cannabis Tee mit CBD</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/euphoria_cannabis_tee_cbd.png?v=1713864809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            6.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p _msttexthash="203671" _msthash="3826" data-mce-fragment="1">Hanftee mit CBD</p>
+<p _msttexthash="238596436" _msthash="3825" data-mce-fragment="1">Der Hanftee EUPHORIA bietet eine angenehme und bequeme Möglichkeit, regelmäßig CBD zu konsumieren. Dieser Tee besticht durch sein reiches Kräuteraroma und seinen köstlichen Geschmack. Seine spezielle Mischung eignet sich hervorragend zur Stärkung des Immunsystems, was besonders während plötzlicher Wetteränderungen vom Herbst bis zum Frühjahr von Vorteil ist. Die entspannenden und stressabbauenden Eigenschaften dieses Tees können Ihnen dabei helfen, Ihre Gesundheit zu unterstützen. Die wohltuende Teemischung enthält eine ausgewogene Kombination von Cannabis, Kamille, Zitronengras, Zitronenmelisse, Sanddorn und Orangenöl-Aroma. Der THC-Gehalt liegt unter 0,1%.</p>
+<p _msttexthash="1065740" _msthash="3824" data-mce-fragment="1">Inhalt: 20 einzeln verpackte Teebeutel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9054370103632</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">6.97</s:price>
+      <s:sku>5186</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9054369448272</id>
+    <published>2024-04-10T10:47:26+02:00</published>
+    <updated>2024-04-10T10:47:26+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cbd-tee-immunsystem"/>
+    <title>CBD Tee Immunsystem</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/cannaline_cannabistee_immunsystem.png?v=1713864983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            6.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="flex-1 overflow-hidden">
+<div data-mce-fragment="1" class="react-scroll-to-bottom--css-byfvi-79elbk h-full">
+<div data-mce-fragment="1" class="react-scroll-to-bottom--css-byfvi-1n7m0yu">
+<div data-mce-fragment="1">
+<div data-mce-fragment="1" class="flex flex-col text-sm pb-9">
+<div data-mce-fragment="1" data-testid="conversation-turn-9" dir="auto" class="w-full text-token-text-primary">
+<div data-mce-fragment="1" class="px-4 py-2 justify-center text-base md:gap-6 m-auto">
+<div data-mce-fragment="1" class="flex flex-1 text-base mx-auto gap-3 juice:gap-4 juice:md:gap-6 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group final-completion">
+<div data-mce-fragment="1" class="relative flex w-full flex-col agent-turn">
+<div data-mce-fragment="1" class="flex-col gap-1 md:gap-3">
+<div data-mce-fragment="1" class="flex flex-grow flex-col max-w-full">
+<div data-mce-fragment="1" class="min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto" dir="auto" data-message-id="37f65241-dbd4-4ab1-a646-f894ffe6e232" data-message-author-role="assistant">
+<div data-mce-fragment="1" class="markdown prose w-full break-words dark:prose-invert light">
+<p data-mce-fragment="1" _msttexthash="1011231" _msthash="2497"><strong>Cannaline CBD Tee für das Immunsystem</strong></p>
+<p data-mce-fragment="1" _msttexthash="95916977" _msthash="2498">Unsere Mischung aus Echinacea, Brennnessel, Hagebutte und Minze unterstützt die natürlichen Abwehrkräfte Ihres Körpers und fördert die normale Funktion Ihrer Atemwege. Ginkgo trägt zur Mikrozirkulation Ihres Blutsystems, zur normalen Gehirnfunktion und zum geistigen Gleichgewicht bei. Sanddorn stärkt zusätzlich Ihr Immunsystem und verleiht Ihnen Energie. Die Zugabe von Cannabis sorgt für eine beruhigende Wirkung.</p>
+<p data-mce-fragment="1" _msttexthash="1065740" _msthash="2499">Inhalt: 20 einzeln verpackte Teebeutel</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-mce-fragment="1" class="w-full pt-2 md:pt-0 dark:border-white/20 md:border-transparent md:dark:border-transparent md:w-[calc(100%-.5rem)]"><form data-mce-fragment="1" class="stretch mx-2 flex flex-row gap-3 last:mb-2 md:mx-4 md:last:mb-6 lg:mx-auto lg:max-w-2xl xl:max-w-3xl">
+<div data-mce-fragment="1" class="relative flex h-full flex-1 flex-col">
+<div data-mce-fragment="1" class="absolute bottom-full left-0 right-0"><br data-mce-fragment="1"></div>
+<div data-mce-fragment="1" class="flex w-full items-center"></div>
+</div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9054369448272</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">6.97</s:price>
+      <s:sku>2158</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9054365778256</id>
+    <published>2024-04-10T10:43:47+02:00</published>
+    <updated>2024-04-10T10:43:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cbd-tee-relax-anti-stress"/>
+    <title>CBD Tee Relax &amp; Anti-Stress</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/cannaline_cbd_tee_antistress.png?v=1713864836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            6.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1" _msttexthash="1027390" _msthash="1289"><strong _msttexthash="1027390" _msthash="1550">Cannaline CBD-Tee "ENTSPANNEN &amp; ANTI-STRESS"</strong></p>
+<p data-mce-fragment="1" _msttexthash="414117379" _msthash="1288">Unser Cannaline CBD-Tee "ENTSPANNEN &amp; ANTI-STRESS" ist eine einzigartige Mischung aus Zutaten, die dazu beitragen, eine positive Stimmung zu fördern, Entspannung zu unterstützen und einen erholsamen Schlaf zu ermöglichen. Diese spezielle Mischung umfasst Zitronenmelisse, Kamille und Lavendel, die bekannt dafür sind, beruhigend zu wirken und eine friedliche Atmosphäre zu schaffen. Die Zugabe von Minze unterstützt eine reibungslose Verdauung, während Heather die normale Funktion der Harnwege unterstützt. Hagebutte wird für ihre Fähigkeit geschätzt, die Nieren- und Blasenfunktion zu unterstützen. Darüber hinaus verleiht das enthaltene Cannabis diesem Tee seine entspannenden Eigenschaften, die zu einem Gefühl der Gelassenheit und Ausgeglichenheit beitragen. Entdecken Sie die natürliche Kraft dieser harmonischen Mischung und genießen Sie Momente der Ruhe und Entspannung.<br><br><span _mstmutation="1" _msttexthash="9464" _msthash="1599" style="">﻿</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9054365778256</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">6.97</s:price>
+      <s:sku>5185</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

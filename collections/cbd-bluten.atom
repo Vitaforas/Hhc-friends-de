@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/cbd-bluten.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-07-02T16:07:23+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9293929578832</id>
+    <published>2024-07-02T16:07:23+02:00</published>
+    <updated>2024-07-02T16:07:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cannastra-cbd-bluten-solar-snack-cbd-30-1-g-100-g"/>
+    <title>CBD Blüten Solar Snack 30 %</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/CBD_blueten_solarsnack.png?v=1720001799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            10.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>CBD Blüten Solar Snack 30 %</strong></p>
+<p>Entdecke die einzigartigen CBD Blüten Solar Snack (Kush Mintz) und lass dich von ihrem intensiven Aroma und der beruhigenden Wirkung verzaubern. Mit einem CBD-Gehalt von 30 % und einem THC-Gehalt von weniger als 0,2 % sind diese Blüten die perfekte Wahl für deine entspannenden Momente.</p>
+<p><strong>Produktdetails:</strong></p>
+<ul>
+<li>
+<strong>Sorte:</strong> Solar Snack (Kush Mintz)</li>
+<li>
+<strong>CBD-Gehalt:</strong> 30 %</li>
+<li>
+<strong>THC-Gehalt:</strong> weniger als 0,2 %</li>
+</ul>
+<p><strong>Wichtige Hinweise:</strong></p>
+<ul>
+<li>Verkauf nur an Personen ab 18 Jahren.</li>
+<li>Außerhalb der Reichweite von Kindern aufbewahren.</li>
+<li>Nicht für Schwangere geeignet.</li>
+<li>Keine Haftung für Schäden oder unsachgemäße Handhabung.</li>
+<li>Vermeide den Gebrauch von Fahrzeugen und Maschinen nach dem Konsum.</li>
+<li>Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke bestimmt.</li>
+</ul>
+<p>Gönn dir die entspannende Wirkung der CBD Blüten Solar Snack und erlebe die natürliche Kraft von Kush Mintz!</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9293929578832</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.97</s:price>
+      <s:sku>5259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9264736403792</id>
+    <published>2024-06-07T10:15:04+02:00</published>
+    <updated>2024-06-07T10:15:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/ice-rock-80-cbd-2g-kopie"/>
+    <title>Moon Rock 70% CBD 2g</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/CBD_weed_moon_rocks_swiss_produkt.png?v=1717757505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            14.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Moon Rock 70% CBD – 2 g</h3>
+<p>Entdecke die Premium Moon Rocks von Euphoria, hergestellt aus den besten CBD-Blüten. Diese speziellen Moon Rocks sind mit einem Vollspektrum-Extrakt angereichert und mit öligem CBD-Extrakt ummantelt. Zusätzlich sind sie mit aromatischem CBD-Harz (Kief) bestreut, was ihnen ihren beeindruckenden CBD-Gehalt von 70% verleiht.</p>
+<p><strong>Sicherheitshinweise:</strong></p>
+<ul>
+<li>
+<strong>Verkauf ab 18 Jahren:</strong> Dieses Produkt ist nur für Personen über 18 Jahre erhältlich.</li>
+<li>
+<strong>Von Kindern fernhalten:</strong> Bewahre das Produkt stets außerhalb der Reichweite von Kindern auf.</li>
+<li>
+<strong>Nicht geeignet für schwangere und stillende Frauen:</strong> Schwangere und stillende Frauen sollten dieses Produkt nicht verwenden.</li>
+</ul>
+<p>Erlebe die kraftvolle Wirkung und den unvergleichlichen Geschmack der Moon Rocks von Euphoria – perfekt für alle, die das Beste aus CBD herausholen möchten.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9264736403792</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.97</s:price>
+      <s:sku>2258</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9264734699856</id>
+    <published>2024-06-07T10:11:38+02:00</published>
+    <updated>2024-06-07T10:11:38+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/ice-rock-80-cbd-2g"/>
+    <title>Ice Rock 80% CBD 2g</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/CBD_weed_ice_rocks_swiss_produkt.png?v=1717757408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            14.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Ice Rock 80% CBD - 2 g</h3>
+<p><strong>Entdecke Premium Ice Rocks von Euphoria</strong> – hergestellt aus den besten CBD-Blüten. Diese hochwertigen Sticks sind mit einem Vollspektrum-Extrakt und öligem CBD-Extrakt ummantelt und dann mit schneeweißem CBD-Isolat bestäubt, was ihnen einen beeindruckenden CBD-Gehalt von 80% verleiht.</p>
+<p><strong>Sicherheitshinweise:</strong></p>
+<ul>
+<li>
+<strong>Verkauf ab 18 Jahren:</strong> Dieses Produkt ist nur für Personen über 18 Jahren erhältlich.</li>
+<li>
+<strong>Von Kindern fernhalten:</strong> Bewahre die Ice Rocks außerhalb der Reichweite von Kindern auf.</li>
+<li>
+<strong>Nicht geeignet für schwangere und stillende Frauen:</strong> Schwangere und stillende Frauen sollten dieses Produkt nicht verwenden.</li>
+</ul>
+<p>Genieße die außergewöhnliche Reinheit und Potenz unserer Ice Rocks und erlebe die volle Kraft des Cannabidiols.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9264734699856</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.97</s:price>
+      <s:sku>2251</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9216017596752</id>
+    <published>2024-04-18T14:33:23+02:00</published>
+    <updated>2024-04-18T14:33:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cbd-blute-mango-kush-thc-low"/>
+    <title>CBD Blüte Mango Kush THC Low</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/THC_CBD_bluete_mango_kush.png?v=1713864390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            10.97 - 49.97
+            <a href="https://hhcfriends.de/products/cbd-blute-mango-kush-thc-low">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong _msttexthash="348686" _msthash="9830" data-mce-fragment="1">CBD Blüte Mango Kush</strong></p>
+<p _msttexthash="44932342" _msthash="9829" data-mce-fragment="1">Die CBD Blüte Mango Kush bietet ein exquisites Cannabiserlebnis ohne die psychoaktiven Effekte von THC. Mit einem THC-Gehalt von nur 0,01% und einem CBD-Gehalt von über 4% bietet diese Blüte eine ausgezeichnete Möglichkeit, die beruhigenden und entspannenden Eigenschaften von CBD zu genießen.</p>
+<p _msttexthash="31109169" _msthash="9828" data-mce-fragment="1"><strong data-mce-fragment="1">Aroma und Geschmack:</strong> Genießen Sie das fruchtige und exotische Aroma von Mango gepaart mit den erdigen und würzigen Noten der Kush-Genetik. Jeder Zug bietet ein intensives Geschmackserlebnis, das die Sinne verwöhnt und Entspannung fördert.</p>
+<p _msttexthash="18923515" _msthash="9827" data-mce-fragment="1"><strong data-mce-fragment="1">Anwendungshinweise:</strong> Diese CBD Blüte ist nicht zum direkten Verzehr oder Rauchen geeignet, sondern sollte in einem Vaporizer oder für die Herstellung von CBD-Produkten verwendet werden.</p>
+<p _msttexthash="25895402" _msthash="9826" data-mce-fragment="1"><strong data-mce-fragment="1">Sicherheitshinweise:</strong> Bitte bewahren Sie dieses Produkt außerhalb der Reichweite von Kindern auf und verwenden Sie es nicht während der Schwangerschaft oder Stillzeit. Der Verkauf erfolgt nur an Personen über 18 Jahren.</p>
+<p _msttexthash="17753047" _msthash="9825" data-mce-fragment="1">Entdecken Sie die beruhigenden und entspannenden Eigenschaften von CBD mit der CBD Blüte Mango Kush, einer hochwertigen und geschmacksintensiven Option für Ihre CBD-Bedürfnisse.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9216017596752</id>
+      <title>1g</title>
+      <s:price currency="EUR">10.97</s:price>
+      <s:sku>2145</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9216017596752</id>
+      <title>5g</title>
+      <s:price currency="EUR">49.97</s:price>
+      <s:sku>2146</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9216013664592</id>
+    <published>2024-04-18T14:29:51+02:00</published>
+    <updated>2024-04-18T14:29:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cbd-blute-pineapple-express-thc-low"/>
+    <title>CBD Blüte Pineapple Haze THC Low</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/THC_CBD_bluete_pinneapple_express.png?v=1713864409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            10.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1" _msttexthash="493103" _msthash="8531">CBD Blüte Ananas Haze</strong></p>
+<p data-mce-fragment="1" _msttexthash="40373333" _msthash="8530">Die CBD Blüte Pineapple Haze bietet ein einzigartiges und erfrischendes Erlebnis für Liebhaber von hochwertigem Cannabis. Mit einem THC-Gehalt von nur 0,01% und einem CBD-Gehalt von über 7% präsentiert sie eine ausgeglichene und angenehme Wirkung ohne psychoaktive Effekte.</p>
+<p data-mce-fragment="1" _msttexthash="32046547" _msthash="8529"><strong data-mce-fragment="1">Aroma und Geschmack:</strong> Genießen Sie das aromatische Bouquet der Pineapple Express, das fruchtige Noten von Ananas und tropischen Früchten mit einem Hauch von Süße vereint. Jeder Zug bietet ein erfrischendes und belebendes Erlebnis für die Sinne.</p>
+<p data-mce-fragment="1" _msttexthash="28783027" _msthash="8528"><strong data-mce-fragment="1">Anwendungshinweise:</strong> Bitte beachten Sie, dass diese CBD-Blüte nicht zum direkten Verzehr oder Rauchen geeignet ist. Sie eignet sich hervorragend zur Verwendung in Verdampfern oder zur Zubereitung von Cannabisextrakten und -ölen.</p>
+<p data-mce-fragment="1" _msttexthash="30622397" _msthash="8527"><strong data-mce-fragment="1">Sicherheitshinweise:</strong> Dieses Produkt wird nicht an Personen unter 18 Jahren verkauft und sollte außerhalb der Reichweite von Kindern aufbewahrt werden. Schwangere oder stillende Mütter sollten die Verwendung dieses Produkts vermeiden.</p>
+<p data-mce-fragment="1" _msttexthash="11982152" _msthash="8526">Entdecken Sie die erfrischenden Eigenschaften der CBD Blüte Pineapple Express und erleben Sie die beruhigende Wirkung hochwertigen Cannabidiols.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9216013664592</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.97</s:price>
+      <s:sku>5179</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9215993315664</id>
+    <published>2024-04-18T14:07:31+02:00</published>
+    <updated>2024-04-18T14:07:31+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cbd-blute-blackberry-muffin"/>
+    <title>CBD Blüte Blackberry Muffin THC Low</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/THC_CBD_bluete_Blackberry_Muffin.png?v=1713864427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            9.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong _msttexthash="606086" _msthash="5660" data-mce-fragment="1">CBD Blüte Blackberry Muffin</strong></p>
+<p _msttexthash="65179140" _msthash="5659" data-mce-fragment="1">Die CBD-Blüte Blackberry Muffin bietet ein einzigartiges aromatisches Erlebnis, das Ihre Sinne verwöhnt und Ihre Entspannung fördert. Mit einem THC-Gehalt von 0,01% und einem CBD-Gehalt von 5% ist diese Blüte perfekt für alle, die die beruhigenden und wohltuenden Eigenschaften von CBD genießen möchten, ohne die psychoaktiven Effekte von THC zu erleben.</p>
+<p _msttexthash="55720782" _msthash="5658" data-mce-fragment="1"><strong data-mce-fragment="1">Aroma und Geschmack:</strong> Die Blackberry Muffin Blüte besticht durch ihr verlockendes Aroma von süßen, saftigen Brombeeren, das von einem Hauch von cremigen Muffins begleitet wird. Jeder Zug bietet ein harmonisches Zusammenspiel von Fruchtigkeit und Süße, das Ihren Gaumen verwöhnt und ein Gefühl der Entspannung hervorruft.</p>
+<p _msttexthash="30503148" _msthash="5657" data-mce-fragment="1"><strong data-mce-fragment="1">Anwendungshinweise:</strong> Bitte beachten Sie, dass diese Blüte nicht zum direkten Verzehr oder Rauchen geeignet ist. Sie eignet sich ideal für die Verwendung in Vaporizern oder zur Zubereitung von CBD-reichen Produkten wie Ölen oder Tinkturen.</p>
+<p data-mce-fragment="1"><strong _msttexthash="441727" _msthash="5656" data-mce-fragment="1">Sicherheitshinweise:</strong></p>
+<ul data-mce-fragment="1">
+<li _msttexthash="7440784" _msthash="5653" data-mce-fragment="1">Kein Verkauf an Personen unter 18 Jahren: Dieses Produkt ist ausschließlich für Personen über 18 Jahren bestimmt.</li>
+<li _msttexthash="11425141" _msthash="5654" data-mce-fragment="1">Außerhalb der Reichweite von Kindern aufbewahren: Bitte bewahren Sie die CBD-Blüte an einem sicheren Ort auf, der für Kinder unzugänglich ist.</li>
+<li _msttexthash="17236518" _msthash="5655" data-mce-fragment="1">Nicht für Schwangere oder stillende Mütter geeignet: Wenn Sie schwanger sind, stillen oder gesundheitliche Bedenken haben, konsultieren Sie bitte vor der Verwendung einen Arzt.</li>
+</ul>
+<p _msttexthash="15743871" _msthash="5652" data-mce-fragment="1">Entdecken Sie die entspannenden und beruhigenden Eigenschaften der CBD Blüte Blackberry Muffin und lassen Sie sich von ihrem köstlichen Aroma und Geschmack verzaubern.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9215993315664</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.97</s:price>
+      <s:sku>2144</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9215984173392</id>
+    <published>2024-04-18T13:59:21+02:00</published>
+    <updated>2024-04-18T13:59:21+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cbd-blute-super-lemon-haze-thc-free"/>
+    <title>CBD Blüte Super Lemon Haze THC LOW</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/THC_CBD_bluete_super_lemon_haze.png?v=1713864443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            10.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1" _msttexthash="521092" _msthash="3032">CBD Blüte Super Lemon Haze</strong></p>
+<p data-mce-fragment="1" _msttexthash="40685892" _msthash="3031">Die CBD-Blüte Super Lemon Haze bietet ein einzigartiges Hanferlebnis für Liebhaber hochwertiger CBD-Produkte. Mit einem THC-Gehalt von 0,01% und einem CBD-Gehalt von über 11% bietet diese Blüte ein angenehmes und ausgewogenes Cannabinoidprofil ohne psychoaktive Effekte.</p>
+<p data-mce-fragment="1" _msttexthash="34090654" _msthash="3030"><strong data-mce-fragment="1">Geschmack und Aroma:</strong> Genießen Sie die erfrischende Zitrusnote der Super Lemon Haze, die von einem Hauch von Skunk und einem süßen Unterton begleitet wird. Dieses harmonische Aroma ist ein Fest für die Sinne und verleiht Ihnen ein angenehmes Hanferlebnis.</p>
+<p data-mce-fragment="1" _msttexthash="20722299" _msthash="3029"><strong data-mce-fragment="1">Anwendungshinweise:</strong> Diese CBD-Blüte ist nicht zum direkten Verzehr oder Rauchen geeignet. Bitte verwenden Sie sie in einem geeigneten Verdampfer oder zur Herstellung von CBD-Extrakten und -Ölen.</p>
+<p data-mce-fragment="1" _msttexthash="26606775" _msthash="3028"><strong data-mce-fragment="1">Sicherheitshinweise:</strong> Dieses Produkt wird nicht an Personen unter 18 Jahren verkauft und sollte außerhalb der Reichweite von Kindern aufbewahrt werden. Schwangere oder stillende Frauen sollten von der Verwendung absehen.</p>
+<p data-mce-fragment="1" _msttexthash="14163565" _msthash="3027">Entdecken Sie die vielfältigen Anwendungsmöglichkeiten und die beruhigenden Eigenschaften der CBD-Blüte Super Lemon Haze für ein entspanntes Hanferlebnis.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9215984173392</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.97</s:price>
+      <s:sku>2147</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

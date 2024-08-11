@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/cbd-ol-fur-katzen.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-05-14T18:17:03+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9239808508240</id>
+    <published>2024-05-14T18:17:03+02:00</published>
+    <updated>2024-05-14T18:17:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cbd-oel-fuer-katzen"/>
+    <title>CBD-Öl für Katzen 5%</title>
+    <s:type></s:type>
+    <s:vendor>ShinyGram.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/Shinygram_cbd_cat_5.png?v=1715703438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>ShinyGram.com<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            24.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Qualitätssicherheit:</strong> Mit einem Sicherheitsbericht für jedes Öl garantieren wir Reinheit und Qualität.</p>
+<p><strong>Herstellung aus Hanfblättern:</strong> Unser CBD Öl wird ausschließlich aus Hanfblättern gewonnen, bestätigt durch schriftliche Herstellerangaben.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Empfohlene Dosierung/Tag:</strong> 1 Tropfen pro 5 kg Gewicht der Katze</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">CBD-Gehalt in 1 Tropfen:</strong>  circa 2,5 mg CBD</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Lagerung:</strong> an einem kühlen Ort und von direktem Sonnenlicht geschützt</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Haltbarkeitsdatum:</strong> 6 Monate ab Öffnung</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Inhaltsstoffe:</strong> Lachsöl &amp; Breitspektrum-Hanfextrakt (CBD 500 mg, THC ≦ 0,05%)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9239808508240</id>
+      <title>5%</title>
+      <s:price currency="EUR">24.97</s:price>
+      <s:sku>4440000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
