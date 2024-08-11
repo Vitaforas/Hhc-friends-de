@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/mushroom-superfood.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-07-11T12:28:13+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9303397138768</id>
+    <published>2024-07-11T12:28:13+02:00</published>
+    <updated>2024-07-11T12:28:13+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/maitake-kapseln-30-stuck"/>
+    <title>MAITAKE Kapseln 30 Stück</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/happycaps_maitake_mentale_staerke_kapseln.png?v=1721032251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            29.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="flex flex-grow flex-col max-w-full">
+<div class="min-h-[20px] text-message flex flex-col items-start whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 juice:w-full juice:items-end overflow-x-auto gap-2" dir="auto" data-message-id="8181d923-a20f-44b2-865b-d9e3a90d805c" data-message-author-role="assistant">
+<div class="flex w-full flex-col gap-1 juice:empty:hidden juice:first:pt-[3px]">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<h3>MAITAKE Kapseln</h3>
+<p><strong>Was ist es?</strong><br>Sie fragen sich, warum der Maitake-Pilz als „Superfood für die psychische Gesundheit“ gilt? Diese Kapseln enthalten den kraftvollen Maitake-Pilz, der zahlreiche Vorteile für Ihre psychische Gesundheit bietet. Eine Packung enthält 30 Kapseln, die Ihnen helfen können, Ihr Wohlbefinden zu steigern.</p>
+<p><strong>Was sind die Vorteile?</strong></p>
+<ul>
+<li>
+<strong>Adaptogen</strong>: Maitake-Pilze sind Adaptogene, die Ihren Körper dabei unterstützen, mit verschiedenen geistigen und körperlichen Belastungen wie Depressionen umzugehen.</li>
+<li>
+<strong>Immunität</strong>: Der Maitake-Pilz hat einen positiven Einfluss auf Ihre allgemeine Immunität und stärkt Ihr Abwehrsystem.</li>
+<li>
+<strong>Reich an Nährstoffen</strong>: Diese Pilze sind reich an Antioxidantien, Beta-Glucanen, Vitamin B und C, Kupfer, Kalium, Ballaststoffen, Mineralien und Aminosäuren.</li>
+<li>
+<strong>Blutzuckerspiegel</strong>: Sie helfen dabei, den Blutzuckerspiegel zu senken, was besonders für Menschen mit Diabetes von Vorteil sein kann.</li>
+</ul>
+<p><strong>Warnung:</strong></p>
+<ul>
+<li>Nicht dem direkten Sonnenlicht aussetzen.</li>
+<li>An einem trockenen Ort aufbewahren.</li>
+<li>Außerhalb der Reichweite von Kindern und Haustieren aufbewahren.</li>
+<li>Abgabe erst ab 18 Jahren möglich und für Kinder unzugänglich aufbewahren.</li>
+<li>Für Schwangere verboten.</li>
+<li>Für Schäden oder unsachgemäße Handhabung übernehmen wir keine Haftung.</li>
+<li>Wir raten vom Verwenden von Transportmitteln und allen Maschinen nach dem Konsum ab.</li>
+<li>Unsere Produkte sind nur für wissenschaftliche Zwecke geeignet.</li>
+</ul>
+<p><strong>Entdecken Sie die Vorteile der MAITAKE Kapseln und unterstützen Sie Ihre psychische und körperliche Gesundheit auf natürliche Weise!</strong></p>
+</div>
+</div>
+</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9303397138768</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">29.97</s:price>
+      <s:sku>5241</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9303391240528</id>
+    <published>2024-07-11T12:23:49+02:00</published>
+    <updated>2024-07-11T12:23:49+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/shiitake-kapseln-30-stuck"/>
+    <title>SHIITAKE Kapseln 30 Stück</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/happycaps_shitake_antioxidant_kapseln.png?v=1721032124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            29.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="flex flex-grow flex-col max-w-full">
+<div data-message-author-role="assistant" data-message-id="8181d923-a20f-44b2-865b-d9e3a90d805c" dir="auto" class="min-h-[20px] text-message flex flex-col items-start whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 juice:w-full juice:items-end overflow-x-auto gap-2">
+<div class="flex w-full flex-col gap-1 juice:empty:hidden juice:first:pt-[3px]">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p><strong>SHIITAKE Kapseln</strong></p>
+<p><strong>Was ist es?</strong><br>Die SHIITAKE Kapseln enthalten den Shiitake-Pilz, der aufgrund seiner unglaublichen Mengen an Antioxidantien und entzündungshemmenden Verbindungen oft als „Antioxidansbombe“ bezeichnet wird. Jede Packung enthält 30 Kapseln.</p>
+<p><strong>Was sind die Vorteile?</strong></p>
+<ul>
+<li>
+<strong>Hautheilende Eigenschaften:</strong> SHIITAKE Kapseln können die Hautfestigkeit verbessern und fördern eine schnellere Hautreparatur und -erneuerung, was letztendlich die Hautelastizität steigern kann.</li>
+<li>
+<strong>Cholesterinsenkung:</strong> Eritadenin, eine im Shiitake-Pilz vorkommende Verbindung, ist bekannt dafür, den Cholesterinspiegel im Blut zu senken.</li>
+<li>
+<strong>Entzündungshemmung und Immunsystem:</strong> Die Beta-Glucane im Shiitake helfen, Entzündungen zu reduzieren und unterstützen das Immunsystem.</li>
+</ul>
+<p><strong>Warnung:</strong></p>
+<ul>
+<li>Nicht dem direkten Sonnenlicht aussetzen. An einem trockenen Ort aufbewahren.</li>
+<li>Außerhalb der Reichweite von Kindern und Haustieren aufbewahren.</li>
+<li>Abgabe erst ab 18 Jahren möglich und für Kinder unzugänglich aufbewahren.</li>
+<li>Für Schwangere verboten.</li>
+<li>Für Schäden oder unsachgemäße Handhabung übernehmen wir keine Haftung.</li>
+<li>Wir raten vom Verwenden von Transportmitteln und allen Maschinen nach dem Konsum ab.</li>
+<li>Unsere Produkte sind nur für wissenschaftliche Zwecke geeignet</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="mt-1 flex gap-3 empty:hidden juice:-ml-3"></div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9303391240528</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">29.97</s:price>
+      <s:sku>5242</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

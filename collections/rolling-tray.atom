@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/rolling-tray.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-04-30T11:26:15+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9229758857552</id>
+    <published>2024-04-30T11:26:15+02:00</published>
+    <updated>2024-04-30T11:26:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/euphoria-metal-rolling-tray-psychedelic-270-x-160-mm"/>
+    <title>Euphoria Metal Rolling Tray Psychedelic - 270 x 160 mm</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/Zubehoer_drehunterlage_rolling_tray_euphoria_lila.png?v=1715101403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            9.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Willkommen bei EUPHORIA, wo Innovation und Qualität in unserer einzigartigen Linie von Drehtabletts aufeinandertreffen. Unsere Metalltabletts werden mit Präzision gefertigt und sind darauf ausgelegt, sich von der Masse abzuheben, indem sie Stil und Funktionalität vereinen.</p>
+<p>Unsere einzigartigen Designs garantieren, dass Ihre Kunden mit Stil rollen können, während unsere Tabletts auf Langlebigkeit ausgelegt sind und Qualität mit Ästhetik verbinden.</p>
+<p>Eine Partnerschaft mit EUPHORIA für Ihren Großhandelsbedarf bedeutet, Ihren Kunden ein Produkt anzubieten, das sowohl Stil als auch Substanz verkörpert. Profitieren Sie von unseren attraktiven Großhandelspreisen und stellen Sie sicher, dass Ihre Kunden Zugang zu einem Premium-Produkt haben, das ihrem anspruchsvollen Geschmack entspricht.</p>
+<p>Die Tabletts haben eine Größe von 270 x 160 mm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9229758857552</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.97</s:price>
+      <s:sku>2177</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

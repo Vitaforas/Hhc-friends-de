@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/mariendistel.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-07-08T14:13:25+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9301672198480</id>
+    <published>2024-07-08T14:13:25+02:00</published>
+    <updated>2024-07-08T14:13:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/mariendistel-extra-90-tabletten"/>
+    <title>Mariendistel Extra 90 Tabletten</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/Canalogy_kapseln_Mariendistel_extrakt_pulver.png?v=1720447817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            14.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Mariendistel Extra!</h3>
+<p>Mariendistel hat hervorragende antioxidative und leberschützende Eigenschaften. Der Hauptwirkstoff Silymarin unterstützt Deine Leberfunktion und verbessert die Entgiftung und Regeneration Deiner Leber. Darüber hinaus wirkt Mariendistel positiv auf Deine Herzfunktion und Deinen Blutzuckerspiegel. Sie fördert Deine Verdauung und die Reinigung Deines Körpers, was zu einer natürlichen Immunität beiträgt.</p>
+<h4>Warum solltest Du Mariendistel nehmen?</h4>
+<p><strong>Leberliebe</strong>: Mariendistel ist bekannt für ihre außergewöhnlichen leberunterstützenden Eigenschaften. Sie hilft Deiner Leber, sich zu entgiften und zu regenerieren, was ihre optimale Funktion und Dein allgemeines Wohlbefinden unterstützt.</p>
+<p><strong>Antioxidative Wirkung</strong>: Mariendistel ist reich an Antioxidantien und schützt Deinen Körper vor den schädlichen Auswirkungen freier Radikale.</p>
+<p><strong>Harmonie im Verdauungstrakt</strong>: Erlebe Verdauungskomfort wie nie zuvor. Mariendistel beruhigt Dein Verdauungssystem, lindert Beschwerden und fördert eine ausgewogene Verdauung.</p>
+<h4>Warum solltest Du unser Mariendistel-Extra wählen?</h4>
+<p><strong>Erstklassige Qualität</strong>: Unsere Mariendistelprodukte basieren auf jahrhundertelanger traditioneller Anwendung und moderner Wissenschaft, was Vertrauen und Zuverlässigkeit symbolisiert.</p>
+<p><strong>Zufriedenheitsgarantie</strong>: Wir sind so überzeugt von den Vorteilen der Mariendistel, dass wir eine 100%ige Zufriedenheitsgarantie anbieten.</p>
+<h4>Gesundheitsbezogene Angaben (zugelassen nach EU-Vorschriften):</h4>
+<ul>
+<li>Normale Verdauung und Leberfunktion, reinigend</li>
+<li>Antioxidationsmittel</li>
+<li>Normaler Blutzuckerspiegel</li>
+<li>Normale Herzfunktion</li>
+<li>Natürliche Immunität und Widerstandskraft</li>
+</ul>
+<h4>Produktdetails</h4>
+<p><strong>Mariendistel Extra</strong></p>
+<ul>
+<li>Nahrungsergänzungsmittel</li>
+<li>60 Tabletten</li>
+<li>Gewicht: 38,46g</li>
+<li>Zutaten: Mariendistel (Silybum marianum) Extrakt 50:1; Füllstoff: Calciumcarbonat, mikrokristalline Cellulose; Trennmittel: Magnesiumstearat, Siliciumdioxid; Oberfläche: Hydroxypropylmethylcellulose</li>
+</ul>
+<p><strong>Gehalt an aktiven Substanzen pro Tablette</strong>:</p>
+<ul>
+<li>Mariendistel-Extrakt 50:1</li>
+<li>150mg Extrakt = 7500mg Mariendistel</li>
+</ul>
+<p><strong>Anwendung</strong>: Erwachsene nehmen 1 Tablette pro Tag.</p>
+<p><strong>Hinweise</strong>:</p>
+<ul>
+<li>Außerhalb der Reichweite von Kindern aufbewahren!</li>
+<li>Die empfohlene Tagesdosis darf nicht überschritten werden!</li>
+<li>In der Originalverpackung, an einem trockenen Ort bei Raumtemperatur aufbewahren!</li>
+<li>Das Nahrungsergänzungsmittel ist kein Ersatz für eine abwechslungsreiche Ernährung!</li>
+<li>Achte auf eine gesunde Lebensweise!</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9301672198480</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.97</s:price>
+      <s:sku>5142</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
