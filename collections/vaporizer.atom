@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/vaporizer.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-07-04T20:52:46+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9296751460688</id>
+    <published>2024-07-04T20:52:46+02:00</published>
+    <updated>2024-07-04T20:52:46+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/highlander"/>
+    <title>Highlander manueller Vaporizer</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/Highlander_HighlandermanuellerVaporizer.png?v=1720446540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            9.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>HighLander Vaporizer</strong></p>
+<p>Entdecke den HighLander Vaporizer, deinen idealen Begleiter für die Verdampfung getrockneter Kräuter. Dieser manuelle Vaporizer kombiniert hochwertige Materialien und durchdachte Funktionen, um dir das bestmögliche Verdampfungserlebnis zu bieten.</p>
+<p><strong>Merkmale:</strong></p>
+<ul>
+<li>
+<strong>Gehärtetes Glasrohr:</strong> Langlebig und hitzebeständig.</li>
+<li>
+<strong>Aktivkohlefüllung:</strong> Sorgt für eine reine und geschmackvolle Verdampfung.</li>
+<li>
+<strong>Filter mit Kohlefüllung:</strong> Für zusätzliche Filtration und Reinheit.</li>
+<li>
+<strong>Edelstahlsieb:</strong> Hochwertig und langlebig.</li>
+<li>
+<strong>Schutzstopfen:</strong> Sicher und praktisch.</li>
+<li>
+<strong>Holzstab für die Reinigung:</strong> Damit dein Vaporizer immer einsatzbereit bleibt.</li>
+</ul>
+<p><strong>Technische Daten:</strong></p>
+<ul>
+<li>
+<strong>Größe der Kräuter:</strong> 5-20mm</li>
+<li>
+<strong>Fassungsvermögen:</strong> 0,05-0,2g</li>
+</ul>
+<p><strong>Nutzungsmöglichkeiten:</strong></p>
+<ol>
+<li>
+<strong>Passive Verdampfung:</strong> Erwärme das Glasrohr und genieße die Verdampfung ohne Verbrennung der Kräuter.</li>
+<li>
+<strong>Aktive Verdampfung:</strong> Verwende den Vaporizer als aktiven Verdampfer durch Verbrennen der getrockneten Kräuter.</li>
+</ol>
+<p><strong>Instandhaltung:</strong></p>
+<ul>
+<li>
+<strong>Reinigung nach jedem Gebrauch:</strong> Halte deinen Vaporizer sauber und funktionsfähig.</li>
+<li>
+<strong>Innenraumreinigung mit dem Holzstab:</strong> Einfach und effektiv.</li>
+<li>
+<strong>Innenraum mit Wattestäbchen auswischen:</strong> Für gründliche Sauberkeit.</li>
+<li>
+<strong>Glasröhre spülmaschinenfest:</strong> Beachte, dass das Logo verblassen kann.</li>
+</ul>
+<p>Mit dem HighLander Vaporizer erlebst du eine neue Dimension der Kräutervaporation. Einfach zu bedienen und zu reinigen, bietet er dir immer das beste Ergebnis.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9296751460688</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.97</s:price>
+      <s:sku>5205</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

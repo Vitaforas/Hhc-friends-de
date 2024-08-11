@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/thcv-bluten.atom"/>
+  <title>hhcfriends</title>
+  <updated>2023-10-10T22:15:54+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/8671831359824</id>
+    <published>2023-10-10T22:15:54+02:00</published>
+    <updated>2023-10-10T22:15:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/thcv-blueten-berry-gelato-50"/>
+    <title>THCv Berry Gelato 50%</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/THCP_berry_gelato_blueten_hhc.png?v=1700662883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            11.97 - 54.97
+            <a href="https://hhcfriends.de/products/thcv-blueten-berry-gelato-50">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>THCv Premium Blüten Papaya Punch mit 50% THCv</p>
+<p>THCv, auch <em>Tetrahydrocannabivarin</em> genannt, ist ein spezielles Cannabinoid, das in Hanf gefunden wird und für seine beeindruckenden Eigenschaften bekannt ist. Unsere Berry Gelato-Blüten sind reich an THCv und versprechen ein unvergleichbares Erlebnis.<br></p>
+<p data-mce-fragment="1"><meta charset="utf-8">CanaPuff <meta charset="utf-8">Papaya Punch ist eine Hybridsorte, die kraftvolle Noten von Waldbeeren und süßer Sahne entfaltet. </p>
+<p data-mce-fragment="1"><meta charset="utf-8">Die außergewöhnliche Mischung aus Waldbeeren und süßer Sahne bietet eine perfekte Balance zwischen Süße und markantem Fruchtaroma. Hierbei handelt es sich um einen Gelato-Hybrid-Vape, der eine belebende Wirkung mit überraschender Leichtigkeit und Geschmeidigkeit verbindet.<br><br>Diese exotische Kombination von Geschmacks- und Duftnoten nimmt dich mit auf ein Abenteuer, das du lieben wirst.<br><br>Hier sind die 5 Top-Vorteile des Produkts:<br><br>1. Schnelle Entspannung: THCv-Blüten versprechen eine rasche und wirkungsvolle Entspannung, ideal um nach einem hektischen Tag herunterzukommen.<br>2. Exklusive Aromen: Das süße Aroma und der Geschmack tropischer Früchte, abgerundet durch erdige Noten, bieten ein einzigartiges und bezauberndes Erlebnis.<br>3. Premium-Qualität: CanaPuff ist für seine Premium-THCv-Blüten bekannt, die sorgfältig ausgewählt und verarbeitet werden.<br>4. Einzigartige Hybridsorte: Berry Gelato bietet als Hybridsorte eine Mischung aus süßen und erdigen Noten, die es in sich hat.<br>5. Natürliche Inhaltsstoffe: Alle unsere Produkte sind aus natürlichen Inhaltsstoffen hergestellt, sodass du dich auf die Qualität und Reinheit unserer Produkte verlassen kannst.<br><br></p>
+<p data-mce-fragment="1"><meta charset="utf-8">Produkt nach dem Gesetz §5 Nr. 167/1998. Bestimmt für industrielle, technische und gärtnerische Zwecke. Nicht zum direkten Verzehr oder Rauchen geeignet. Das Produkt unterliegt einem natürlichen Gewichtsverlust. Kein Verkauf an Personen unter 18 Jahren. Außerhalb der Reichweite von Kindern aufbewahren.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8671831359824</id>
+      <title>1 Gramm</title>
+      <s:price currency="EUR">11.97</s:price>
+      <s:sku>5143</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8671831359824</id>
+      <title>5 Gramm</title>
+      <s:price currency="EUR">54.97</s:price>
+      <s:sku>1304</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8671826608464</id>
+    <published>2023-10-10T19:00:56+02:00</published>
+    <updated>2023-10-10T19:00:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/thcv-bluten-papaya-punch-50"/>
+    <title>THCv Papaya Punch 50%</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/THCP_blueten_papaya_punch__hhc.png?v=1700825031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            11.47 - 54.97
+            <a href="https://hhcfriends.de/products/thcv-bluten-papaya-punch-50">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> THCv Premium Blüten Papaya Punch mit 50% THCv</p>
+<p data-mce-fragment="1">CanaPuff präsentiert dir PAPAYA PUNCH mit 50 % THCv-Blüten – ein einmaliges Produkt, das deine Sinne erfrischt, während es dir gleichzeitig die Entspannung liefert, nach der du suchst. CanaPuff genießt einen Ruf als renommierter Hersteller von Premium-THCv-Blüten, bekannt für ihren vollen Geschmack und ihre natürlichen Inhaltsstoffe.<br><br>THCv, auch <em>Tetrahydrocannabivarin</em> genannt, ist ein spezielles Cannabinoid, das in Hanf gefunden wird und für seine beeindruckenden Eigenschaften bekannt ist. Unsere Papaya Punch-Blüten sind reich an THCv und versprechen ein unvergleichbares Erlebnis.<br><br>Papaya Punch ist eine Hybridsorte, welche die Süße tropischer Früchte meisterhaft mit subtilen Erdtönen und einem kräftigen Käsearoma verbindet. Stell dir eine Welle saftiger tropischer Früchte vor, die auf eine komplexe Basis von Lavendelblüten trifft, unterlegt mit einem cremigen, käsigem Funk. Papaya führt die fruchtige Mischung aus Passionsfrucht, Orange, Guave und Traube in dieser einmaligen, süßen und erdigen Sorte an, die durch die Kreuzung von Papaya mit Purple Punch entsteht.<br><br>Diese exotische Kombination von Geschmacks- und Duftnoten nimmt dich mit auf ein Abenteuer, das du lieben wirst.<br><br>Hier sind die 5 Top-Vorteile des Produkts:<br><br>1. Schnelle Entspannung: THCv-Blüten versprechen eine rasche und wirkungsvolle Entspannung, ideal um nach einem hektischen Tag herunterzukommen.<br>2. Exklusive Aromen: Das süße Aroma und der Geschmack tropischer Früchte, abgerundet durch erdige Noten, bieten ein einzigartiges und bezauberndes Erlebnis.<br>3. Premium-Qualität: CanaPuff ist für seine Premium-THCv-Blüten bekannt, die sorgfältig ausgewählt und verarbeitet werden.<br>4. Einzigartige Hybridsorte: Papaya Punch bietet als Hybridsorte eine Mischung aus süßen und erdigen Noten, die es in sich hat.<br>5. Natürliche Inhaltsstoffe: Alle unsere Produkte sind aus natürlichen Inhaltsstoffen hergestellt, sodass du dich auf die Qualität und Reinheit unserer Produkte verlassen kannst.<br><br></p>
+<p data-mce-fragment="1"><meta charset="utf-8">Produkt nach dem Gesetz §5 Nr. 167/1998. Bestimmt für industrielle, technische und gärtnerische Zwecke. Nicht zum direkten Verzehr oder Rauchen geeignet. Das Produkt unterliegt einem natürlichen Gewichtsverlust. Kein Verkauf an Personen unter 18 Jahren. Außerhalb der Reichweite von Kindern aufbewahren.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8671826608464</id>
+      <title>1 Gramm</title>
+      <s:price currency="EUR">11.47</s:price>
+      <s:sku>1293</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8671826608464</id>
+      <title>5 Gramm</title>
+      <s:price currency="EUR">54.97</s:price>
+      <s:sku>1294</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
