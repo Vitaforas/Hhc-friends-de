@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/thc-gehalt-messen.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-04-21T21:10:53+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9220662853968</id>
+    <published>2024-04-21T21:10:53+02:00</published>
+    <updated>2024-04-21T21:10:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/thc-gehalt-messen-analyse"/>
+    <title>THC Gehalt messen (Analyse)</title>
+    <s:type></s:type>
+    <s:vendor>THC Friends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/cannabis_messen_thcgehalt.png?v=1718889790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>THC Friends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            24.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1" _msttexthash="59067437" _msthash="21660">Möchtest du den THC-Gehalt deiner Pflanze genau messen?</h2>
+<p data-mce-fragment="1" _msttexthash="59067437" _msthash="21660">Dann bist du bei uns genau richtig! Wir bieten Cannabis-Überprüfung und Potenzanalyse an, um dir Klarheit über die Stärke deiner Knospen zu verschaffen. Alles, was wir benötigen, ist <strong>1g</strong> deiner Knospe oder deines Trims. Nach der Analyse erhältst du deine Probe unbeschadet zurück.</p>
+<p data-mce-fragment="1" _msttexthash="15088021" _msthash="21659">Unsere Dienstleistung umfasst die Überprüfung von trockenen Blütenknospen mit einem Feuchtigkeitsgehalt von maximal 15% sowie gemahlenen Blütenknospen (Trimm).</p>
+<p data-mce-fragment="1" _msttexthash="8977657" _msthash="21658">Unsere Analyse bietet eine Mindestnachweisgrenze für Blüten von 0,2% THC/CBD und eine maximale Nachweisgrenze von 30% THC und 20% CBD.</p>
+<p data-mce-fragment="1" _msttexthash="327938" _msthash="21657"><strong>So funktioniert's:</strong></p>
+<ol data-mce-fragment="1">
+<li data-mce-fragment="1" _msttexthash="5084352" _msthash="21654">Bestelle die Analyse und erhalte nach Zahlungseingang ein DHL Label (Paket versichert) von uns.</li>
+<li data-mce-fragment="1" _msttexthash="1405534" _msthash="21655">Schicke uns 1g deiner Knospe oder deines Trims.</li>
+<li data-mce-fragment="1" _msttexthash="18297136" _msthash="21656">Wir erledigen den Rest für dich. Nach der Analyse erhältst du deine Probe und den Analysebericht per versichertem Versand (DHL) zurück. Der Bericht kann auch per E-Mail zugesendet werden.</li>
+</ol>
+<p data-mce-fragment="1" _msttexthash="5637918" _msthash="21653">Verlasse dich auf unsere professionelle Analyse, um genau zu wissen, was in deinen Pflanzen steckt.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9220662853968</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">24.97</s:price>
+      <s:sku>2290</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
