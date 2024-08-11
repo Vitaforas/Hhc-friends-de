@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/8-oh-hhc-bluten.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-04-09T12:48:43+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/8520102642000</id>
+    <published>2024-04-09T12:48:43+02:00</published>
+    <updated>2024-04-09T12:48:43+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/8-oh-hhc-blute-neon-train-90"/>
+    <title>8-OH-HHC Blüte Neon Train 90 %</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/8_OH_HHC_blueten_neontrain.png?v=1721900155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            15.97 - 64.97
+            <a href="https://hhcfriends.de/products/8-oh-hhc-blute-neon-train-90">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>8-OH-HHC Blüte Neon Train 90 %</h3>
+<p><strong>Zutaten:</strong></p>
+<ul>
+<li>Technische Hanfblüte</li>
+<li>20 % 8-OH-HHC-Destillat (90 % Qualität)</li>
+</ul>
+<p><strong>Produktdetails:</strong></p>
+<ul>
+<li>THC-Gehalt: weniger als 0,2 %</li>
+<li>CBD-Gehalt: weniger als 4 %</li>
+<li>Belastung: Trainwreck</li>
+</ul>
+<p><strong>Warnung:</strong> Setze dieses Produkt nicht direktem Sonnenlicht aus und bewahre es an einem trockenen Ort auf. Halte es außerhalb der Reichweite von Kindern und Haustieren. Du darfst dieses Produkt erst ab 18 Jahren erwerben und solltest es für Kinder unzugänglich aufbewahren. Für Schwangere ist es verboten.</p>
+<p>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung. Wir raten dir, nach dem Konsum keine Transportmittel zu verwenden oder Maschinen zu bedienen. Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke geeignet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8520102642000</id>
+      <title>1 Gramm</title>
+      <s:price currency="EUR">15.97</s:price>
+      <s:sku>1172</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8520102642000</id>
+      <title>5 Gramm</title>
+      <s:price currency="EUR">64.97</s:price>
+      <s:sku>2104</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

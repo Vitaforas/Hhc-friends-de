@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/bockshornklee.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-07-08T13:48:45+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9301658829136</id>
+    <published>2024-07-08T13:48:45+02:00</published>
+    <updated>2024-07-08T13:48:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/bockshornklee-extra-90-tabletten"/>
+    <title>Bockshornklee Extra 90 Tabletten</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/Canalogy_kapseln_Bockshornklee_extrakt_pulver.png?v=1720447742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            19.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Bockshornklee Extra!</strong></p>
+<p><strong>Was ist Bockshornklee?</strong></p>
+<p>Bockshornklee ist ein einjähriges Kraut, das bis zu 60 cm hoch wächst. Es gilt als Kreuzung aus Getreide und Hülsenfrucht und wird häufig als Viehfutter in der Landwirtschaft verwendet. Die Samen des Bockshornklees werden in der Pharmazie und zu phytotherapeutischen Zwecken eingesetzt und sind ein wichtiger Bestandteil vieler Gewürzmischungen, wie z.B. Curry. Bockshornklee unterstützt die natürlichen Abwehrkräfte des Körpers, das Immunsystem sowie die Verdauung und den Appetit. Außerdem wirkt er als Antioxidans und hilft, den Blutzuckerspiegel zu normalisieren.</p>
+<p><strong>Warum solltest du dich für unseren Bockshornklee entscheiden?</strong></p>
+<p><strong>Premium-Qualität:</strong> Unser Bockshornklee wird aus den besten gentechnikfreien Samen gewonnen und unter strengen Qualitätskontrollmaßnahmen verarbeitet, um Reinheit und Wirksamkeit zu gewährleisten.</p>
+<p><strong>Einfache Anwendung:</strong> Bockshornklee ist in praktischen Kapseln erhältlich, die sich leicht in deinen Alltag integrieren lassen.</p>
+<p><strong>Vertrauenswürdig und wirksam:</strong> Unser Bockshornkleeprodukt ist eine zuverlässige Wahl für deine Gesundheits- und Wellnessreise, gestützt auf jahrhundertealte traditionelle Anwendung und moderne wissenschaftliche Forschung.</p>
+<p><strong>Zulässige gesundheitsbezogene Angaben nach geltenden EU-Verordnungen:</strong> Nach geltendem EU-Recht dürfen wir keine weitergehenden Informationen erteilen, die den Eindruck einer gesundheitlichen oder therapeutischen Wirkung erwecken könnten, wenn es sich nicht um ein registriertes Arzneimittel handelt. Weitere Informationen findest du in frei verfügbaren Quellen im Internet oder in der Literatur.</p>
+<p><strong>Nahrungsergänzungsmittel</strong></p>
+<ul>
+<li>90 Kapseln</li>
+<li>Gewicht: 43,65 g</li>
+<li>Zutaten: Bockshornkleeextrakt (Trigonella foenum-graecum) 20:1; Füllstoff: mikrokristalline Cellulose, Calciumphosphat; Kapselhülle: Hydroxypropylmethylcellulose; Trennmittel: Magnesiumstearat, Siliziumdioxid</li>
+</ul>
+<p><strong>Gehalt an Wirkstoffen:</strong></p>
+<ul>
+<li>1 Kapsel enthält:
+<ul>
+<li>Bockshornklee-Extrakt 20:1</li>
+<li>65 mg Extrakt = 1300 mg Bockshornklee</li>
+</ul>
+</li>
+</ul>
+<p><strong>Anwendung:</strong> Erwachsene nehmen 1-2 Tabletten täglich zu den Mahlzeiten ein.</p>
+<ul>
+<li>Außerhalb der Reichweite von Kindern aufbewahren!</li>
+<li>Die empfohlene Tagesdosis nicht überschreiten!</li>
+<li>In der Originalverpackung, an einem trockenen Ort bei Raumtemperatur aufbewahren!</li>
+<li>Ein Nahrungsergänzungsmittel ist kein Ersatz für eine abwechslungsreiche Ernährung!</li>
+<li>Folge einem gesunden Lebensstil!</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9301658829136</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.97</s:price>
+      <s:sku>5139</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
