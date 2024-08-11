@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/10-oh-hhcp-hash.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-07-15T11:35:30+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9306588676432</id>
+    <published>2024-07-15T11:35:30+02:00</published>
+    <updated>2024-07-15T11:35:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhcp-hash-london-pound-cake-94"/>
+    <title>10-OH-HHCP Hash London Pound Cake 94%</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10_OH_HHC_hash_premium_london_pound_cake.png?v=1721207308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            15.97 - 59.97
+            <a href="https://hhcfriends.de/products/10-oh-hhcp-hash-london-pound-cake-94">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>10-OH-HHCP Hash London Pound Cake 94%</strong></p>
+<p>Willkommen zu Ihrem neuen Premium-Produkt: 10-OH-HHCP Hash London Pound Cake 94%. Hier finden Sie alle wichtigen Informationen zu diesem hochwertigen Artikel.</p>
+<p><strong>Zutaten:</strong></p>
+<ul>
+<li>Technische Hanfblüte</li>
+<li>10 % 10-OH-HHCP-Destillat (94 % Qualität)</li>
+</ul>
+<p><strong>Produktdetails:</strong></p>
+<ul>
+<li>
+<strong>THC-Gehalt:</strong> Weniger als 0,2 %</li>
+<li>
+<strong>Sorte:</strong> London Pound Cake</li>
+</ul>
+<p><strong>Wichtige Hinweise:</strong></p>
+<ul>
+<li>Setzen Sie dieses Produkt nicht direktem Sonnenlicht aus.</li>
+<li>Bewahren Sie es an einem trockenen Ort auf.</li>
+<li>Halten Sie es außerhalb der Reichweite von Kindern und Haustieren.</li>
+</ul>
+<p><strong>Altersbeschränkungen:</strong></p>
+<ul>
+<li>Die Abgabe dieses Produkts ist erst ab 18 Jahren möglich.</li>
+<li>Für Kinder unzugänglich aufbewahren.</li>
+<li>Für Schwangere ist der Konsum verboten.</li>
+</ul>
+<p><strong>Haftungsausschluss:</strong></p>
+<ul>
+<li>Für Schäden oder unsachgemäße Handhabung übernehmen wir keine Haftung.</li>
+<li>Wir raten dringend davon ab, nach dem Konsum Transportmittel oder Maschinen zu bedienen.</li>
+<li>Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke geeignet.</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9306588676432</id>
+      <title>1g</title>
+      <s:price currency="EUR">15.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9306588676432</id>
+      <title>5g</title>
+      <s:price currency="EUR">59.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/10-oh-hhc.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-07-25T12:49:02+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9533906157904</id>
+    <published>2024-07-25T12:49:02+02:00</published>
+    <updated>2024-07-25T12:49:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-vape-blueberry-40-1ml-i%E2%99%A5pot"/>
+    <title>10-OH-HHC Vape Blueberry 40% 1ml  I♥Pot</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_premium_vape_einweg_ilovepot_blueberry.png?v=1722612308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            49.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>10-OH-HHC Vape Blueberry 40% 1ml I♥Pot</strong></p>
+<p>Mit etwa 400 Zügen<br>Frei von Mykotoxinen und Schwermetallen<br>1ml Inhalt</p>
+<p>Achtung: Setze das Produkt nicht direktem Sonnenlicht aus. Bewahre es an einem trockenen Ort auf. Halte es außerhalb der Reichweite von Kindern und Haustieren.</p>
+<p>Verkauf nur ab 18 Jahren. Für Kinder unzugänglich aufbewahren. Nicht für Schwangere geeignet.</p>
+<p>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung. Nach dem Konsum raten wir dringend vom Führen von Transportmitteln und dem Bedienen von Maschinen ab. Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke bestimmt.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9533906157904</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">49.97</s:price>
+      <s:sku>5224</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9533904453968</id>
+    <published>2024-07-25T12:46:58+02:00</published>
+    <updated>2024-07-25T12:46:58+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-vape-skittlez-40-1ml-i%E2%99%A5pot"/>
+    <title>10-OH-HHC Vape Skittlez 40% 1ml  I♥Pot</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_premium_vape_einweg_ilovepot_zkittlez.png?v=1722612402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            49.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>10-OH-HHC Vape Skittlez 40% 1ml I♥Pot</strong></p>
+<p>Du kannst etwa 400 Züge genießen.<br>Das Produkt ist frei von Mykotoxinen und Schwermetallen.<br>Inhalt: 1ml</p>
+<p>Warnung: Setze das Produkt nicht direktem Sonnenlicht aus. Bewahre es an einem trockenen Ort auf und halte es außerhalb der Reichweite von Kindern und Haustieren.</p>
+<p>Abgabe nur an Personen ab 18 Jahren. Für Schwangere ist das Produkt verboten.</p>
+<p>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung. Nach dem Konsum raten wir dir davon ab, Transportmittel oder Maschinen zu bedienen. Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke geeignet.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9533904453968</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">49.97</s:price>
+      <s:sku>5223</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9533903110480</id>
+    <published>2024-07-25T12:45:33+02:00</published>
+    <updated>2024-07-25T12:45:33+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-vape-amnesia-40-1ml-i%E2%99%A5pot"/>
+    <title>10-OH-HHC Vape Amnesia 40% 1ml  I♥Pot</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_premium_vape_einweg_ilovepot_amnesia.png?v=1722612397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            49.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>10-OH-HHC Vape Amnesia 40% 1ml von I♥Pot</strong></p>
+<p>Mit etwa 400 Zügen pro 1ml Kartusche kannst du das volle Potenzial dieses Vapes genießen. Es ist frei von Mykotoxinen und Schwermetallen, was dir ein reines und sicheres Erlebnis bietet.</p>
+<p>Achtung: Setze das Produkt nicht direktem Sonnenlicht aus. Bewahre es an einem trockenen Ort auf und halte es stets außerhalb der Reichweite von Kindern und Haustieren.</p>
+<p>Dieses Produkt ist nur für Erwachsene ab 18 Jahren geeignet. Für Schwangere ist der Konsum verboten.</p>
+<p>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung. Es wird dringend empfohlen, nach dem Konsum keine Fahrzeuge oder Maschinen zu bedienen. Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke gedacht.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9533903110480</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">49.97</s:price>
+      <s:sku>5222</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9533900947792</id>
+    <published>2024-07-25T12:42:57+02:00</published>
+    <updated>2024-07-25T12:42:57+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-vape-tropical-40-1ml-i%E2%99%A5pot"/>
+    <title>10-OH-HHC Vape Tropical 40% 1ml  I♥Pot</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_premium_vape_einweg_ilovepot_tropical.png?v=1722612410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            49.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>10-OH-HHC Vape Tropical 40% 1ml I♥Pot</h3>
+<p>Erlebe ca. 400 Züge puren Genuss mit unserem 10-OH-HHC Vape Tropical. Der exotische Geschmack von Ananas und Mango wird dich begeistern. Dieses Produkt ist frei von Mykotoxinen und Schwermetallen.</p>
+<h4>Eigenschaften:</h4>
+<ul>
+<li>Inhalt: 1ml</li>
+<li>Geschmack: Pineapple Mango</li>
+</ul>
+<h4>Warnhinweise:</h4>
+<ul>
+<li>Setze das Produkt nicht direktem Sonnenlicht aus.</li>
+<li>Bewahre es an einem trockenen Ort auf.</li>
+<li>Halte es stets außerhalb der Reichweite von Kindern und Haustieren.</li>
+</ul>
+<p><strong>Bitte beachte:</strong></p>
+<ul>
+<li>Abgabe nur an Personen über 18 Jahre.</li>
+<li>Nicht für Schwangere geeignet.</li>
+<li>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung.</li>
+<li>Wir raten dringend davon ab, nach dem Konsum Transportmittel oder Maschinen zu bedienen.</li>
+<li>Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke bestimmt.</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9533900947792</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">49.97</s:price>
+      <s:sku>5221</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9532602024272</id>
+    <published>2024-07-23T20:29:49+02:00</published>
+    <updated>2024-07-23T20:29:49+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-preroll-og-kush"/>
+    <title>10-OH-HHC Preroll OG Kush</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10_OH_HHC_joint_pre_rolled_OGKUSH.png?v=1721828179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            19.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>10-OH-HHC Preroll OG Kush</h3>
+<p>Hey! Hier ist dein 10-OH-HHC Preroll OG Kush:</p>
+<ul>
+<li>
+<strong>Gewicht:</strong> 1 g</li>
+<li>
+<strong>Sorte:</strong> OG Kush</li>
+<li>
+<strong>THC-Gehalt:</strong> weniger als 0,2 %</li>
+<li>
+<strong>Herstellung:</strong> aus hochwertigen Zimmer- und Gewächshausblumen</li>
+<li>
+<strong>Verpackung:</strong> sorgfältig kontrollierte Prozesse</li>
+</ul>
+<h4>Wichtige Hinweise für dich:</h4>
+<ul>
+<li>Setze es nicht direktem Sonnenlicht aus.</li>
+<li>Lagere es an einem trockenen Ort.</li>
+<li>Halte es außerhalb der Reichweite von Kindern und Haustieren.</li>
+</ul>
+<p>Bitte beachte, dass der Verkauf erst ab 18 Jahren möglich ist und das Produkt für Schwangere verboten ist. Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung. Außerdem raten wir dir, nach dem Konsum keine Transportmittel oder Maschinen zu bedienen. Unsere Produkte sind nur für wissenschaftliche Zwecke gedacht.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9532602024272</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.97</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9532592259408</id>
+    <published>2024-07-23T20:13:57+02:00</published>
+    <updated>2024-07-23T20:13:57+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-gummies-wassermelone-10-stuck"/>
+    <title>10-OH-HHC Gummies Wassermelone 10 Stück</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_HHC_GUMMIES_watermelon_heavens_haze.png?v=1721828256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            44.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>10-OH-HHC Gummies Wassermelone - 10 Stück</strong></p>
+<p>Hier hast du alle Details zu unseren 10-OH-HHC-Gummibärchen:</p>
+<ul>
+<li>Enthält hochwertiges 10-OH-HHC-Destillat</li>
+<li>Frei von Gewürzen und ähnlichen Zusatzstoffen</li>
+<li>Geschmack: Leckere Wassermelone</li>
+<li>THC-Gehalt: Weniger als 0,2 %</li>
+<li>Packungsinhalt: 10 Stück</li>
+</ul>
+<p>Bitte beachte die folgenden Hinweise:</p>
+<ul>
+<li>Schütze die Gummies vor direktem Sonnenlicht und bewahre sie an einem trockenen Ort auf.</li>
+<li>Halte sie außerhalb der Reichweite von Kindern und Haustieren.</li>
+<li>Dieses Produkt ist nur für Personen ab 18 Jahren geeignet. Es darf nicht an Kinder gelangen.</li>
+<li>Schwangere sollten dieses Produkt nicht verwenden.</li>
+<li>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung. Vermeide es, nach dem Konsum Fahrzeuge oder Maschinen zu bedienen.</li>
+<li>Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke gedacht.</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9532592259408</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">44.97</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9532591046992</id>
+    <published>2024-07-23T20:12:23+02:00</published>
+    <updated>2024-07-23T20:12:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-gummies-erdbeere-10-stuck"/>
+    <title>10-OH-HHC Gummies Erdbeere 10 Stück</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_HHC_GUMMIES_strawberry_heavens_haze.png?v=1721828287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            44.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>10-OH-HHC Gummies Erdbeere - 10 Stück</strong></p>
+<p>Hier hast du alle Details zu unseren 10-OH-HHC-Gummibärchen:</p>
+<ul>
+<li>Enthält hochwertiges 10-OH-HHC-Destillat</li>
+<li>Frei von Gewürzen und ähnlichen Zusatzstoffen</li>
+<li>Geschmack: Leckere Erdbeere</li>
+<li>THC-Gehalt: Weniger als 0,2 %</li>
+<li>Packungsinhalt: 10 Stück</li>
+</ul>
+<p>Bitte beachte die folgenden Hinweise:</p>
+<ul>
+<li>Schütze die Gummies vor direktem Sonnenlicht und bewahre sie an einem trockenen Ort auf.</li>
+<li>Halte sie außerhalb der Reichweite von Kindern und Haustieren.</li>
+<li>Dieses Produkt ist nur für Personen ab 18 Jahren geeignet. Es darf nicht an Kinder gelangen.</li>
+<li>Schwangere sollten dieses Produkt nicht verwenden.</li>
+<li>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung. Vermeide es, nach dem Konsum Fahrzeuge oder Maschinen zu bedienen.</li>
+<li>Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke gedacht.</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9532591046992</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">44.97</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9532587999568</id>
+    <published>2024-07-23T20:10:52+02:00</published>
+    <updated>2024-07-23T20:10:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-gummies-apfel-10-stuck"/>
+    <title>10-OH-HHC Gummies Apfel 10 Stück</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_HHC_GUMMIES_apple_heavens_haze.png?v=1721828314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            44.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>10-OH-HHC Gummies Apfel - 10 Stück</strong></p>
+<p>Hier hast du alle Details zu unseren 10-OH-HHC-Gummibärchen:</p>
+<ul>
+<li>Enthält hochwertiges 10-OH-HHC-Destillat</li>
+<li>Frei von Gewürzen und ähnlichen Zusatzstoffen</li>
+<li>Geschmack: Leckerer Apfel</li>
+<li>THC-Gehalt: Weniger als 0,2 %</li>
+<li>Packungsinhalt: 10 Stück</li>
+</ul>
+<p>Bitte beachte die folgenden Hinweise:</p>
+<ul>
+<li>Schütze die Gummies vor direktem Sonnenlicht und bewahre sie an einem trockenen Ort auf.</li>
+<li>Halte sie außerhalb der Reichweite von Kindern und Haustieren.</li>
+<li>Dieses Produkt ist nur für Personen ab 18 Jahren geeignet. Es darf nicht an Kinder gelangen.</li>
+<li>Schwangere sollten dieses Produkt nicht verwenden.</li>
+<li>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung. Vermeide es, nach dem Konsum Fahrzeuge oder Maschinen zu bedienen.</li>
+<li>Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke gedacht.</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9532587999568</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">44.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9532585279824</id>
+    <published>2024-07-23T20:06:54+02:00</published>
+    <updated>2024-07-23T20:06:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-hash-ice-breaker-97"/>
+    <title>10-OH-HHC Hash Ice Breaker 97 %</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10_OH_HHC_blueten_ice_breaker.png?v=1721828336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            14.97 - 54.97
+            <a href="https://hhcfriends.de/products/10-oh-hhc-hash-ice-breaker-97">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>10-OH-HHC Hash Ice Breaker 97 %</strong></p>
+<p>Produktdetails:</p>
+<ul>
+<li>THC-Gehalt: weniger als 0,1 %</li>
+<li>CBD-Gehalt: weniger als 3 %</li>
+<li>Geschmack: Eisbrecher</li>
+<li>Gewicht: 1, 3, 5, 100 g</li>
+</ul>
+<p>Zutaten:</p>
+<ul>
+<li>Technische Hanfblüte</li>
+<li>20 % 10-OH-HHC-Destillat (97 % Qualität)</li>
+<li>CBG-Pollen</li>
+<li>Natürliche Terpene</li>
+</ul>
+<p>Warnung:</p>
+<p>Setze das Produkt nicht direktem Sonnenlicht aus und bewahre es an einem trockenen Ort auf. Halte es außerhalb der Reichweite von Kindern und Haustieren.</p>
+<p>Dieses Produkt darf erst ab 18 Jahren abgegeben werden und muss unzugänglich für Kinder aufbewahrt werden. Es ist für Schwangere verboten.</p>
+<p>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung. Nach dem Konsum raten wir vom Verwenden von Transportmitteln und allen Maschinen ab. Unsere Produkte sind nur für wissenschaftliche Zwecke geeignet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9532585279824</id>
+      <title>1 Gramm</title>
+      <s:price currency="EUR">14.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9532585279824</id>
+      <title>5 Gramm</title>
+      <s:price currency="EUR">54.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9532582494544</id>
+    <published>2024-07-23T20:00:17+02:00</published>
+    <updated>2024-07-23T20:00:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-vape-girl-scout-cookies-1ml"/>
+    <title>10-OH-HHC Vape Girl Scout Cookies 1ml</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_HHC_premium_vape_einweg_girlscoutcookies_disposable_heavens_haze.png?v=1721828358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            39.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>10-OH-HHC Vape <span>Girl Scout Cookies</span> 1ml</h3>
+<p>Hey! Wenn du auf der Suche nach einer fruchtigen Vaping-Erfahrung bist, dann ist unser 10-OH-HHC Vape <span>Girl Scout Cookies</span> genau das Richtige für dich. Hier sind die Details:</p>
+<ul>
+<li>
+<strong>Volumen:</strong> 1 ml</li>
+<li>
+<strong>Sorte:</strong> <span>Girl Scout Cookies</span>
+</li>
+<li>
+<strong>THC-Gehalt:</strong> weniger als 0,2 %</li>
+<li>
+<strong>Hochwertiges Destillat:</strong> 10-OH-HHC</li>
+<li>
+<strong>Züge:</strong> Bis zu 500 Züge</li>
+<li>
+<strong>Akku-Kapazität:</strong> 280mAh</li>
+<li>
+<strong>Ohne Verdünnungsmittel:</strong> Keine zugesetzten PG/VG, MCT oder ähnlichen Stoffe</li>
+<li><strong>Frei von Gewürzen und ähnlichen Stoffen</strong></li>
+</ul>
+<h4>Warnungen:</h4>
+<ul>
+<li>Setze das Vape nicht direktem Sonnenlicht aus.</li>
+<li>Bewahre es an einem trockenen Ort auf.</li>
+<li>Halte es außerhalb der Reichweite von Kindern und Haustieren.</li>
+<li>Nur für Personen ab 18 Jahren geeignet. Schwangere sollten es nicht verwenden.</li>
+</ul>
+<p>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung. Nach dem Konsum raten wir davon ab, Transportmittel oder Maschinen zu bedienen. Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke gedacht.</p>
+<p>Genieße dein Vaping-Erlebnis verantwortungsbewusst!</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9532582494544</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">39.97</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9532580233552</id>
+    <published>2024-07-23T19:58:32+02:00</published>
+    <updated>2024-07-23T19:58:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-vape-watermelon-splash-1ml"/>
+    <title>10-OH-HHC Vape Watermelon Splash 1ml</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_HHC_premium_vape_einweg_watermelonsplash_disposable_heavens_haze.png?v=1721828380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            39.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>10-OH-HHC Vape Watermelon Splash 1ml</h3>
+<p>Hey! Wenn du auf der Suche nach einer fruchtigen Vaping-Erfahrung bist, dann ist unser 10-OH-HHC Vape Watermelon Splash genau das Richtige für dich. Hier sind die Details:</p>
+<ul>
+<li>
+<strong>Volumen:</strong> 1 ml</li>
+<li>
+<strong>Sorte:</strong> Wassermelone Splash</li>
+<li>
+<strong>THC-Gehalt:</strong> weniger als 0,2 %</li>
+<li>
+<strong>Hochwertiges Destillat:</strong> 10-OH-HHC</li>
+<li>
+<strong>Züge:</strong> Bis zu 500 Züge</li>
+<li>
+<strong>Akku-Kapazität:</strong> 280mAh</li>
+<li>
+<strong>Ohne Verdünnungsmittel:</strong> Keine zugesetzten PG/VG, MCT oder ähnlichen Stoffe</li>
+<li><strong>Frei von Gewürzen und ähnlichen Stoffen</strong></li>
+</ul>
+<h4>Warnungen:</h4>
+<ul>
+<li>Setze das Vape nicht direktem Sonnenlicht aus.</li>
+<li>Bewahre es an einem trockenen Ort auf.</li>
+<li>Halte es außerhalb der Reichweite von Kindern und Haustieren.</li>
+<li>Nur für Personen ab 18 Jahren geeignet. Schwangere sollten es nicht verwenden.</li>
+</ul>
+<p>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung. Nach dem Konsum raten wir davon ab, Transportmittel oder Maschinen zu bedienen. Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke gedacht.</p>
+<p>Genieße dein Vaping-Erlebnis verantwortungsbewusst!</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9532580233552</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">39.97</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9532574892368</id>
+    <published>2024-07-23T19:48:02+02:00</published>
+    <updated>2024-07-23T19:48:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-liquid-white-truffle-97-10ml"/>
+    <title>10-OH-HHC Liquid White Truffle 97% 10ml</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_HHC__premium_vape_catridge_kartusche_einweg_white_truffle.png?v=1721828401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            39.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>10-OH-HHC Liquid White Truffle 97% 10ml</strong></p>
+<p>Produktdetails:</p>
+<ul>
+<li>E-Flüssigkeit</li>
+<li>Geschmacksrichtung: White Truffle</li>
+<li>10-OH-HHC-Destillat in 97%iger Qualität</li>
+<li>Volumen: 10 ml</li>
+<li>THC-Gehalt: weniger als 0,2 %</li>
+</ul>
+<p>Zutaten:</p>
+<ul>
+<li>5 % 10-OH-HHC</li>
+<li>5 % Terpene</li>
+<li>70 % Propylenglykol</li>
+<li>20 % pflanzliches Glycerin</li>
+</ul>
+<p>Warnung: Nicht dem direkten Sonnenlicht aussetzen. An einem trockenen Ort aufbewahren. Außerhalb der Reichweite von Kindern und Haustieren aufbewahren.</p>
+<p>Abgabe erst ab 18 Jahren möglich und für Kinder unzugänglich aufbewahren. Für Schwangere verboten.</p>
+<p>Für Schäden oder unsachgemäße Handhabung übernehmen wir keine Haftung. Wir raten vom Verwenden von Transportmitteln und allen Maschinen nach dem Konsum ab. Unsere Produkte sind nur für wissenschaftliche Zwecke geeignet.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9532574892368</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">39.97</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9532570894672</id>
+    <published>2024-07-23T19:45:32+02:00</published>
+    <updated>2024-07-23T19:45:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-liquid-sweet-island-skunk-97-10ml"/>
+    <title>10-OH-HHC Liquid Sweet Island Skunk 97% 10ml</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_HHC__premium_vape_catridge_kartusche_einweg_sweet_island_skunk.png?v=1721828419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            39.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>10-OH-HHC Liquid Sweet Island Skunk 97% 10ml</strong></p>
+<p>Produktdetails:</p>
+<p>Dieses E-Liquid bietet dir den verlockenden Geschmack von Sweet Island Skunk. Es enthält hochwertiges 10-OH-HHC-Destillat mit einer Reinheit von 97% und wird in einer praktischen 10 ml Flasche geliefert. Der THC-Gehalt liegt bei weniger als 0,2 %.</p>
+<p>Zutaten:</p>
+<ul>
+<li>3 % 10-OH-HHC</li>
+<li>5 % Terpene</li>
+<li>75 % Propylenglykol</li>
+<li>17 % pflanzliches Glycerin</li>
+</ul>
+<p>Warnung:</p>
+<p>Bitte setze das Produkt nicht direktem Sonnenlicht aus und bewahre es an einem trockenen Ort auf. Halte es außerhalb der Reichweite von Kindern und Haustieren. Dieses Produkt darf nur an Personen über 18 Jahre abgegeben werden und ist für Kinder unzugänglich aufzubewahren. Schwangere sollten das Produkt nicht verwenden.</p>
+<p>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung. Es wird empfohlen, nach dem Konsum keine Transportmittel oder Maschinen zu bedienen. Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke geeignet.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9532570894672</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">39.97</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9532568207696</id>
+    <published>2024-07-23T19:39:32+02:00</published>
+    <updated>2024-07-23T19:39:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-kartusche-mango-exploration-97-1ml"/>
+    <title>10-OH-HHC Kartusche Mango Exploration 97% 1ml</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_HHC_premium_kartusche_mango_exploration.png?v=1721828444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            39.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>10-OH-HHC Kartusche Mango Exploration 97% 1ml</strong></p>
+<p>Produktdetails:</p>
+<ul>
+<li>Enthält 10-OH-HHC in einer Qualität von 97%</li>
+<li>10-OH-HHC-Gehalt beträgt 20%</li>
+<li>CBN CRD-Gehalt liegt bei 75%</li>
+<li>Natürliche Terpene: 5%</li>
+<li>THC-Gehalt: 0%</li>
+<li>Gewindetyp: 510</li>
+<li>Geschmack: Mango Exploration</li>
+</ul>
+<p>Warnung: Setze die Kartusche nicht direktem Sonnenlicht aus und bewahre sie an einem trockenen Ort auf. Halte sie außerhalb der Reichweite von Kindern und Haustieren.</p>
+<p>Nur für Personen ab 18 Jahren. Für Kinder unzugänglich aufbewahren. Schwangere sollten das Produkt nicht verwenden.</p>
+<p>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung. Nach dem Konsum raten wir vom Bedienen von Transportmitteln und Maschinen ab. Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke bestimmt.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9532568207696</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">39.97</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9532567093584</id>
+    <published>2024-07-23T19:36:42+02:00</published>
+    <updated>2024-07-23T19:36:42+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-kartusche-lemon-star-cruise-97-1ml"/>
+    <title>10-OH-HHC Kartusche Lemon Star Cruise 97% 1ml</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_HHC_premium_kartusche_lemon_star_cruise.png?v=1721828466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            39.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>10-OH-HHC Kartusche Lemon Star Cruise 97% 1ml</strong></p>
+<p>Produktdetails:</p>
+<ul>
+<li>Enthält 10-OH-HHC in 97%iger Qualität</li>
+<li>20 % 10-OH-HHC-Gehalt</li>
+<li>75 % CBN CRD-Gehalt</li>
+<li>5 % natürliche Terpene</li>
+<li>0 % THC-Gehalt</li>
+<li>Gewindetyp: 510</li>
+<li>Geschmack: Lemon Star Cruise</li>
+</ul>
+<p>Warnung: Setze die Kartusche nicht direktem Sonnenlicht aus. Bewahre sie an einem trockenen Ort auf und halte sie außerhalb der Reichweite von Kindern und Haustieren.</p>
+<p>Dieses Produkt ist nur für Personen ab 18 Jahren geeignet und darf nicht von Schwangeren verwendet werden. Für Schäden oder unsachgemäße Handhabung übernehmen wir keine Haftung. Nach dem Konsum raten wir vom Führen von Transportmitteln und dem Bedienen von Maschinen ab. Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke bestimmt.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9532567093584</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">39.97</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9531605090640</id>
+    <published>2024-07-22T10:20:17+02:00</published>
+    <updated>2024-07-22T10:20:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-blute-super-lemon-haze-99"/>
+    <title>10-OH-HHC Blüten Super Lemon Haze 99%</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10_OH_HHC_bluete_canapuff_super_lemon_haze.png?v=1721829943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            12.97 - 55.97
+            <a href="https://hhcfriends.de/products/10-oh-hhc-blute-super-lemon-haze-99">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Super Lemon Haze 99% 10 OH HHC Blüte</strong></p>
+<p>Tauche ein in die faszinierende Welt von Super Lemon Haze 99%, einer meisterhaften Kombination aus Lemon Skunk und Super Silver Haze. Lass dich von der süßen und würzigen Zitronenglasur verzaubern, die sich mit kräftigem Benzinduft mischt. Dieser einzigartige Geruch bleibt dir lange erhalten und führt dich schließlich in einen nebligen Zedernwald. Auf dieser aromatischen Reise wirst du Noten von saftigen tropischen Früchten und Ananas entdecken, bestreut mit Kokosblütenzucker, die das gesamte Erlebnis wunderbar abrunden.</p>
+<p>Warnung: Setze das Produkt nicht direktem Sonnenlicht aus. Bewahre es an einem trockenen Ort auf und halte es außerhalb der Reichweite von Kindern und Haustieren.</p>
+<p>Dieses Produkt darf nur an Personen über 18 Jahren abgegeben werden und muss für Kinder unzugänglich aufbewahrt werden. Schwangere dürfen es nicht verwenden.</p>
+<p>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung. Nach dem Konsum raten wir dringend vom Bedienen von Transportmitteln und Maschinen ab. Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke geeignet.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9531605090640</id>
+      <title>1g</title>
+      <s:price currency="EUR">12.97</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9531605090640</id>
+      <title>5g</title>
+      <s:price currency="EUR">55.97</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9531604500816</id>
+    <published>2024-07-22T10:18:41+02:00</published>
+    <updated>2024-07-22T10:18:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-blute-rainbow-runtz-99"/>
+    <title>10-OH-HHC Blüten Rainbow Runtz 99%</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10_OH_HHC_bluete_canapuff_rainbow_runtz.png?v=1721829916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            12.97 - 55.97
+            <a href="https://hhcfriends.de/products/10-oh-hhc-blute-rainbow-runtz-99">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Rainbow Runtz 99% 10 OH HHC Blüte</strong></p>
+<p>Erlebe ein einzigartiges Geschmackserlebnis, das mit süßen Noten von reifer Ananas und braunem Zucker beginnt. Diese Aromen vermischen sich schnell mit einem erdigen, holzigen Hintergrund aus kühler Zeder und kräftiger Kiefer. Frische Noten von Limonade und grünen Kräutern heben das Erlebnis auf ein neues Level. Diese Blüte ist eine Kreuzung zwischen Skittlez und DoSiDos und bietet dir somit ein tiefes, vielseitiges Geschmacksspektrum. Perfekt für dich, wenn du ein tiefes und komplexes Geschmackserlebnis suchst, das sowohl erhebend als auch beruhigend ist.</p>
+<p>Warnung: Setze die Blüte nicht direktem Sonnenlicht aus und bewahre sie an einem trockenen Ort auf. Halte sie außerhalb der Reichweite von Kindern und Haustieren.</p>
+<p>Dieses Produkt darf nur an Personen ab 18 Jahren abgegeben werden und muss für Kinder unzugänglich aufbewahrt werden. Schwangere sollten dieses Produkt nicht verwenden.</p>
+<p>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung. Nach dem Konsum raten wir von der Verwendung von Transportmitteln und allen Maschinen ab. Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke geeignet.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9531604500816</id>
+      <title>1g</title>
+      <s:price currency="EUR">12.97</s:price>
+      <s:sku>2547</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9531604500816</id>
+      <title>5g</title>
+      <s:price currency="EUR">55.97</s:price>
+      <s:sku>2548</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9531603681616</id>
+    <published>2024-07-22T10:17:00+02:00</published>
+    <updated>2024-07-22T10:17:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-blute-king-luis-xiii-99"/>
+    <title>10-OH-HHC Blüten King Luis XIII 99%</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10_OH_HHC_bluete_canapuff_king_luis.png?v=1721829896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            12.97 - 55.97
+            <a href="https://hhcfriends.de/products/10-oh-hhc-blute-king-luis-xiii-99">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>King Luis XIII 99% 10 OH HHC Blüte</strong></p>
+<p>Tauche ein in die Welt der Aromen mit dem König der Blüten, King Luis XIII. Stell dir vor, du wanderst durch einen feuchten, kühlen Kiefernwald, begleitet von einem Hauch Zitronen-Benzin-Duft. Diese Sorte, eine Kreuzung aus OG Kush und LA Confidential, wird durch trockene Gewürznoten abgerundet und bietet dir ein einzigartiges, komplexes Aroma. Erlebe die Magie und lass dich verzaubern. Lang lebe der König!</p>
+<p><strong>Warnung:</strong><br>Setze das Produkt nicht direktem Sonnenlicht aus. Bewahre es an einem trockenen Ort auf, fern von Kindern und Haustieren. Dieses Produkt ist nur für Personen ab 18 Jahren geeignet und darf nicht in die Hände von Kindern gelangen. Schwangeren ist die Verwendung untersagt.</p>
+<p>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung. Nach dem Konsum solltest du keine Transportmittel oder Maschinen bedienen. Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke gedacht.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9531603681616</id>
+      <title>1g</title>
+      <s:price currency="EUR">12.97</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9531603681616</id>
+      <title>5g</title>
+      <s:price currency="EUR">55.97</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9531602010448</id>
+    <published>2024-07-22T10:10:13+02:00</published>
+    <updated>2024-07-22T10:10:13+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-blute-donny-burger-99"/>
+    <title>10-OH-HHC Blüten Donny Burger 99%</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10_OH_HHC_bluete_canapuff_donny_burger.png?v=1721829873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            12.97 - 55.97
+            <a href="https://hhcfriends.de/products/10-oh-hhc-blute-donny-burger-99">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Donny Burger 99% 10 OH HHC Blüte</h3>
+<p>Tauche ein in das intensive Erlebnis von Donny Burger. Beim ersten Zug entfaltet sich ein Hauch von Käse, der schnell von schweren, süßen Funk- und erdigen Untertönen begleitet wird. Dieses besondere Aroma verbindet sich mit dem reichen Geschmack eines mittelscharfen Hamburgers und wird durch eine süße Dieselnote ergänzt. Abschließend runden kräftige Noten von trockener Kiefer das Geschmacksprofil ab und sorgen für eine frische, natürliche Reinheit.</p>
+<h4>Warnhinweise:</h4>
+<ul>
+<li>Setze das Produkt nicht direktem Sonnenlicht aus.</li>
+<li>Bewahre es an einem trockenen Ort auf.</li>
+<li>Halte es außerhalb der Reichweite von Kindern und Haustieren.</li>
+<li>Die Abgabe ist erst ab 18 Jahren möglich. Für Kinder unzugänglich aufbewahren.</li>
+<li>Schwangere dürfen das Produkt nicht verwenden.</li>
+<li>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung.</li>
+<li>Vermeide das Bedienen von Fahrzeugen und Maschinen nach dem Konsum.</li>
+<li>Unsere Produkte sind nur für wissenschaftliche Zwecke geeignet.</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9531602010448</id>
+      <title>1g</title>
+      <s:price currency="EUR">12.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9531602010448</id>
+      <title>5g</title>
+      <s:price currency="EUR">55.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9306539163984</id>
+    <published>2024-07-15T10:48:36+02:00</published>
+    <updated>2024-07-15T10:48:36+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-kartusche-blue-dream-97-1ml"/>
+    <title>10 OH HHC Kartusche Blue Dream 97% 1ml</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_HHC_premium_kartusche_blue_dream.png?v=1721034065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            39.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>10 OH HHC Kartusche Blue Dream 97% 1ml</strong></p>
+<p><strong>Produktdetails:</strong></p>
+<ul>
+<li>Typ: 510 Gewinde</li>
+<li>Volumen: 1 ml</li>
+<li>THC-Gehalt: 0 %</li>
+<li>Geschmack: Blue Dream</li>
+</ul>
+<p><strong>Zutaten:</strong></p>
+<ul>
+<li>10-OH-HHC-Destillat (97%ige Qualität)</li>
+<li>CBN CRD-Destillat</li>
+<li>Natürliche Terpene</li>
+</ul>
+<p><strong>Warnung:</strong></p>
+<ul>
+<li>Setzen Sie das Produkt nicht direktem Sonnenlicht aus.</li>
+<li>Bewahren Sie es an einem trockenen Ort auf.</li>
+<li>Halten Sie das Produkt außerhalb der Reichweite von Kindern und Haustieren.</li>
+<li>Abgabe erst ab 18 Jahren möglich und für Kinder unzugänglich aufbewahren.</li>
+<li>Für Schwangere verboten.</li>
+<li>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung.</li>
+<li>Wir raten vom Verwenden von Transportmitteln und allen Maschinen nach dem Konsum ab.</li>
+<li>Unsere Produkte sind nur für wissenschaftliche Zwecke geeignet.</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9306539163984</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">39.97</s:price>
+      <s:sku>5273</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9306534281552</id>
+    <published>2024-07-15T10:46:24+02:00</published>
+    <updated>2024-07-15T10:46:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-kartusche-laughing-buddha-97-1ml"/>
+    <title>10 OH HHC Kartusche Laughing Buddha 97% 1ml</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_HHC_premium_kartusche_laughing_buddha.png?v=1721034051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            39.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kartusche Laughing Buddha, 10-OH-HHC 97% Qualität, 1 ml</strong></p>
+<p>Erlebe die außergewöhnliche Qualität und den unverwechselbaren Geschmack der Laughing Buddha Kartusche mit 10-OH-HHC. Dieses Premium-Produkt bietet dir eine hochkonzentrierte Formel mit 97% Qualität, die für ein intensives und reines Erlebnis sorgt.</p>
+<h4>Produktdetails:</h4>
+<ul>
+<li>
+<strong>Typ:</strong> 510 Gewinde</li>
+<li>
+<strong>Volumen:</strong> 1 ml</li>
+<li>
+<strong>THC-Gehalt:</strong> 0 %</li>
+<li>
+<strong>Geschmack:</strong> Laughing Buddha</li>
+</ul>
+<h4>Zutaten:</h4>
+<ul>
+<li>
+<strong>10-OH-HHC-Destillat:</strong> 20 % (97 % Qualität)</li>
+<li>
+<strong>CBN CRD:</strong> 75 %</li>
+<li><strong>Natürliche Terpene</strong></li>
+</ul>
+<h4>Warnung:</h4>
+<ul>
+<li>Setze die Kartusche nicht direktem Sonnenlicht aus.</li>
+<li>Bewahre sie an einem trockenen Ort auf.</li>
+<li>Halte sie außerhalb der Reichweite von Kindern und Haustieren.</li>
+<li>Verkauf nur an Personen ab 18 Jahren.</li>
+<li>Nicht für Schwangere geeignet.</li>
+</ul>
+<p>Für eventuelle Schäden oder unsachgemäße Handhabung übernehmen wir keine Haftung. Wir raten dir dringend davon ab, nach dem Konsum Transportmittel zu verwenden oder Maschinen zu bedienen. Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke geeignet.</p>
+<p>Genieße die Qualität und den Geschmack der Laughing Buddha Kartusche verantwortungsvoll und mit Bedacht.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9306534281552</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">39.97</s:price>
+      <s:sku>5272</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9306527105360</id>
+    <published>2024-07-15T10:42:58+02:00</published>
+    <updated>2024-07-15T10:42:58+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-vape-dutch-hawaian-97-1ml"/>
+    <title>10 OH HHC Vape Dutch Hawaian 97% 1ml</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_HHC_premium_vape_einweg_durch_hawaian.png?v=1721034041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            39.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>10-OH-HHC Vape Dutch Hawaiian 97% 1ml</strong></p>
+<p>Erleben Sie ein außergewöhnliches Dampferlebnis mit unserem 10-OH-HHC Vape in der Geschmacksrichtung Dutch Hawaiian. Dieses hochwertige Produkt bietet Ihnen 1 ml feinsten 10-OH-HHCP-Destillats in 97%iger Qualität.</p>
+<p><strong>Produktdetails:</strong></p>
+<ul>
+<li>
+<strong>Volumen:</strong> 1 ml</li>
+<li>
+<strong>Geschmack:</strong> Niederländisch-Hawaianisch</li>
+<li>
+<strong>Destillat:</strong> 97% 10-OH-HHCP</li>
+<li>
+<strong>THC-Gehalt:</strong> 0 %</li>
+</ul>
+<p><strong>Warnhinweise:</strong> Bitte setzen Sie dieses Produkt nicht direktem Sonnenlicht aus und bewahren Sie es an einem trockenen Ort auf. Halten Sie es stets außerhalb der Reichweite von Kindern und Haustieren. Dieses Produkt darf nur an Personen ab 18 Jahren abgegeben werden und sollte für Kinder unzugänglich aufbewahrt werden. Schwangeren ist die Nutzung untersagt.</p>
+<p>Bitte beachten Sie, dass wir keine Haftung für Schäden oder unsachgemäße Handhabung übernehmen. Nach dem Konsum raten wir dringend vom Bedienen von Transportmitteln und Maschinen ab. Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke geeignet.</p>
+<p>Tauchen Sie ein in den einzigartigen Geschmack und die Qualität unseres 10-OH-HHC Vape Dutch Hawaiian und genießen Sie ein besonderes Dampferlebnis!</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9306527105360</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">39.97</s:price>
+      <s:sku>5271</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9306525073744</id>
+    <published>2024-07-15T10:40:46+02:00</published>
+    <updated>2024-07-15T10:40:46+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-vape-strawberry-cough-97-1ml"/>
+    <title>10 OH HHC Vape Strawberry Cough 97% 1ml</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_HHC_premium_vape_einweg_strawberry_cough.png?v=1721034034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            39.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>10-OH-HHC Vape Pen Strawberry Cough – 97% Qualität, 1 ml</strong></p>
+<p>Entdecken Sie den 10-OH-HHC Vape Pen in der verlockenden Geschmacksrichtung Strawberry Cough. Mit einem Volumen von 1 ml bietet dieser Vape Pen ein intensives und fruchtiges Erlebnis, das Ihre Sinne belebt.</p>
+<p><strong>Produktdetails:</strong></p>
+<ul>
+<li>
+<strong>Volumen:</strong> 1 ml</li>
+<li>
+<strong>Geschmack:</strong> Erdbeerhusten (Strawberry Cough)</li>
+<li>
+<strong>Qualität:</strong> 10-OH-HHCP-Destillat in 97%iger Qualität</li>
+<li>
+<strong>THC-Gehalt:</strong> 0 %</li>
+</ul>
+<p><strong>Warnhinweise:</strong></p>
+<ul>
+<li>
+<strong>Lagerung:</strong> Bewahren Sie den Vape Pen an einem trockenen Ort auf und schützen Sie ihn vor direktem Sonnenlicht.</li>
+<li>
+<strong>Sicherheit:</strong> Halten Sie das Produkt außerhalb der Reichweite von Kindern und Haustieren.</li>
+<li>
+<strong>Abgabe:</strong> Der Verkauf und Gebrauch ist nur für Personen ab 18 Jahren gestattet. Für Schwangere ist die Nutzung verboten.</li>
+<li>
+<strong>Haftung:</strong> Für Schäden oder unsachgemäße Handhabung übernehmen wir keine Haftung. Vermeiden Sie das Bedienen von Transportmitteln oder Maschinen nach dem Konsum.</li>
+<li>
+<strong>Zweck:</strong> Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke bestimmt.</li>
+</ul>
+<p>Erleben Sie die außergewöhnliche Qualität und den unverwechselbaren Geschmack des 10-OH-HHC Vape Pens. Perfekt für Kenner, die Wert auf Reinheit und Geschmack legen.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9306525073744</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">39.97</s:price>
+      <s:sku>5270</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9296924868944</id>
+    <published>2024-07-04T20:39:52+02:00</published>
+    <updated>2024-07-04T20:39:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-blute-tropicana-punch-97"/>
+    <title>10-OH-HHC Blüte Tropicana Punch 97%</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10_OH_HHC_blueten_tropicana_punch.png?v=1720447422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            14.97 - 59.97
+            <a href="https://hhcfriends.de/products/10-oh-hhc-blute-tropicana-punch-97">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>10-OH-HHC Blüte Tropicana Punch 97%</strong></p>
+<p>Entdecke die außergewöhnliche 10-OH-HHC Blüte Tropicana Punch mit einem THC-Gehalt von unter 0,2%. Diese Sorte, bekannt als Tropicana Kush, bietet dir ein einzigartiges Erlebnis.</p>
+<p><strong>Produktdetails:</strong></p>
+<ul>
+<li>THC-Gehalt: unter 0,2%</li>
+<li>Sorte: Tropicana Kush</li>
+<li>Enthält 20% 10-OH-HHCP-Destillat (97% Qualität)</li>
+</ul>
+<p><strong>Zutaten:</strong></p>
+<ul>
+<li>Technische Hanfblüte</li>
+<li>20% 10-OH-HHCP-Destillat (97% Qualität)</li>
+</ul>
+<p><strong>Wichtige Hinweise:</strong></p>
+<ul>
+<li>Nicht dem direkten Sonnenlicht aussetzen.</li>
+<li>An einem trockenen Ort aufbewahren.</li>
+<li>Außerhalb der Reichweite von Kindern und Haustieren aufbewahren.</li>
+<li>Verkauf nur an Personen ab 18 Jahren.</li>
+<li>Nicht für Schwangere geeignet.</li>
+<li>Keine Haftung für Schäden oder unsachgemäße Handhabung.</li>
+<li>Vermeide das Führen von Fahrzeugen und den Umgang mit Maschinen nach dem Konsum.</li>
+<li>Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke bestimmt.</li>
+</ul>
+<p>Genieße die intensive Erfahrung mit der Tropicana Punch Blüte, perfekt für besondere Momente!</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9296924868944</id>
+      <title>1g</title>
+      <s:price currency="EUR">14.97</s:price>
+      <s:sku>5219</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9296924868944</id>
+      <title>5g</title>
+      <s:price currency="EUR">59.97</s:price>
+      <s:sku>5220</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9296918217040</id>
+    <published>2024-07-04T20:31:07+02:00</published>
+    <updated>2024-07-04T20:31:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-prerolls-tangie-dream-97"/>
+    <title>10-OH-HHC Prerolled Joint Tangie Dream 97%</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10_OH_HHC_joint_pre_rolled_tangie_dream.png?v=1720447400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            16.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>10-OH-HHC Prerolled Joint Tangie Dream 97%</strong></p>
+<p>Genieße die kraftvolle und klare Wirkung des 10-OH-HHC Prerolled Joint Tangie Dream. Mit seiner beeindruckenden Reinheit von 97% und dem angenehmen Tangie Dream Aroma bietet dieser Preroll ein einzigartiges Raucherlebnis.</p>
+<p><strong>Produktdetails:</strong></p>
+<ul>
+<li>
+<strong>Produktart:</strong> Preroll</li>
+<li>
+<strong>Stamm:</strong> Tangie Dream</li>
+<li>
+<strong>Qualität:</strong> 10-OH-HHC in 97%iger Reinheit</li>
+<li>
+<strong>THC-Gehalt:</strong> unter 0,2%</li>
+<li>
+<strong>Gewicht:</strong> 1,5g</li>
+</ul>
+<p><strong>Warnung:</strong></p>
+<ul>
+<li>Nicht dem direkten Sonnenlicht aussetzen.</li>
+<li>An einem trockenen Ort aufbewahren.</li>
+<li>Außerhalb der Reichweite von Kindern und Haustieren aufbewahren.</li>
+</ul>
+<p><strong>Wichtige Hinweise:</strong></p>
+<ul>
+<li>Verkauf nur an Personen ab 18 Jahren.</li>
+<li>Nicht für Schwangere geeignet.</li>
+<li>Keine Haftung für Schäden oder unsachgemäße Handhabung.</li>
+<li>Vermeide das Führen von Fahrzeugen und den Umgang mit Maschinen nach dem Konsum.</li>
+<li>Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke bestimmt.</li>
+</ul>
+<p>Erlebe die außergewöhnliche Qualität und das erfrischende Aroma des Tangie Dream Prerolls. Perfekt für Momente der Entspannung und des Genusses.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9296918217040</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">16.97</s:price>
+      <s:sku>5216</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

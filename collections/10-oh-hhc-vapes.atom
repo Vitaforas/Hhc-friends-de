@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/10-oh-hhc-vapes.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-07-25T12:49:02+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9533906157904</id>
+    <published>2024-07-25T12:49:02+02:00</published>
+    <updated>2024-07-25T12:49:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-vape-blueberry-40-1ml-i%E2%99%A5pot"/>
+    <title>10-OH-HHC Vape Blueberry 40% 1ml  I♥Pot</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_premium_vape_einweg_ilovepot_blueberry.png?v=1722612308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            49.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>10-OH-HHC Vape Blueberry 40% 1ml I♥Pot</strong></p>
+<p>Mit etwa 400 Zügen<br>Frei von Mykotoxinen und Schwermetallen<br>1ml Inhalt</p>
+<p>Achtung: Setze das Produkt nicht direktem Sonnenlicht aus. Bewahre es an einem trockenen Ort auf. Halte es außerhalb der Reichweite von Kindern und Haustieren.</p>
+<p>Verkauf nur ab 18 Jahren. Für Kinder unzugänglich aufbewahren. Nicht für Schwangere geeignet.</p>
+<p>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung. Nach dem Konsum raten wir dringend vom Führen von Transportmitteln und dem Bedienen von Maschinen ab. Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke bestimmt.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9533906157904</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">49.97</s:price>
+      <s:sku>5224</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9533904453968</id>
+    <published>2024-07-25T12:46:58+02:00</published>
+    <updated>2024-07-25T12:46:58+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-vape-skittlez-40-1ml-i%E2%99%A5pot"/>
+    <title>10-OH-HHC Vape Skittlez 40% 1ml  I♥Pot</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_premium_vape_einweg_ilovepot_zkittlez.png?v=1722612402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            49.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>10-OH-HHC Vape Skittlez 40% 1ml I♥Pot</strong></p>
+<p>Du kannst etwa 400 Züge genießen.<br>Das Produkt ist frei von Mykotoxinen und Schwermetallen.<br>Inhalt: 1ml</p>
+<p>Warnung: Setze das Produkt nicht direktem Sonnenlicht aus. Bewahre es an einem trockenen Ort auf und halte es außerhalb der Reichweite von Kindern und Haustieren.</p>
+<p>Abgabe nur an Personen ab 18 Jahren. Für Schwangere ist das Produkt verboten.</p>
+<p>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung. Nach dem Konsum raten wir dir davon ab, Transportmittel oder Maschinen zu bedienen. Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke geeignet.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9533904453968</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">49.97</s:price>
+      <s:sku>5223</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9533903110480</id>
+    <published>2024-07-25T12:45:33+02:00</published>
+    <updated>2024-07-25T12:45:33+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-vape-amnesia-40-1ml-i%E2%99%A5pot"/>
+    <title>10-OH-HHC Vape Amnesia 40% 1ml  I♥Pot</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_premium_vape_einweg_ilovepot_amnesia.png?v=1722612397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            49.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>10-OH-HHC Vape Amnesia 40% 1ml von I♥Pot</strong></p>
+<p>Mit etwa 400 Zügen pro 1ml Kartusche kannst du das volle Potenzial dieses Vapes genießen. Es ist frei von Mykotoxinen und Schwermetallen, was dir ein reines und sicheres Erlebnis bietet.</p>
+<p>Achtung: Setze das Produkt nicht direktem Sonnenlicht aus. Bewahre es an einem trockenen Ort auf und halte es stets außerhalb der Reichweite von Kindern und Haustieren.</p>
+<p>Dieses Produkt ist nur für Erwachsene ab 18 Jahren geeignet. Für Schwangere ist der Konsum verboten.</p>
+<p>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung. Es wird dringend empfohlen, nach dem Konsum keine Fahrzeuge oder Maschinen zu bedienen. Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke gedacht.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9533903110480</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">49.97</s:price>
+      <s:sku>5222</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9533900947792</id>
+    <published>2024-07-25T12:42:57+02:00</published>
+    <updated>2024-07-25T12:42:57+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-vape-tropical-40-1ml-i%E2%99%A5pot"/>
+    <title>10-OH-HHC Vape Tropical 40% 1ml  I♥Pot</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_premium_vape_einweg_ilovepot_tropical.png?v=1722612410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            49.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>10-OH-HHC Vape Tropical 40% 1ml I♥Pot</h3>
+<p>Erlebe ca. 400 Züge puren Genuss mit unserem 10-OH-HHC Vape Tropical. Der exotische Geschmack von Ananas und Mango wird dich begeistern. Dieses Produkt ist frei von Mykotoxinen und Schwermetallen.</p>
+<h4>Eigenschaften:</h4>
+<ul>
+<li>Inhalt: 1ml</li>
+<li>Geschmack: Pineapple Mango</li>
+</ul>
+<h4>Warnhinweise:</h4>
+<ul>
+<li>Setze das Produkt nicht direktem Sonnenlicht aus.</li>
+<li>Bewahre es an einem trockenen Ort auf.</li>
+<li>Halte es stets außerhalb der Reichweite von Kindern und Haustieren.</li>
+</ul>
+<p><strong>Bitte beachte:</strong></p>
+<ul>
+<li>Abgabe nur an Personen über 18 Jahre.</li>
+<li>Nicht für Schwangere geeignet.</li>
+<li>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung.</li>
+<li>Wir raten dringend davon ab, nach dem Konsum Transportmittel oder Maschinen zu bedienen.</li>
+<li>Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke bestimmt.</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9533900947792</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">49.97</s:price>
+      <s:sku>5221</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9532582494544</id>
+    <published>2024-07-23T20:00:17+02:00</published>
+    <updated>2024-07-23T20:00:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-vape-girl-scout-cookies-1ml"/>
+    <title>10-OH-HHC Vape Girl Scout Cookies 1ml</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_HHC_premium_vape_einweg_girlscoutcookies_disposable_heavens_haze.png?v=1721828358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            39.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>10-OH-HHC Vape <span>Girl Scout Cookies</span> 1ml</h3>
+<p>Hey! Wenn du auf der Suche nach einer fruchtigen Vaping-Erfahrung bist, dann ist unser 10-OH-HHC Vape <span>Girl Scout Cookies</span> genau das Richtige für dich. Hier sind die Details:</p>
+<ul>
+<li>
+<strong>Volumen:</strong> 1 ml</li>
+<li>
+<strong>Sorte:</strong> <span>Girl Scout Cookies</span>
+</li>
+<li>
+<strong>THC-Gehalt:</strong> weniger als 0,2 %</li>
+<li>
+<strong>Hochwertiges Destillat:</strong> 10-OH-HHC</li>
+<li>
+<strong>Züge:</strong> Bis zu 500 Züge</li>
+<li>
+<strong>Akku-Kapazität:</strong> 280mAh</li>
+<li>
+<strong>Ohne Verdünnungsmittel:</strong> Keine zugesetzten PG/VG, MCT oder ähnlichen Stoffe</li>
+<li><strong>Frei von Gewürzen und ähnlichen Stoffen</strong></li>
+</ul>
+<h4>Warnungen:</h4>
+<ul>
+<li>Setze das Vape nicht direktem Sonnenlicht aus.</li>
+<li>Bewahre es an einem trockenen Ort auf.</li>
+<li>Halte es außerhalb der Reichweite von Kindern und Haustieren.</li>
+<li>Nur für Personen ab 18 Jahren geeignet. Schwangere sollten es nicht verwenden.</li>
+</ul>
+<p>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung. Nach dem Konsum raten wir davon ab, Transportmittel oder Maschinen zu bedienen. Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke gedacht.</p>
+<p>Genieße dein Vaping-Erlebnis verantwortungsbewusst!</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9532582494544</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">39.97</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9532580233552</id>
+    <published>2024-07-23T19:58:32+02:00</published>
+    <updated>2024-07-23T19:58:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-vape-watermelon-splash-1ml"/>
+    <title>10-OH-HHC Vape Watermelon Splash 1ml</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_HHC_premium_vape_einweg_watermelonsplash_disposable_heavens_haze.png?v=1721828380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            39.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>10-OH-HHC Vape Watermelon Splash 1ml</h3>
+<p>Hey! Wenn du auf der Suche nach einer fruchtigen Vaping-Erfahrung bist, dann ist unser 10-OH-HHC Vape Watermelon Splash genau das Richtige für dich. Hier sind die Details:</p>
+<ul>
+<li>
+<strong>Volumen:</strong> 1 ml</li>
+<li>
+<strong>Sorte:</strong> Wassermelone Splash</li>
+<li>
+<strong>THC-Gehalt:</strong> weniger als 0,2 %</li>
+<li>
+<strong>Hochwertiges Destillat:</strong> 10-OH-HHC</li>
+<li>
+<strong>Züge:</strong> Bis zu 500 Züge</li>
+<li>
+<strong>Akku-Kapazität:</strong> 280mAh</li>
+<li>
+<strong>Ohne Verdünnungsmittel:</strong> Keine zugesetzten PG/VG, MCT oder ähnlichen Stoffe</li>
+<li><strong>Frei von Gewürzen und ähnlichen Stoffen</strong></li>
+</ul>
+<h4>Warnungen:</h4>
+<ul>
+<li>Setze das Vape nicht direktem Sonnenlicht aus.</li>
+<li>Bewahre es an einem trockenen Ort auf.</li>
+<li>Halte es außerhalb der Reichweite von Kindern und Haustieren.</li>
+<li>Nur für Personen ab 18 Jahren geeignet. Schwangere sollten es nicht verwenden.</li>
+</ul>
+<p>Wir übernehmen keine Haftung für Schäden oder unsachgemäße Handhabung. Nach dem Konsum raten wir davon ab, Transportmittel oder Maschinen zu bedienen. Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke gedacht.</p>
+<p>Genieße dein Vaping-Erlebnis verantwortungsbewusst!</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9532580233552</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">39.97</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9306534281552</id>
+    <published>2024-07-15T10:46:24+02:00</published>
+    <updated>2024-07-15T10:46:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-kartusche-laughing-buddha-97-1ml"/>
+    <title>10 OH HHC Kartusche Laughing Buddha 97% 1ml</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_HHC_premium_kartusche_laughing_buddha.png?v=1721034051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            39.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kartusche Laughing Buddha, 10-OH-HHC 97% Qualität, 1 ml</strong></p>
+<p>Erlebe die außergewöhnliche Qualität und den unverwechselbaren Geschmack der Laughing Buddha Kartusche mit 10-OH-HHC. Dieses Premium-Produkt bietet dir eine hochkonzentrierte Formel mit 97% Qualität, die für ein intensives und reines Erlebnis sorgt.</p>
+<h4>Produktdetails:</h4>
+<ul>
+<li>
+<strong>Typ:</strong> 510 Gewinde</li>
+<li>
+<strong>Volumen:</strong> 1 ml</li>
+<li>
+<strong>THC-Gehalt:</strong> 0 %</li>
+<li>
+<strong>Geschmack:</strong> Laughing Buddha</li>
+</ul>
+<h4>Zutaten:</h4>
+<ul>
+<li>
+<strong>10-OH-HHC-Destillat:</strong> 20 % (97 % Qualität)</li>
+<li>
+<strong>CBN CRD:</strong> 75 %</li>
+<li><strong>Natürliche Terpene</strong></li>
+</ul>
+<h4>Warnung:</h4>
+<ul>
+<li>Setze die Kartusche nicht direktem Sonnenlicht aus.</li>
+<li>Bewahre sie an einem trockenen Ort auf.</li>
+<li>Halte sie außerhalb der Reichweite von Kindern und Haustieren.</li>
+<li>Verkauf nur an Personen ab 18 Jahren.</li>
+<li>Nicht für Schwangere geeignet.</li>
+</ul>
+<p>Für eventuelle Schäden oder unsachgemäße Handhabung übernehmen wir keine Haftung. Wir raten dir dringend davon ab, nach dem Konsum Transportmittel zu verwenden oder Maschinen zu bedienen. Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke geeignet.</p>
+<p>Genieße die Qualität und den Geschmack der Laughing Buddha Kartusche verantwortungsvoll und mit Bedacht.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9306534281552</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">39.97</s:price>
+      <s:sku>5272</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9306527105360</id>
+    <published>2024-07-15T10:42:58+02:00</published>
+    <updated>2024-07-15T10:42:58+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-vape-dutch-hawaian-97-1ml"/>
+    <title>10 OH HHC Vape Dutch Hawaian 97% 1ml</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_HHC_premium_vape_einweg_durch_hawaian.png?v=1721034041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            39.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>10-OH-HHC Vape Dutch Hawaiian 97% 1ml</strong></p>
+<p>Erleben Sie ein außergewöhnliches Dampferlebnis mit unserem 10-OH-HHC Vape in der Geschmacksrichtung Dutch Hawaiian. Dieses hochwertige Produkt bietet Ihnen 1 ml feinsten 10-OH-HHCP-Destillats in 97%iger Qualität.</p>
+<p><strong>Produktdetails:</strong></p>
+<ul>
+<li>
+<strong>Volumen:</strong> 1 ml</li>
+<li>
+<strong>Geschmack:</strong> Niederländisch-Hawaianisch</li>
+<li>
+<strong>Destillat:</strong> 97% 10-OH-HHCP</li>
+<li>
+<strong>THC-Gehalt:</strong> 0 %</li>
+</ul>
+<p><strong>Warnhinweise:</strong> Bitte setzen Sie dieses Produkt nicht direktem Sonnenlicht aus und bewahren Sie es an einem trockenen Ort auf. Halten Sie es stets außerhalb der Reichweite von Kindern und Haustieren. Dieses Produkt darf nur an Personen ab 18 Jahren abgegeben werden und sollte für Kinder unzugänglich aufbewahrt werden. Schwangeren ist die Nutzung untersagt.</p>
+<p>Bitte beachten Sie, dass wir keine Haftung für Schäden oder unsachgemäße Handhabung übernehmen. Nach dem Konsum raten wir dringend vom Bedienen von Transportmitteln und Maschinen ab. Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke geeignet.</p>
+<p>Tauchen Sie ein in den einzigartigen Geschmack und die Qualität unseres 10-OH-HHC Vape Dutch Hawaiian und genießen Sie ein besonderes Dampferlebnis!</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9306527105360</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">39.97</s:price>
+      <s:sku>5271</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9306525073744</id>
+    <published>2024-07-15T10:40:46+02:00</published>
+    <updated>2024-07-15T10:40:46+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-vape-strawberry-cough-97-1ml"/>
+    <title>10 OH HHC Vape Strawberry Cough 97% 1ml</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_HHC_premium_vape_einweg_strawberry_cough.png?v=1721034034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            39.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>10-OH-HHC Vape Pen Strawberry Cough – 97% Qualität, 1 ml</strong></p>
+<p>Entdecken Sie den 10-OH-HHC Vape Pen in der verlockenden Geschmacksrichtung Strawberry Cough. Mit einem Volumen von 1 ml bietet dieser Vape Pen ein intensives und fruchtiges Erlebnis, das Ihre Sinne belebt.</p>
+<p><strong>Produktdetails:</strong></p>
+<ul>
+<li>
+<strong>Volumen:</strong> 1 ml</li>
+<li>
+<strong>Geschmack:</strong> Erdbeerhusten (Strawberry Cough)</li>
+<li>
+<strong>Qualität:</strong> 10-OH-HHCP-Destillat in 97%iger Qualität</li>
+<li>
+<strong>THC-Gehalt:</strong> 0 %</li>
+</ul>
+<p><strong>Warnhinweise:</strong></p>
+<ul>
+<li>
+<strong>Lagerung:</strong> Bewahren Sie den Vape Pen an einem trockenen Ort auf und schützen Sie ihn vor direktem Sonnenlicht.</li>
+<li>
+<strong>Sicherheit:</strong> Halten Sie das Produkt außerhalb der Reichweite von Kindern und Haustieren.</li>
+<li>
+<strong>Abgabe:</strong> Der Verkauf und Gebrauch ist nur für Personen ab 18 Jahren gestattet. Für Schwangere ist die Nutzung verboten.</li>
+<li>
+<strong>Haftung:</strong> Für Schäden oder unsachgemäße Handhabung übernehmen wir keine Haftung. Vermeiden Sie das Bedienen von Transportmitteln oder Maschinen nach dem Konsum.</li>
+<li>
+<strong>Zweck:</strong> Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke bestimmt.</li>
+</ul>
+<p>Erleben Sie die außergewöhnliche Qualität und den unverwechselbaren Geschmack des 10-OH-HHC Vape Pens. Perfekt für Kenner, die Wert auf Reinheit und Geschmack legen.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9306525073744</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">39.97</s:price>
+      <s:sku>5270</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9293902741840</id>
+    <published>2024-07-02T16:07:26+02:00</published>
+    <updated>2024-07-02T16:07:26+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/thp420-gsc-79-einweg-1ml"/>
+    <title>THP420 Vape - GSC 79%  1ml</title>
+    <s:type></s:type>
+    <s:vendor>Canapuff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/THP420_premium_vape_einweg_gsc.png?v=1720003747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Canapuff<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            39.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>THP420 - GSC 79% 1ml</strong></p>
+<p>Entdecke die einzigartige Welt der THP420-Geschmacksrichtungen mit unserem diskreten, tragbaren Verdampfer, den du nach Gebrauch einfach wegwerfen kannst. Diese vollständig wiederaufladbaren Einweg-Verdampfer sorgen dafür, dass du jeden Tropfen des laborgeprüften, hochwertigen THP420 genießen kannst. Probier sie alle aus und finde noch heute deinen Lieblingsgeschmack!</p>
+<p><strong>GSC (Girl Scout Cookies)</strong></p>
+<p>GSC vereint Stärke und Feinheit in einem unverwechselbaren Geschmackserlebnis. Stell dir vor, deine Geschmacksknospen werden von einer köstlichen Mischung aus Kush und einem Hauch von Süße umhüllt. Beim ersten Zug spürst du eine erfrischende, süße Erdigkeit, die dich sofort in ihren Bann zieht. Mit jedem weiteren Zug erlebst du eine harmonische Kombination aus Schwarzkirsche und Minze, die sich mit dem charakteristischen Geschmack eines Snickerdoodle-Kekses und einer matschigen Stinktiernote verbindet. Dieser Hybrid aus OG Kush und Durban Poison endet mit einem warmen Hauch von braunem Zucker und Gewürzen, der von leichten Benzinnoten begleitet wird. Diese Geschmackspalette wird dich begeistern und wohlig wärmen.</p>
+<p><strong>Wichtige Hinweise:</strong></p>
+<ul>
+<li>Verkauf nur an Personen ab 18 Jahren.</li>
+<li>Außerhalb der Reichweite von Kindern aufbewahren.</li>
+<li>Nicht für Schwangere geeignet.</li>
+<li>Keine Haftung für Schäden oder unsachgemäße Handhabung.</li>
+<li>Vermeide den Gebrauch von Fahrzeugen und Maschinen nach dem Konsum.</li>
+<li>Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke bestimmt.</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9293902741840</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">39.97</s:price>
+      <s:sku>2645</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9293900677456</id>
+    <published>2024-07-02T16:07:26+02:00</published>
+    <updated>2024-07-02T16:07:26+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/thp420-black-cherry-fizz-79"/>
+    <title>THP420 Vape - Black Cherry Fizz 79% 1ml</title>
+    <s:type></s:type>
+    <s:vendor>Canapuff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/THP420_premium_vape_einweg_blackcherryfizz.png?v=1720003756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Canapuff<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            39.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>THP420 - Black Cherry Fizz 79%</strong></p>
+<p>Entdecke das gesamte Sortiment an einzigartigen Geschmacksrichtungen in einem diskreten, tragbaren Verdampfer, den du einfach wegwerfen kannst, wenn du fertig bist. Diese vollständig wiederaufladbaren Einwegartikel stellen sicher, dass du jeden Tropfen des im Labor getesteten, hochwertigen THP420 erhältst. Probiere sie alle aus und finde noch heute deinen Lieblingsgeschmack!</p>
+<p><strong>Black Cherry Fizz</strong></p>
+<p>Erlebe den unverwechselbaren Geschmack einer klassischen Schwarzkirschlimonade mit einem Hauch von Vanille und einem erfrischend prickelnden Abgang. Diese Geschmacksrichtung ist eine Hommage an die Kreuzung Black Dahlia x Ace of Spades und nimmt dich mit auf eine Reise voller Aromen und Erinnerungen. Genieße die Zitronen-Limetten-Noten, die wie Blasen an der Oberfläche schweben, gefolgt von der köstlichen Süße von Vanille und Schwarzkirsche. Abgerundet wird alles mit der sanften Säure von Puderzucker, wodurch die Terpen-Sorte Black Cherry Fizz zu einer originalgetreuen Interpretation des süßen Schlucks von Kirsch-Cola wird. Mach dich bereit für ein Geschmackserlebnis, das dich in eine aufregende Welt voller Aromen und nostalgischer Kindheitserinnerungen entführt. Mit jedem Zug schwelgst du in Erinnerungen an die gute alte Zeit und findest die Erfrischung, die du gesucht hast.</p>
+<p><strong>Wichtige Hinweise:</strong></p>
+<ul>
+<li>Verkauf nur an Personen ab 18 Jahren.</li>
+<li>Außerhalb der Reichweite von Kindern aufbewahren.</li>
+<li>Nicht für Schwangere geeignet.</li>
+<li>Keine Haftung für Schäden oder unsachgemäße Handhabung.</li>
+<li>Vermeide den Gebrauch von Fahrzeugen und Maschinen nach dem Konsum.</li>
+<li>Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke bestimmt.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9293900677456</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">39.97</s:price>
+      <s:sku>5231</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9282311356752</id>
+    <published>2024-06-22T16:03:55+02:00</published>
+    <updated>2024-06-22T16:03:55+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-o-h-vape-black-ice-30-1ml"/>
+    <title>10-OH Vape Black Ice 30% 1ml</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/smash_1OOHvape_premium_blackice.png?v=1719837323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            39.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Entdecke das 10-OH Premium Vape mit einem köstlichen Black Ice Geschmack! Diese hochwertige Vape-Kartusche enthält 1ml Flüssigkeit, die dir ungefähr 600 Züge bietet. Mit einem beeindruckenden Gehalt von 30% 10-OH sorgt sie für ein erstklassiges Dampferlebnis.</p>
+<p><strong>Sicherheitshinweise:</strong></p>
+<ul>
+<li>
+<strong>Abgabe nur ab 18 Jahren:</strong> Dieses Produkt ist ausschließlich für Erwachsene bestimmt.</li>
+<li>
+<strong>Außer Reichweite von Kindern aufbewahren:</strong> Stelle sicher, dass Kinder keinen Zugang zu diesem Produkt haben.</li>
+<li>
+<strong>Nicht für schwangere oder stillende Frauen:</strong> Schwangere und stillende Frauen sollten dieses Produkt nicht verwenden.</li>
+<li>
+<strong>Verantwortungsbewusste Nutzung:</strong> Für Schäden oder unsachgemäße Handhabung übernehmen wir keine Haftung. Nach dem Konsum raten wir dringend davon ab, Transportmittel zu verwenden oder Maschinen zu bedienen.</li>
+</ul>
+<p>Tauche ein in das einzigartige Geschmackserlebnis von Black Ice und genieße die hochwertige Qualität des 10-OH Premium Vape!</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9282311356752</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">39.97</s:price>
+      <s:sku>5274</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
