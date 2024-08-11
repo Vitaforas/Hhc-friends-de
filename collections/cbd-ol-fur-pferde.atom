@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/cbd-ol-fur-pferde.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-05-14T18:17:41+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9239808868688</id>
+    <published>2024-05-14T18:17:41+02:00</published>
+    <updated>2024-05-14T18:17:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cbd-oel-fuer-pferde"/>
+    <title>CBD Öl für Pferde 30%</title>
+    <s:type></s:type>
+    <s:vendor>cbd-shinygram.de</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/Shinygram_cbd_horse_5.png?v=1715703471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>cbd-shinygram.de<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            69.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Unser <strong>30% CBD Öl für Pferde</strong> wurde speziell entwickelt, um das Wohlbefinden Ihres Pferdes auf sanfte Weise zu unterstützen. Hergestellt in der Schweiz, steht SHINYGRAM für Premium-Qualität und bietet ein rein natürliches Hanföl, das absolut THC- und terpenfrei ist. Mit einem Hanf-Geschmack und einer Vollspektrum-Formel bietet es eine hochwertige Ergänzung für die Gesundheit Ihres Vierbeiners.</p>
+<p>Für die tägliche Pflege werden in der Regel 8 Tropfen empfohlen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9239808868688</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">69.97</s:price>
+      <s:sku>2157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

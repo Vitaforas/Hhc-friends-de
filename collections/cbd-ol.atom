@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/cbd-ol.atom"/>
+  <title>hhcfriends</title>
+  <updated>2023-11-13T18:21:51+01:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/8707990847824</id>
+    <published>2023-11-13T18:21:51+01:00</published>
+    <updated>2023-11-13T18:21:51+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cbd-oel-5"/>
+    <title>CBD ÖL 5%</title>
+    <s:type></s:type>
+    <s:vendor>ShinyGram.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/cbd_oel_shinygram_entspannung_5.png?v=1713788632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>ShinyGram.com<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            19.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unser pflanzliches <strong>CBD Öl</strong> ist ein reines Naturextrakt von höchster Qualität, gewonnen aus cannabidiolreichen Cannabis-Sorten. Mit Ursprung in der biologischen Schweizer- Landwirtschaft, garantieren wir einen strikten Verzicht auf Pestizide und Herbizide, um Ihnen ein Produkt ohne jegliche Verunreinigungen zu bieten.</p>
+<p>Durch einen speziellen Extraktionsprozess entstehen unsere hochkonzentrierten CBD-Öle, die das gesamte Spektrum an Pflanzenstoffen. Unsere Öle sind terpenfrei und bieten Ihnen somit ein reines und sicheres CBD-Erlebnis. Das pflanzliche Naturextrakt von Shinygram steht für Premium-Qualität, indem es die essentiellen Öle der Hanfpflanze und ihre Cannabinoide in einer wirkungsvollen Kombination vereint. <a href="https://cbd-shinygram.de/" title="CBD Öle kaufen">Shinygram ist ein Premium CBD Hersteller aus der Schweiz. Jetzt die feinsten Öle entdecken.</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8707990847824</id>
+      <title>10ml</title>
+      <s:price currency="EUR">19.97</s:price>
+      <s:sku>2056</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8707990683984</id>
+    <published>2023-11-13T18:21:42+01:00</published>
+    <updated>2023-11-13T18:21:42+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cbd-oel-30"/>
+    <title>CBD Öl 30%</title>
+    <s:type></s:type>
+    <s:vendor>cbd-shinygram.de</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/cbd_oel_shinygram_entspannung_30.png?v=1713788550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>cbd-shinygram.de<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Da wir viele gute Rückmeldungen bezüglich unserer Öle erhalten haben, beschlossen wir ein Vollspektrum <strong>CBD Öl 30%</strong> (3000mg) zu produzieren, für die welche einen hochkonzentrierten CBD Wert suchen.</p>
+<p>Unserer Umwelt zuliebe, stammt dieses Öl aus Hanfblüten, die in Permakultur angebaut wurden. Um eine ideale Absorption der verschiedenen Cannabinoide zu erhalten, wurde es mit biologischem MCT Öl gemischt. Zudem ist der Entourage-Effekt dank des gesamten Spektrums der Pflanze garantiert. Das Öl wurde in der Schweiz hergestellt und es wurden keine Isolate, Pestizide, Chemikalien oder Zusatzstoffe bei der Herstellung verwendet. Hier gelangst du zum <a href="https://cbd-shinygram.de/" title="CBD Shinygram">Shinygram Shop.</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8707990683984</id>
+      <title>10 ml</title>
+      <s:price currency="EUR">59.99</s:price>
+      <s:sku>2055</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8707990454608</id>
+    <published>2023-11-13T18:21:33+01:00</published>
+    <updated>2023-11-13T18:21:33+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cbd-oel-20"/>
+    <title>CBD Öl 20%</title>
+    <s:type></s:type>
+    <s:vendor>ShinyGram.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/cbd_oel_shinygram_entspannung_20.png?v=1713788603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>ShinyGram.com<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            54.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unser pflanzliches CBD Öl von Shinygram ist ein hochwertiges Naturprodukt, extrahiert aus cannabidiolreichen Cannabis-Varietäten. Es stammt aus biologischem Anbau in der Schweiz, wo wir konsequent auf den Einsatz von Pestiziden und Herbiziden verzichten, um ein reines und unverfälschtes Produkt zu gewährleisten.</p>
+<p>Dank eines speziellen Extraktionsverfahrens enthalten unsere konzentrierten CBD-Öle das volle Spektrum an Pflanzenstoffen. Unsere Öle sind frei von Terpenen, was Ihnen ein unverfälschtes und sicheres CBD-Erlebnis bietet. Das pflanzliche Extrakt von Shinygram repräsentiert Premium-Qualität, indem es die essenziellen Öle und Cannabinoide der Hanfpflanze in einer effektiven Formel kombiniert.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8707990454608</id>
+      <title>10ml</title>
+      <s:price currency="EUR">54.97</s:price>
+      <s:sku>2054</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8707990323536</id>
+    <published>2023-11-13T18:21:25+01:00</published>
+    <updated>2023-11-13T18:21:25+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cbd-oel-10"/>
+    <title>CBD Öl 10%</title>
+    <s:type></s:type>
+    <s:vendor>cbd-shinygram.de</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/cbd_oel_shinygram_entspannung_10.png?v=1713788522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>cbd-shinygram.de<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            24.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Entdecken Sie unser preisgekröntes 10% CBD Öl mit Cannabidiol – ideal für den täglichen Gebrauch, entwickelt zur Förderung Ihres Wohlbefindens und Ihrer Vitalität. In jeder Flasche unserer Premium CBD Tropfen befinden sich 1000 mg Bio-Vollspektrum CBD, garantiert durch rein natürliche Inhaltsstoffe und die bekannte Schweizer Qualität. Unsere Tropfen, bereichert mit natürlichem MCT-Öl, bieten eine wirksame Unterstützung, um tägliche Herausforderungen entspannt und vital zu bewältigen. Setzen Sie auf Ihre Gesundheit und erleben Sie die natürliche Stärke unseres ausgezeichneten CBD Öls.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8707990323536</id>
+      <title>10ml</title>
+      <s:price currency="EUR">24.97</s:price>
+      <s:sku>2053</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

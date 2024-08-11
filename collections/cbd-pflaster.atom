@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/cbd-pflaster.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-07-02T16:07:22+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9293955662160</id>
+    <published>2024-07-02T16:07:22+02:00</published>
+    <updated>2024-07-02T16:07:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/purocuro-hanf-cbd-pflaster-1500-mg-30-stuck-x-50-mg"/>
+    <title>CBD Pflaster - PuroCuro Hanf 30 Stück 1500mg</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/CBD_Pflaster_-_PuroCuro_Hanf_30_Stuck_1500mg.png?v=1719999997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            4.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>CBD Pflaster - PuroCuro Hanf (30 Stück, 1500mg)</strong></p>
+<p>Mit den PuroCuro CBD-Pflastern kannst du die Vorteile von CBD ganz einfach und geschmacklos genießen. Diese Pflaster sind ideal für dich, wenn du den Geschmack von CBD-Öl vermeiden möchtest. Sie geben das CBD über einen Zeitraum von 8-10 Stunden allmählich ab und bieten dabei eine hohe Bioverfügbarkeit von 90-95%, was bedeutet, dass dein Körper das CBD sehr effektiv aufnehmen kann.</p>
+<p><strong>Produktdetails:</strong></p>
+<ul>
+<li>50 mg CBD pro Pflaster</li>
+<li>1500 mg CBD pro Packung</li>
+<li>30 Pflaster pro Packung</li>
+</ul>
+<p><strong>Vorteile der PuroCuro CBD-Pflaster:</strong></p>
+<ul>
+<li>Vermeidet den Geschmack von CBD</li>
+<li>Lang anhaltende Wirkung über 8-10 Stunden</li>
+<li>Hohe Bioverfügbarkeit (90-95%)</li>
+<li>Einfache Anwendung</li>
+<li>Geschmacklos und geruchlos</li>
+</ul>
+<p><strong>Inhaltsstoffe:</strong> Jedes Pflaster enthält ca. 50 mg CBD, insgesamt also 1500 mg CBD pro Packung. Neben CBD enthalten die Pflaster auch andere aktive Cannabinoide wie CBDV, CBN, CBC, CBG, und eine vernachlässigbare Menge THC (0,2%), sowie Terpene und Terpenoide.</p>
+<p><strong>Anwendung:</strong></p>
+<ol>
+<li>Entferne die weiße Schutzfolie vom Pflaster.</li>
+<li>Klebe das Pflaster auf eine haarfreie Stelle deiner Haut.</li>
+<li>Nach 8 bis 10 Stunden kannst du das Pflaster entfernen.</li>
+</ol>
+<p><strong>Wichtige Hinweise:</strong></p>
+<ul>
+<li>Verkauf nur an Personen ab 18 Jahren.</li>
+<li>Außerhalb der Reichweite von Kindern aufbewahren.</li>
+<li>Nicht für Schwangere geeignet.</li>
+<li>Keine Haftung für Schäden oder unsachgemäße Handhabung.</li>
+<li>Vermeide das Führen von Fahrzeugen und den Umgang mit Maschinen nach dem Konsum.</li>
+<li>Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke bestimmt.</li>
+</ul>
+<p>Mit den PuroCuro CBD-Pflastern kannst du die Vorteile von CBD einfach und diskret nutzen!</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9293955662160</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">4.97</s:price>
+      <s:sku>5204</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9293951566160</id>
+    <published>2024-07-02T16:07:22+02:00</published>
+    <updated>2024-07-02T16:07:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/purocuro-hanf-cbd-pflaster-750-mg-30-stuck-x-25-mg"/>
+    <title>CBD Pflaster - PuroCuro Hanf 30 Stück 750mg</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/CBDPflaster-PuroCuroHanf30Stuck750mg.png?v=1720000044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            4.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>CBD Pflaster - PuroCuro Hanf (30 Stück, 750mg)</strong></p>
+<p>Entdecke die Vorteile unserer PuroCuro CBD-Pflaster, ideal für dich, wenn du den Geschmack von CBD vermeiden möchtest. Diese Pflaster sind einfach anzuwenden und geben das CBD über einen Zeitraum von 8-10 Stunden gleichmäßig ab.</p>
+<p><strong>Produktdetails:</strong></p>
+<ul>
+<li>25mg CBD pro Pflaster</li>
+<li>750mg CBD pro Packung (30 Pflaster)</li>
+<li>Hohe Bioverfügbarkeit (90-95%)</li>
+<li>Wirksam vom Körper absorbiert</li>
+<li>Geschmacklos und geruchlos</li>
+</ul>
+<p><strong>Warum PuroCuro CBD-Pflaster?</strong></p>
+<ul>
+<li>Ideal für diejenigen, die den Geschmack von CBD vermeiden wollen.</li>
+<li>Hohe Bioverfügbarkeit sorgt für maximale Absorption.</li>
+<li>Einfache Anwendung: Pflaster auf die Haut kleben und 8-10 Stunden wirken lassen.</li>
+<li>Enthält auch andere Cannabinoide wie CBN, CBC, CBDV, CBG und eine vernachlässigbare Menge THC (0,2%), was kein "benommenes" Gefühl verursacht.</li>
+</ul>
+<p><strong>Anwendung:</strong></p>
+<ol>
+<li>Entferne die weiße Schutzfolie vom Pflaster.</li>
+<li>Klebe das CBD-Pflaster auf eine haarfreie Stelle deiner Haut.</li>
+<li>Nach 8-10 Stunden kannst du das Pflaster wieder entfernen.</li>
+</ol>
+<p><strong>Zutaten:</strong></p>
+<ul>
+<li>Ca. 25mg CBD pro Pflaster, insgesamt ca. 750mg CBD pro Packung</li>
+<li>Weitere Cannabinoide: CBDV, CBN, CBC, CBG, THC (0,2%)</li>
+<li>Terpene, Terpenoide, Trennpapier, Vliesstoff, druckempfindliche Medikamente, Klebstoff, Penetrationsverstärker</li>
+</ul>
+<p><strong>Wichtige Hinweise:</strong></p>
+<ul>
+<li>Verkauf nur an Personen ab 18 Jahren.</li>
+<li>Außerhalb der Reichweite von Kindern aufbewahren.</li>
+<li>Nicht für Schwangere geeignet.</li>
+<li>Keine Haftung für Schäden oder unsachgemäße Handhabung.</li>
+<li>Vermeide das Führen von Fahrzeugen und den Umgang mit Maschinen nach dem Konsum.</li>
+<li>Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke bestimmt.</li>
+</ul>
+<p>Genieße die einfache und effektive Art, CBD mit unseren PuroCuro CBD-Pflastern zu erleben!</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9293951566160</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">4.97</s:price>
+      <s:sku>5263</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

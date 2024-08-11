@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/cbd-ol-fur-tiere.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-05-14T18:17:41+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9239808868688</id>
+    <published>2024-05-14T18:17:41+02:00</published>
+    <updated>2024-05-14T18:17:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cbd-oel-fuer-pferde"/>
+    <title>CBD Öl für Pferde 30%</title>
+    <s:type></s:type>
+    <s:vendor>cbd-shinygram.de</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/Shinygram_cbd_horse_5.png?v=1715703471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>cbd-shinygram.de<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            69.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Unser <strong>30% CBD Öl für Pferde</strong> wurde speziell entwickelt, um das Wohlbefinden Ihres Pferdes auf sanfte Weise zu unterstützen. Hergestellt in der Schweiz, steht SHINYGRAM für Premium-Qualität und bietet ein rein natürliches Hanföl, das absolut THC- und terpenfrei ist. Mit einem Hanf-Geschmack und einer Vollspektrum-Formel bietet es eine hochwertige Ergänzung für die Gesundheit Ihres Vierbeiners.</p>
+<p>Für die tägliche Pflege werden in der Regel 8 Tropfen empfohlen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9239808868688</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">69.97</s:price>
+      <s:sku>2157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9239808737616</id>
+    <published>2024-05-14T18:17:20+02:00</published>
+    <updated>2024-05-14T18:17:20+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cbd-oel-fuer-hunde"/>
+    <title>CBD Öl für Hunde 5%</title>
+    <s:type></s:type>
+    <s:vendor>cbd-shinygram.de</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/Shinygram_cbd_dog_5.png?v=1715703459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>cbd-shinygram.de<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            24.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h2>CBD Öl für Hunde kaufen</h2>
+<p>Der Extrakt stammt aus Hanf, der ohne den Einsatz von Pestiziden und Herbiziden angebaut wird.</p>
+<p>Das enthaltene Vitamin E schützt die Körperzellen deines vierbeinigen Freundes vor freien Radikalen und stärkt sein Immunsystem. Essenzielle ungesättigte Fettsäuren (Omega-3) hingegen sind gut für die Gesundheit des Herzens und des Herz-Kreislauf-Systems sowie für die Haut und tragen dazu bei, dass das Fell Ihres Haustieres glänzt. Es handelt sich um ein Kosmetikprodukt.</p>
+<p><strong>Empfohlene Dosierung/Tag:</strong> 1 Tropfen pro 5 kg Gewicht des Hundes</p>
+<p><strong>CBD-Gehalt in 1 Tropfen:</strong> 2,5 mg CBD</p>
+<p><strong>Lagerung:</strong> an einem kühlen Ort und von direktem Sonnenlicht geschützt</p>
+<p><strong>Haltbarkeitsdatum:</strong> 6 Monate ab Öffnung</p>
+<p><strong>Inhaltsstoffe:</strong> Lachsöl &amp; Breitspektrum-Hanfextrakt (CBD 500 mg, THC ≦ 0,05%)</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9239808737616</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">24.97</s:price>
+      <s:sku>40022</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9239808508240</id>
+    <published>2024-05-14T18:17:03+02:00</published>
+    <updated>2024-05-14T18:17:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cbd-oel-fuer-katzen"/>
+    <title>CBD-Öl für Katzen 5%</title>
+    <s:type></s:type>
+    <s:vendor>ShinyGram.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/Shinygram_cbd_cat_5.png?v=1715703438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>ShinyGram.com<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            24.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Qualitätssicherheit:</strong> Mit einem Sicherheitsbericht für jedes Öl garantieren wir Reinheit und Qualität.</p>
+<p><strong>Herstellung aus Hanfblättern:</strong> Unser CBD Öl wird ausschließlich aus Hanfblättern gewonnen, bestätigt durch schriftliche Herstellerangaben.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Empfohlene Dosierung/Tag:</strong> 1 Tropfen pro 5 kg Gewicht der Katze</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">CBD-Gehalt in 1 Tropfen:</strong>  circa 2,5 mg CBD</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Lagerung:</strong> an einem kühlen Ort und von direktem Sonnenlicht geschützt</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Haltbarkeitsdatum:</strong> 6 Monate ab Öffnung</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Inhaltsstoffe:</strong> Lachsöl &amp; Breitspektrum-Hanfextrakt (CBD 500 mg, THC ≦ 0,05%)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9239808508240</id>
+      <title>5%</title>
+      <s:price currency="EUR">24.97</s:price>
+      <s:sku>4440000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

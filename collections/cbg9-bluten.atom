@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/cbg9-bluten.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-07-02T16:07:25+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9293916963152</id>
+    <published>2024-07-02T16:07:25+02:00</published>
+    <updated>2024-07-02T16:07:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cannastra-cbg9-blute-fruity-big-bang-cbg9-85-qualitat-1g-100g"/>
+    <title>CBG9 Blüten 85% -  Fruity Big Bang</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/CBG9_blueten_fruitybigbang.png?v=1720001916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            11.97 - 45.97
+            <a href="https://hhcfriends.de/products/cannastra-cbg9-blute-fruity-big-bang-cbg9-85-qualitat-1g-100g">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>CBG9 Blüten 85% - Fruity Big Bang</strong></p>
+<p>Erlebe den fruchtigen Urknall mit unseren CBG9 Blüten! Diese erstklassigen Blüten werden aus industriellem Hanf gewonnen und mit 85%igem CBG9-Destillat veredelt.</p>
+<p><strong>Zutaten:</strong></p>
+<ul>
+<li>Industrielle Hanfblüten</li>
+<li>CBG9-Destillat (85%ige Qualität)</li>
+</ul>
+<p><strong>Produktdetails:</strong></p>
+<ul>
+<li>THC-Gehalt: weniger als 0,1 %</li>
+<li>CBD-Gehalt: weniger als 3,0 %</li>
+<li>CBG9-Gehalt: 20 % (85% Qualität)</li>
+<li>Hanfsorte: Tropical Kush</li>
+<li>Geschmack: Fruchtiger Urknall</li>
+</ul>
+<p><strong>Wichtige Hinweise:</strong></p>
+<ul>
+<li>Verkauf nur an Personen ab 18 Jahren.</li>
+<li>Außerhalb der Reichweite von Kindern aufbewahren.</li>
+<li>Nicht für Schwangere geeignet.</li>
+<li>Keine Haftung für Schäden oder unsachgemäße Handhabung.</li>
+<li>Vermeide den Gebrauch von Fahrzeugen und Maschinen nach dem Konsum.</li>
+<li>Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke bestimmt.</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9293916963152</id>
+      <title>1g</title>
+      <s:price currency="EUR">11.97</s:price>
+      <s:sku>5208</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9293916963152</id>
+      <title>5g</title>
+      <s:price currency="EUR">45.97</s:price>
+      <s:sku>5209</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9293936722256</id>
+    <published>2024-07-02T16:07:23+02:00</published>
+    <updated>2024-07-02T16:07:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/canntropy-cbg9-blutenzuckerkeks-cbg9-qualitat-85-1-g-100-g"/>
+    <title>CBG9 - Sugar Cookie 85%</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/CBG9_blueten_sugarcookie.png?v=1720002172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            11.97 - 45.97
+            <a href="https://hhcfriends.de/products/canntropy-cbg9-blutenzuckerkeks-cbg9-qualitat-85-1-g-100-g">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>CBG9 Sugar Cookie 85%</strong></p>
+<p>Erlebe den einzigartigen Genuss von CBG9 in der Sorte Sugar Cookie. Mit einem CBG9-Gehalt von 85% und einem THC-Gehalt von weniger als 0,2% bietet dir dieses Produkt eine erstklassige Qualität.</p>
+<p><strong>Produktdetails:</strong></p>
+<ul>
+<li>
+<strong>Sorte:</strong> Sugar Cookie</li>
+<li>
+<strong>CBG9 Qualität:</strong> 85%</li>
+<li>
+<strong>THC-Gehalt:</strong> weniger als 0,2%</li>
+</ul>
+<p><strong>Wichtige Hinweise:</strong></p>
+<ul>
+<li>Verkauf nur an Personen ab 18 Jahren.</li>
+<li>Außerhalb der Reichweite von Kindern aufbewahren.</li>
+<li>Nicht für Schwangere geeignet.</li>
+<li>Keine Haftung für Schäden oder unsachgemäße Handhabung.</li>
+<li>Nach dem Konsum solltest du auf das Bedienen von Fahrzeugen und Maschinen verzichten.</li>
+<li>Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke bestimmt.</li>
+</ul>
+<p>Genieße die feine, süße Note von Sugar Cookie und entdecke die Welt von CBG9 in höchster Reinheit und Qualität.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9293936722256</id>
+      <title>1g</title>
+      <s:price currency="EUR">11.97</s:price>
+      <s:sku>5214</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9293936722256</id>
+      <title>5g</title>
+      <s:price currency="EUR">45.97</s:price>
+      <s:sku>5215</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

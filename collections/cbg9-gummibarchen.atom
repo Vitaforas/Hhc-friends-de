@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/cbg9-gummibarchen.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-07-08T14:03:01+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/9301667348816</id>
+    <published>2024-07-08T14:03:01+02:00</published>
+    <updated>2024-07-08T14:03:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cbg9-gummibarchen-strawberry-5stuck"/>
+    <title>CBG9 Gummibärchen Strawberry 5Stück</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/CBG9_GUMMIES_strawberry_canapuff.png?v=1720445932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            22.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="w-full text-token-text-primary" data-testid="conversation-turn-2">
+<div class="px-4 py-2 justify-center text-base md:gap-6 m-auto">
+<div class="flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group">
+<div class="flex-shrink-0 flex flex-col relative items-end">
+<div class="pt-0.5">
+<div class="gizmo-shadow-stroke flex h-6 w-6 items-center justify-center overflow-hidden rounded-full">
+<div class="relative flex">
+<div class="w-full text-token-text-primary" data-testid="conversation-turn-2">
+<div class="px-4 py-2 justify-center text-base md:gap-6 m-auto">
+<div class="flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group">
+<div class="flex-shrink-0 flex flex-col relative items-end">
+<div class="pt-0.5">
+<p><strong>CBG9 Gummibärchen - Erdbeere</strong></p>
+<p>Entdecke die köstlichen CBG9 Gummibärchen in der Geschmacksrichtung Erdbeere! Diese Gummibärchen sind in verschiedenen verlockenden Geschmacksrichtungen erhältlich, sodass du genau diejenige auswählen kannst, die deinem Geschmack am besten entspricht. Egal für welche Geschmacksrichtung du dich entscheidest, jedes Bonbon ist vollgepackt mit Geschmack und bietet gleichzeitig die potenziellen Vorteile von CBG9.</p>
+<p>CBG9 ist ein neues Cannabinoid mit einer einzigartigen chemischen Zusammensetzung, die es von anderen Cannabinoiden unterscheidet. Es hat eine ähnliche Wirkung wie HHC (Hexahydrocannabinol), sodass du Euphorie und Entspannung erleben kannst. Diese Eigenschaften machen CBG9 für eine breite Palette von Konsumenten attraktiv, vom Anfänger bis zum erfahrenen Cannabinoid-Kenner. CBG9 stellt nicht nur einen Durchbruch auf dem Gebiet der Cannabinoide dar, sondern erweitert auch unser Wissen und unsere Wahlmöglichkeiten in Bezug auf Wellness und Gesundheit.</p>
+<p><strong>Erdbeer-Geschmack</strong></p>
+<p>Die Erdbeer-Gummis bieten dir den reichhaltigen und süßen Geschmack von reifen Erdbeeren, der ein angenehmes fruchtiges Gefühl im Mund hinterlässt. Diese Geschmacksrichtung ist perfekt für alle, die klassische Fruchtaromen mit einem Hauch von Süße mögen. Jedes Bonbon wird sorgfältig zubereitet, um ein authentisches und intensives Geschmackserlebnis zu bieten. Die Süße der Erdbeeren ist so ausgewogen, dass sie die weiche Textur der Gummibonbons perfekt ergänzt.</p>
+<p><strong>Hinweis:</strong> CBG9 ist nicht zur direkten Einnahme bestimmt.</p>
+<ul>
+<li>Abgabe erst ab 18 Jahren möglich.</li>
+<li>Außerhalb der Reichweite von Kindern aufbewahren.</li>
+<li>Nicht für Schwangere geeignet.</li>
+<li>Keine Haftung für Schäden oder unsachgemäße Handhabung.</li>
+<li>Vermeide das Führen von Fahrzeugen und den Umgang mit Maschinen nach dem Konsum.</li>
+<li>Unsere Produkte sind nur für wissenschaftliche Zwecke geeignet.</li>
+</ul>
+<p>Genieße den süßen Erdbeergeschmack und die entspannende Wirkung der CBG9 Gummibärchen!</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9301667348816</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">22.97</s:price>
+      <s:sku>5200</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9301666562384</id>
+    <published>2024-07-08T14:01:40+02:00</published>
+    <updated>2024-07-08T14:01:40+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cbg9-gummibarchen-sour-cherry-5stuck"/>
+    <title>CBG9 Gummibärchen Sour Cherry 5Stück</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/CBG9_GUMMIES_sourcherry.png?v=1720445950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            22.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="w-full text-token-text-primary" data-testid="conversation-turn-2">
+<div class="px-4 py-2 justify-center text-base md:gap-6 m-auto">
+<div class="flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group">
+<div class="flex-shrink-0 flex flex-col relative items-end">
+<div class="pt-0.5">
+<div class="gizmo-shadow-stroke flex h-6 w-6 items-center justify-center overflow-hidden rounded-full">
+<div class="relative flex">
+<div class="w-full text-token-text-primary" data-testid="conversation-turn-2">
+<div class="px-4 py-2 justify-center text-base md:gap-6 m-auto">
+<div class="flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group">
+<div class="flex-shrink-0 flex flex-col relative items-end">
+<div class="pt-0.5">
+<p><strong>CBG9 Gummies - Sour Cherry</strong></p>
+<p>Entdecke die köstlichen CBG9 Gummies in der aufregenden Geschmacksrichtung Sauerkirsche. Diese Gummibärchen bieten dir ein intensives Geschmackserlebnis, das die perfekte Balance zwischen süß und sauer trifft. Der kräftige Sauerkirschgeschmack wird dich sofort begeistern und ist ideal für alle, die fruchtige und erfrischende Aromen lieben.</p>
+<p><strong>Warum CBG9 Gummies?</strong> CBG9 ist ein neues Cannabinoid mit einer einzigartigen chemischen Zusammensetzung, das sich von anderen Cannabinoiden abhebt. Ähnlich wie HHC (Hexahydrocannabinol) kann CBG9 Euphorie und Entspannung hervorrufen, was es für eine breite Palette von Konsumenten attraktiv macht – vom Anfänger bis zum erfahrenen Cannabinoid-Kenner. Mit CBG9 kannst du nicht nur neue Wege im Bereich Wellness und Gesundheit entdecken, sondern auch von den potenziellen Vorteilen dieses innovativen Cannabinoids profitieren.</p>
+<p><strong>Sour Cherry Geschmack:</strong> Unsere Sour Cherry Gummies sind die perfekte Mischung aus süß und sauer. Der intensive Sauerkirschgeschmack wird durch eine subtile Süße ausgeglichen, was für eine unvergessliche Geschmackskombination sorgt. Jedes Bonbon wird sorgfältig hergestellt, um dir ein reichhaltiges und erfrischendes Geschmackserlebnis zu bieten.</p>
+<p><strong>Hinweis:</strong> CBG9 ist nicht zur direkten Einnahme bestimmt. Verkauf nur an Personen ab 18 Jahren. Außerhalb der Reichweite von Kindern aufbewahren. Nicht für Schwangere geeignet. Keine Haftung für Schäden oder unsachgemäße Handhabung. Vermeide das Führen von Fahrzeugen und den Umgang mit Maschinen nach dem Konsum. Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke bestimmt.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9301666562384</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">22.97</s:price>
+      <s:sku>5199</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9301665775952</id>
+    <published>2024-07-08T14:00:16+02:00</published>
+    <updated>2024-07-08T14:00:16+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cbg9-gummibarchen-sour-apple-5stuck"/>
+    <title>CBG9 Gummibärchen Sour Apple 5Stück</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/CBG9_GUMMIES_sourapple.png?v=1720445970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            22.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="w-full text-token-text-primary" data-testid="conversation-turn-2">
+<div class="px-4 py-2 justify-center text-base md:gap-6 m-auto">
+<div class="flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group">
+<div class="flex-shrink-0 flex flex-col relative items-end">
+<div class="pt-0.5">
+<div class="gizmo-shadow-stroke flex h-6 w-6 items-center justify-center overflow-hidden rounded-full">
+<div class="relative flex">
+<div class="w-full text-token-text-primary" data-testid="conversation-turn-2">
+<div class="px-4 py-2 justify-center text-base md:gap-6 m-auto">
+<div class="flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group">
+<div class="flex-shrink-0 flex flex-col relative items-end">
+<div class="pt-0.5">
+<p><strong>CBG9 Gummies - Sour Apple</strong></p>
+<p>Entdecke die aufregende Welt der CBG9 Gummies in der Geschmacksrichtung Saurer Apfel. Diese leckeren Gummies bieten dir ein intensives und frisches saures Apfelerlebnis, das perfekt für Liebhaber von sauren Süßigkeiten ist. Die Kombination aus süß und sauer sorgt für ein ausgewogenes Geschmacksprofil, das dich begeistern wird.</p>
+<p>CBG9 ist ein neues Cannabinoid mit einer einzigartigen chemischen Zusammensetzung, das sich von anderen Cannabinoiden abhebt. Es bietet eine ähnliche Wirkung wie HHC (Hexahydrocannabinol), sodass du Euphorie und Entspannung erleben kannst. Dies macht CBG9 für ein breites Spektrum von Konsumenten attraktiv, vom Anfänger bis zum erfahrenen Cannabinoid-Kenner.</p>
+<p>Jedes Bonbon ist sorgfältig hergestellt, um den authentischen Geschmack des sauren Apfels zu bewahren und dir ein unvergessliches Erlebnis zu bieten. Genieße die köstlichen CBG9 Gummies und die potenziellen Vorteile, die CBG9 zu bieten hat.</p>
+<p><strong>Hinweis:</strong></p>
+<ul>
+<li>CBG9 ist nicht zur direkten Einnahme bestimmt.</li>
+<li>Verkauf nur an Personen ab 18 Jahren.</li>
+<li>Außerhalb der Reichweite von Kindern aufbewahren.</li>
+<li>Nicht für Schwangere geeignet.</li>
+<li>Keine Haftung für Schäden oder unsachgemäße Handhabung.</li>
+<li>Vermeide das Führen von Fahrzeugen und den Umgang mit Maschinen nach dem Konsum.</li>
+<li>Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke bestimmt.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9301665775952</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">22.97</s:price>
+      <s:sku>5198</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9301665186128</id>
+    <published>2024-07-08T13:58:35+02:00</published>
+    <updated>2024-07-08T13:58:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cbg9-gummibarchen-raspberry-5stuck"/>
+    <title>CBG9 Gummibärchen Raspberry 5Stück</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/CBG9_GUMMIES_raspberry.png?v=1720445991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            22.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="w-full text-token-text-primary" data-testid="conversation-turn-2">
+<div class="px-4 py-2 justify-center text-base md:gap-6 m-auto">
+<div class="flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group">
+<div class="flex-shrink-0 flex flex-col relative items-end">
+<div class="pt-0.5">
+<div class="gizmo-shadow-stroke flex h-6 w-6 items-center justify-center overflow-hidden rounded-full">
+<div class="relative flex">
+<div class="w-full text-token-text-primary" data-testid="conversation-turn-2">
+<div class="px-4 py-2 justify-center text-base md:gap-6 m-auto">
+<div class="flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group">
+<div class="flex-shrink-0 flex flex-col relative items-end">
+<div class="pt-0.5">
+<p><strong>CBG9 Gummies - Raspberry</strong></p>
+<p>Erlebe den köstlichen Geschmack unserer CBG9 Gummibärchen in der Geschmacksrichtung Himbeere! Diese Gummibärchen bieten dir nicht nur ein intensives Geschmackserlebnis, sondern auch die potenziellen Vorteile von CBG9, einem neuen Cannabinoid mit einzigartigen Eigenschaften. CBG9 wirkt ähnlich wie HHC (Hexahydrocannabinol), sodass du Euphorie und Entspannung erleben kannst. Diese Eigenschaften machen CBG9 attraktiv für ein breites Spektrum an Konsumenten, vom Anfänger bis zum erfahrenen Cannabinoid-Kenner.</p>
+<p><strong>Raspberry</strong></p>
+<p>Die Raspberry Gummies bieten den süßen und erfrischenden Geschmack reifer Himbeeren, perfekt für alle Fruchtliebhaber. Mit einem intensiven Fruchtgeschmack und einer dezenten Säure sorgen sie für ein ausgewogenes und angenehmes Geschmackserlebnis. Dank der sorgfältigen Auswahl der Zutaten und der hohen Qualitätsstandards überzeugt jedes Bonbon durch seinen authentischen und unvergesslichen Geschmack.</p>
+<p><strong>Hinweise:</strong></p>
+<ul>
+<li>CBG9 ist nicht zur direkten Einnahme bestimmt.</li>
+<li>Verkauf nur an Personen ab 18 Jahren.</li>
+<li>Außerhalb der Reichweite von Kindern aufbewahren.</li>
+<li>Nicht für Schwangere geeignet.</li>
+<li>Keine Haftung für Schäden oder unsachgemäße Handhabung.</li>
+<li>Vermeide das Führen von Fahrzeugen und den Umgang mit Maschinen nach dem Konsum.</li>
+<li>Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke geeignet.</li>
+</ul>
+<p>Genieße den unvergleichlichen Geschmack und die entspannende Wirkung unserer CBG9 Gummies - Raspberry!</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9301665186128</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">22.97</s:price>
+      <s:sku>5197</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9296897081680</id>
+    <published>2024-07-04T20:05:13+02:00</published>
+    <updated>2024-07-04T20:05:13+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/10-oh-hhc-fruchtgummi-mix"/>
+    <title>10-OH-HHC Gummibärchen Fruchtgummi-Mix 10 Stück</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/10OH_HHC_GUMMIES_strawberry_lemon_banana_apple.png?v=1720447351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            29.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>10-OH-HHC Gummibärchen Fruchtgummi-Mix (10 Stück)</strong></p>
+<p>Bestelle jetzt deine 10-OH-HHC Gummibärchen und genieße den leckeren Fruchtgummi-Mix. Diese Gummibärchen sind ideal für dich, wenn du nach einer angenehmen und einfachen Möglichkeit suchst, 10-OH-HHC zu erleben.</p>
+<p><strong>Produktdetails:</strong></p>
+<ul>
+<li>Packungsinhalt: 10 Stück</li>
+<li>10-OH-HHC-Gehalt: 2mg pro Stück</li>
+<li>Gesamter 10-OH-HHC-Gehalt: 20mg</li>
+<li>THC-frei</li>
+<li>Glutenfrei</li>
+</ul>
+<p><strong>Warnung:</strong></p>
+<ul>
+<li>Nicht dem direkten Sonnenlicht aussetzen.</li>
+<li>An einem trockenen Ort aufbewahren.</li>
+<li>Außerhalb der Reichweite von Kindern und Haustieren aufbewahren.</li>
+</ul>
+<p><strong>Wichtige Hinweise:</strong></p>
+<ul>
+<li>Verkauf nur an Personen ab 18 Jahren.</li>
+<li>Nicht für Schwangere geeignet.</li>
+<li>Keine Haftung für Schäden oder unsachgemäße Handhabung.</li>
+<li>Vermeide das Führen von Fahrzeugen und den Umgang mit Maschinen nach dem Konsum.</li>
+<li>Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke bestimmt.</li>
+</ul>
+<p>Genieße die Vielfalt und den Geschmack des Fruchtgummi-Mixes mit den 10-OH-HHC Gummibärchen!</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9296897081680</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">29.97</s:price>
+      <s:sku>5207</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/9019295072592</id>
+    <published>2024-03-08T11:23:30+01:00</published>
+    <updated>2024-03-08T11:23:30+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/cbg9-gummibarchen-candy-cotton"/>
+    <title>CBG9 Gummibärchen Candy Cotton 5Stück</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/CBG9_gummies_candycotton.png?v=1710321451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            22.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="w-full text-token-text-primary" data-testid="conversation-turn-2">
+<div class="px-4 py-2 justify-center text-base md:gap-6 m-auto">
+<div class="flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group">
+<div class="flex-shrink-0 flex flex-col relative items-end">
+<div class="pt-0.5">
+<div class="gizmo-shadow-stroke flex h-6 w-6 items-center justify-center overflow-hidden rounded-full">
+<div class="relative flex">
+<div class="w-full text-token-text-primary" data-testid="conversation-turn-2">
+<div class="px-4 py-2 justify-center text-base md:gap-6 m-auto">
+<div class="flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group">
+<div class="flex-shrink-0 flex flex-col relative items-end">
+<div class="pt-0.5">
+<p><strong>CBG9 Gummibärchen online kaufen - Süßigkeiten mit einem Hauch von Wohlbefinden</strong></p>
+<p>Entdecke unsere exquisiten CBG9 Gummibärchen, die nicht nur köstlich schmecken, sondern dir auch die potenziellen Vorteile von CBG9, einem innovativen Cannabinoid mit einzigartiger chemischer Zusammensetzung, bieten.</p>
+<p>CBG9, ähnlich wie HHC (Hexahydrocannabinol), bietet ein breites Spektrum an Erfahrungen von Euphorie bis Entspannung, was es für viele Konsumenten attraktiv macht. Dieser Durchbruch in der Welt der Cannabinoide erweitert nicht nur unser Verständnis, sondern auch die Möglichkeiten im Bereich Wellness und Gesundheit.</p>
+<p><strong>Erlebe Candy Cotton - Ein Wintermärchen in Süß</strong></p>
+<p>Tauche ein in die unwiderstehliche Geschmackswelt von Candy Cotton, einer herrlichen Mischung aus süßer Minze und cremiger Vanille. Inspiriert von einer kreativen Kreuzung aus AK-47, Mango und White Widow, entführt dich dieses Aroma direkt in ein Winterwunderland voller Leichtigkeit und Süße. Gönn dir einen Moment der Entspannung und genieße die verschneite Landschaft, ganz ohne dein Zuhause verlassen zu müssen.</p>
+<p><strong>Hinweis:</strong> CBG9 ist nicht zur direkten Einnahme bestimmt.</p>
+<p><strong>Wichtige Hinweise:</strong></p>
+<ul>
+<li>Verkauf nur an Personen ab 18 Jahren.</li>
+<li>Außerhalb der Reichweite von Kindern aufbewahren.</li>
+<li>Nicht für Schwangere geeignet.</li>
+<li>Keine Haftung für Schäden oder unsachgemäße Handhabung.</li>
+<li>Vermeide das Führen von Fahrzeugen und den Umgang mit Maschinen nach dem Konsum.</li>
+<li>Unsere Produkte sind ausschließlich für wissenschaftliche Zwecke bestimmt.</li>
+</ul>
+<p>Genieße die leckeren CBG9 Gummibärchen Candy Cotton und tauche ein in eine Welt des Wohlbefindens!</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/9019295072592</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">22.97</s:price>
+      <s:sku>5157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
