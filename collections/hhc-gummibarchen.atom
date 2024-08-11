@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/hhc-gummibarchen.atom"/>
+  <title>hhcfriends</title>
+  <updated>2023-10-21T23:06:08+02:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/8681990717776</id>
+    <published>2023-10-21T23:06:08+02:00</published>
+    <updated>2023-10-21T23:06:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hhc-gummibarchen-kirsche"/>
+    <title>HHC Gummibärchen - Kirsche</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/HHC_Gummies_kirsche_hhc.png?v=1700830660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            19.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong><meta charset="UTF-8"> </strong>
+<h2>HHC Gummibärchen Kirsche online kaufen</h2>
+<p>Tauche ein in das Geschmackserlebnis von Canapuff - HHC Gummies - Kirsche. Sie zergehen sanft auf deiner Zunge und entführen dich in ein Universum voller verblüffender Geschmacksnuancen und Sensationen.</p>
+<p>Die HHC Gummies von Canapuff sind das Resultat einer meisterhaften Vermischung von natürlichen Inhaltsstoffen und erstklassigem Hanfextrakt, die dir ein unvergessliches Geschmackserlebnis bieten. Jedes dieser Geleebonbons ist mit Sorgfalt hergestellt, um höchste Wirksamkeit und Reinheit sicherzustellen.</p>
+<p>Lass dich von dem köstlichen Kirschgeschmack unserer HHC-Gummies verzaubern. Die süße Frische von Kirschen kombiniert mit dem dezenten Hanfaroma ergibt eine Geschmacksexplosion, die du so nicht erwartet hättest.</p>
+<p>Freu dich auf eine Hybridmischung, die deinen Geschmackssinn mit ihrem süßen, intensiven und erdigen Aroma begeistert. Wie fühlt es sich an? Du wirst dich belebt, inspiriert und voller Tatendrang fühlen.</p>
+<p><br><em>Packung mit 5 Gummibärchen <meta charset="utf-8">(25 mg pro Gummibärchen)</em><br><em>Insgesamt 125 mg Cannabinoide </em><br><br>Zutaten: <meta charset="UTF-8">Zucker, Maissirup, Pektin, Sonnenblumenöl, Wasser, Aromastoffe, Natriumcitrat, Natriumsulfat, Zitronensäure, sowohl natürliche als auch künstliche Farbstoffe, 25 mg Hanfextrakt und pflanzliche Terpene.<br><br>ANWENDUNG:<br>Nimm nur ein halbes Gummibärchen und warte 60-90 Minuten, um die volle Wirkung zu fühlen.<br><br><meta charset="UTF-8"></p>
+<p>Fünf unschlagbare Gründe für Canapuff - HHC Gummies - Kirsche:</p>
+<ol>
+<li>Pures Hanfextrakt: In jedem Bärchen stecken 25 mg dieses Extrakts.</li>
+<li>Unverwechselbarer Kirschgeschmack: Echte und zusätzliche Aromen sorgen für ein unvergleichliches Geschmackserlebnis.</li>
+</ol>
+<ol start="3">
+<li>Kein Delta 9: Mit 0% Delta 9 genießt du alle HHC-Vorteile ohne unerwünschte Effekte.</li>
+<li>Mit 5 Gummies pro Packung ist die Dosierung kinderleicht.</li>
+<li>Nach diesen Gummies fühlst du dich beschwingt, ideenreich und voller Power.</li>
+</ol>
+<p> <br></p>
+<p><meta charset="utf-8"><em>Warnhinweis: Nicht für Kinder und Jugendliche geeignet. Nicht geeignet für schwangere und stillende Frauen. Empfohlene Dosierung nicht überschreiten. Nicht in Kombination mit Alkohol verwenden. Im Zweifelsfall fragen Sie Ihren Arzt. HHC kann die Reaktionsgeschwindigkeit verringern. Es wird nicht empfohlen, während der Einnahme Auto zu fahren oder (schwere) Maschinen zu bedienen. Nahrungsergänzungsmittel sind kein Ersatz für eine abwechslungsreiche Ernährung. An einem trockenen Ort bei einer Temperatur von 10 bis 20 °C aufbewahren. Nicht dem direkten Sonnenlicht aussetzen. Außerhalb der Reichweite von Kindern und Tieren aufbewahren. Nicht für den Verkauf an Personen unter 18 Jahren bestimmt.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8681990717776</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.97</s:price>
+      <s:sku>1318</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8681954541904</id>
+    <published>2023-10-21T23:06:06+02:00</published>
+    <updated>2023-10-21T23:06:06+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hhc-gummibarchen-heidelbeere"/>
+    <title>HHC Gummibärchen - Heidelbeere</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/HHC_Gummibaechen_blueberry.png?v=1700830571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            18.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong><meta charset="UTF-8"> </strong>
+<h2>HHC Gummibärchen Heidelbeere </h2>
+<p>Spezielles Blaubeer-Terpenaroma kombiniert mit kräftigem Zitrusklang &amp; der Süße von Vanille und floralen Akzenten. Diese schmackhafte Kombination wird durch den Terpen-Mix verstärkt, um dir dabei zu helfen, dich zu beruhigen und zu relaxen.</p>
+<p>Probiere diese leckeren Bonbons, prall gefüllt mit natürlichen Terpenen und einem herrlichen Blaubeergeschmack. Ein Geschmack, der dich sofort an die herrlichen Berge erinnert, die im Sommer mit glitzernden blauen Beeren übersät sind. Für alle, die nach einem erstklassigen HHC-Produkt suchen, sind die Canapuff - HHC Gummies - Blueberry genau das Richtige.<br><br><br><em>Packung mit 5 Gummibärchen <meta charset="utf-8">(25 mg pro Gummibärchen)</em><br><em>Insgesamt 125 mg Cannabinoide </em><br><br>Zutaten: Zucker, Maissirup, Pektin, Sonnenblumenöl, Wasser, natürliche und künstliche Lebensmittelfarben, 25 mg Hanfextrakt und Terpene aus Pflanzen.<br><br><br>ANWENDUNG:<br>Nimm nur ein halbes Gummibärchen und warte 60-90 Minuten, um die volle Wirkung zu fühlen.<br><br></p>
+<p><br></p>
+<p><meta charset="utf-8"><em>Warnhinweis: Nicht für Kinder und Jugendliche geeignet. Nicht geeignet für schwangere und stillende Frauen. Empfohlene Dosierung nicht überschreiten. Nicht in Kombination mit Alkohol verwenden. Im Zweifelsfall fragen Sie Ihren Arzt. HHC kann die Reaktionsgeschwindigkeit verringern. Es wird nicht empfohlen, während der Einnahme Auto zu fahren oder (schwere) Maschinen zu bedienen. Nahrungsergänzungsmittel sind kein Ersatz für eine abwechslungsreiche Ernährung. An einem trockenen Ort bei einer Temperatur von 10 bis 20 °C aufbewahren. Nicht dem direkten Sonnenlicht aussetzen. Außerhalb der Reichweite von Kindern und Tieren aufbewahren. Nicht für den Verkauf an Personen unter 18 Jahren bestimmt.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8681954541904</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">18.97</s:price>
+      <s:sku>1307</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

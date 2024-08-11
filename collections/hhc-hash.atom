@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hhcfriends.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hhcfriends.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hhcfriends.de/collections/hhc-hash.atom"/>
+  <title>hhcfriends</title>
+  <updated>2024-01-20T12:35:14+01:00</updated>
+  <author>
+    <name>hhcfriends</name>
+  </author>
+  <entry>
+    <id>https://hhcfriends.de/products/8762046841168</id>
+    <published>2024-01-20T12:35:14+01:00</published>
+    <updated>2024-01-20T12:35:14+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hhc-bluten-watermelon-og-40-i-pot"/>
+    <title>HHC  Watermelon OG 40% - I♡POT</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/hhc_ilovepot_watermelon_og_blueten.png?v=1705577690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            10.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Watermelon HHC-Blüten - ein Trip in die Exotik mit süßem Wassermelonen-Geschmack und fettem 40%igem HHC-Gehalt. </p>
+<p><strong>Inhalt</strong></p>
+<ul>
+<li>40% HHC (reines HHC-Destillat 99%)</li>
+<li>6% CBD</li>
+<li>CBG-Anteil</li>
+<li>&lt;0,2% THC</li>
+<li>natürliche Terpene</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<p><meta charset="utf-8"><span>Produkt nach dem Gesetz §5 Nr. 167/1998. Bestimmt für industrielle, technische und gärtnerische Zwecke. Nicht zum direkten Verzehr oder Rauchen geeignet. Das Produkt unterliegt einem natürlichen Gewichtsverlust. Kein Verkauf an Personen unter 18 Jahren. Außerhalb der Reichweite von Kindern aufbewahren.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8762046841168</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.47</s:price>
+      <s:sku>2075</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8762037698896</id>
+    <published>2024-01-20T12:35:13+01:00</published>
+    <updated>2024-01-20T12:35:13+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hhc-bluten-mango-kush-40-i-pot"/>
+    <title>HHC  Mango Kush 40% - I♡POT</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/hhc_ilovepot_mango_kush_blueten_buds.png?v=1705577485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            10.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Saftige Mango-Kush Blüten, mit <meta charset="utf-8">krassem 40% HHC-Gehalt, bringen einen intensiven Duft mit. Diese hübschen, handgetrimmten Popcorn-Buds sind echt ein Must-Have für deine Blüten-Sammlung.</p>
+<p><strong>Inhalt</strong></p>
+<ul>
+<li>40% HHC (reines HHC-Destillat 99%)</li>
+<li>6% CBD</li>
+<li>CBG-Anteil</li>
+<li>&lt;0,2% THC</li>
+<li>natürliche Terpene</li>
+</ul>
+<ul></ul>
+<p><meta charset="utf-8"><span>Produkt nach dem Gesetz §5 Nr. 167/1998. Bestimmt für industrielle, technische und gärtnerische Zwecke. Nicht zum direkten Verzehr oder Rauchen geeignet. Das Produkt unterliegt einem natürlichen Gewichtsverlust. Kein Verkauf an Personen unter 18 Jahren. Außerhalb der Reichweite von Kindern aufbewahren.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8762037698896</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.47</s:price>
+      <s:sku>2074</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8762032685392</id>
+    <published>2024-01-20T12:35:13+01:00</published>
+    <updated>2024-01-20T12:35:13+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hhc-hash-lemon-og-49-i-pot"/>
+    <title>HHC Lemon OG 49% - I♡POT</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/hhc_cbg_ilovepot_lemon_og_hashish.png?v=1705576950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            10.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Die saftigen, naturpure Lemon-OG Terps geben diesem Hash einen echt einzigartigen Flavour-Kick. Vollgepackt mit fetten Cannabinoiden und Terpenen und genau auf die ultimative Qualität und Reinheit geprüft. Dieser Lemon-OG Hash ist super smooth wie Butter, lässt sich mega easy handlen und krümelt dabei null.</p>
+<p><strong>Inhalt</strong></p>
+<ul>
+<li>49% HHC (reines HHC-Destillat 99%)</li>
+<li>16% CBG</li>
+<li>&lt;0,1% THC</li>
+<li>natürliche Lemon-OG Terpene</li>
+</ul>
+<ul></ul>
+<p><meta charset="utf-8"><span>Produkt nach dem Gesetz §5 Nr. 167/1998. Bestimmt für industrielle, technische und gärtnerische Zwecke. Nicht zum direkten Verzehr oder Rauchen geeignet. Das Produkt unterliegt einem natürlichen Gewichtsverlust. Kein Verkauf an Personen unter 18 Jahren. Außerhalb der Reichweite von Kindern aufbewahren.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8762032685392</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.47</s:price>
+      <s:sku>2089</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hhcfriends.de/products/8761999589712</id>
+    <published>2024-01-20T12:35:12+01:00</published>
+    <updated>2024-01-20T12:35:12+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hhcfriends.de/products/hhc-hash-mango-kush-40-ipot"/>
+    <title>HHC Mango Kush 49% - I♡POT</title>
+    <s:type></s:type>
+    <s:vendor>hhcfriends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/3641/9100/files/hhc_cbg_ilovepot_lmango_kush_hashish.png?v=1705576517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>hhcfriends<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            10.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Das Hasch rockt mit einem krassen 49% HHC-Gehalt und kommt mit einem richtig chilligen, fruchtigen Vibe daher. Die Textur ist mega smooth, was das Handling easy macht – es lässt sich super shapen ohne zu krümeln.</p>
+<p><strong>Inhalt</strong></p>
+<ul>
+<li>49% HHC (reines HHC-Destillat 99%)</li>
+<li>16% CBG</li>
+<li>&lt;0,1% THC</li>
+<li>natürliche Mango-Kush Terpene</li>
+</ul>
+<p><meta charset="utf-8"><span>Produkt nach dem Gesetz §5 Nr. 167/1998. Bestimmt für industrielle, technische und gärtnerische Zwecke. Nicht zum direkten Verzehr oder Rauchen geeignet. Das Produkt unterliegt einem natürlichen Gewichtsverlust. Kein Verkauf an Personen unter 18 Jahren. Außerhalb der Reichweite von Kindern aufbewahren.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hhcfriends.de/products/8761999589712</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.47</s:price>
+      <s:sku>2090</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
